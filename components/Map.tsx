@@ -25,12 +25,12 @@ function MapContent({ projects, selectedCategory }: MapProps) {
   const map = useMap();
 
   useEffect(() => {
-    // Fit bounds to show all markers when data changes
-    if (projects.length > 0) {
+    // Fit bounds to show all markers when data changes (only if multiple projects)
+    if (projects.length > 1) {
       const bounds = L.latLngBounds(
         projects.map(p => [p.latitude, p.longitude])
       );
-      map.fitBounds(bounds, { padding: [50, 50] });
+      map.fitBounds(bounds, { padding: [50, 50], maxZoom: 6 });
     }
   }, [projects, map]);
 
