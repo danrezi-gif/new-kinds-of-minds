@@ -81,9 +81,8 @@ CREATE POLICY "Anyone can view categories"
 -- Create indexes for performance
 CREATE INDEX idx_projects_status ON projects(status);
 CREATE INDEX idx_projects_category ON projects(category);
-CREATE INDEX idx_projects_location ON projects USING GIST (
-  ll_to_earth(latitude::float8, longitude::float8)
-);
+CREATE INDEX idx_projects_latitude ON projects(latitude);
+CREATE INDEX idx_projects_longitude ON projects(longitude);
 CREATE INDEX idx_projects_created_at ON projects(created_at DESC);
 
 -- Create function to update updated_at timestamp
