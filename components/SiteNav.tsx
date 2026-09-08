@@ -20,7 +20,7 @@ export default function SiteNav({ current, floating = false }: { current: string
       <Link
         href="/"
         className={`display no-underline text-[1.15rem] sm:text-[1.3rem] leading-none text-[var(--ink)] hover:text-[var(--ink)] ${
-          floating ? "pointer-events-auto bg-[var(--paper)]/90 backdrop-blur px-3 py-2 rounded-full border hair" : ""
+          floating ? "pointer-events-auto bg-[rgba(247,244,237,0.94)] backdrop-blur px-3 py-2 rounded-full border hair" : ""
         }`}
         style={{ fontFamily: "var(--font-display)", fontVariationSettings: '"SOFT" 60, "WONK" 1, "opsz" 24' }}
       >
@@ -29,7 +29,7 @@ export default function SiteNav({ current, floating = false }: { current: string
       <nav
         aria-label="Site"
         className={`${
-          floating ? "pointer-events-auto bg-[var(--paper)]/90 backdrop-blur rounded-full border hair px-1.5 py-1" : ""
+          floating ? "pointer-events-auto bg-[rgba(247,244,237,0.94)] backdrop-blur rounded-full border hair px-1.5 py-1" : ""
         } flex items-center gap-0.5 sm:gap-1 overflow-x-auto max-w-[70vw]`}
       >
         {links.map((l) => {

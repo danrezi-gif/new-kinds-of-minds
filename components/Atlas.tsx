@@ -108,7 +108,7 @@ export default function Atlas({ items, meta }: { items: Initiative[]; meta: { co
       {/* Panel */}
       <aside
         id="atlas-panel"
-        className={`absolute z-[550] left-0 top-0 bottom-0 w-full lg:w-[400px] lg:top-[68px] lg:bottom-4 lg:left-4 lg:rounded-[6px] lg:border hair bg-[var(--paper)]/95 backdrop-blur-sm flex flex-col shadow-[0_8px_30px_rgba(33,30,38,0.08)] transition-transform duration-300 ${
+        className={`absolute z-[550] left-0 top-0 bottom-0 w-full lg:w-[400px] lg:top-[68px] lg:bottom-4 lg:left-4 lg:rounded-[6px] lg:border hair bg-[rgba(247,244,237,0.97)] backdrop-blur-sm flex flex-col shadow-[0_8px_30px_rgba(33,30,38,0.08)] transition-transform duration-300 ${
           panelOpen ? "translate-y-0" : "translate-y-full lg:translate-y-0"
         } pt-[68px] lg:pt-0`}
         aria-label="Filters and list of initiatives"
@@ -260,7 +260,7 @@ export default function Atlas({ items, meta }: { items: Initiative[]; meta: { co
           className="absolute z-[560] right-0 bottom-0 left-0 lg:left-auto lg:top-[68px] lg:bottom-4 lg:right-4 lg:w-[420px] max-h-[70dvh] lg:max-h-none overflow-y-auto bg-[var(--paper)] border-t lg:border hair lg:rounded-[6px] shadow-[0_8px_30px_rgba(33,30,38,0.10)] rise"
           aria-label="Selected initiative"
         >
-          <div className="sticky top-0 bg-[var(--paper)]/95 backdrop-blur px-5 pt-3 pb-2 flex justify-end">
+          <div className="sticky top-0 bg-[rgba(247,244,237,0.97)] backdrop-blur px-5 pt-3 pb-2 flex justify-end">
             <button type="button" className="pill pill-small" onClick={() => select(null)} aria-label="Close details">
               Close
             </button>

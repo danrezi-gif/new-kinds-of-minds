@@ -1,0 +1,13 @@
+import fs from 'fs';
+const data = JSON.parse(fs.readFileSync('data/initiatives.json', 'utf8'));
+const items = data.initiatives;
+console.log('Total:', items.length);
+const urls = items.map(d => { try { return new URL(d.url).hostname.replace('www.',''); } catch(e){ return d.url; } });
+fs.writeFileSync('scratch_domains.txt', urls.sort().join('\n'));
+console.log('done, wrote', urls.length, 'domains');
+const ourCountries = ['RU','UA','BY','PL','CZ','SK','HU','RO','BG','RS','HR','BA','MK','SI','AL','XK','MD','LT','LV','EE','GE','AM','AZ','KZ','KG','UZ','TJ','MN'];
+const byCountry = {};
+items.forEach(i => { if(ourCountries.includes(i.country)) { byCountry[i.country] = (byCountry[i.country]||0)+1; } });
+console.log(byCountry);
+const existingInRegion = items.filter(i => ourCountries.includes(i.country));
+console.log(JSON.stringify(existingInRegion.map(i=>({id:i.id,name:i.name,country:i.country,url:i.url})), null, 2));

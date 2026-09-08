@@ -2,12 +2,94 @@
   "meta": {
     "version": "0.1.0",
     "generated": "2026-09-08",
-    "count": 102,
-    "countries": 47,
+    "count": 253,
+    "countries": 75,
     "license": "CC BY 4.0",
     "schema": "https://github.com/danrezi-gif/new-kinds-of-minds/blob/main/data/SCHEMA.md"
   },
   "initiatives": [
+    {
+      "id": "npf-aland",
+      "name": "NPF Åland",
+      "name_local": null,
+      "summary": "Åland Islands association spreading knowledge about neuropsychiatric disabilities and advocating for the rights of people with them, running member support groups and a youth forum called Simuli.",
+      "type": "advocacy",
+      "focus": [
+        "adhd",
+        "neurodiversity-general"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "AX",
+      "country_name": "Åland Islands",
+      "region": "Mariehamn",
+      "lat": 60.0972,
+      "lng": 19.9348,
+      "languages": [
+        "sv"
+      ],
+      "url": "https://npf.ax",
+      "source_url": "https://adhdeurope.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "One of ADHD Europe's newest (2025) national member organisations. Affiliated with Funktionsrätt Åland and ABF Åland."
+    },
+    {
+      "id": "albanian-children-foundation",
+      "name": "Albanian Children Foundation",
+      "name_local": "Fondacioni Femijeve Shqiptare",
+      "summary": "A Tirana-based Albanian charity working on child health broadly, which runs a National Center for Autism and related training and awareness campaigns in Tirana, Farkë, Kukës and Tetova.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "AL",
+      "country_name": "Albania",
+      "region": "Tirana",
+      "lat": 41.33,
+      "lng": 19.82,
+      "languages": [
+        "sq"
+      ],
+      "url": "https://albanianchildren.org/",
+      "source_url": "https://albanianchildren.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Autism-Europe affiliated member, listed under 'Associated Members' as Albania's representative. The organisation's overall remit is broader child-health humanitarian work (also covering thalassemia and general child welfare); autism is one dedicated programme (its National Center for Autism), not its sole focus. Included for country diversity; flagged here for editorial review."
+    },
+    {
+      "id": "autea-andorra",
+      "name": "AUTEA (Andorra Autism Association)",
+      "name_local": "Associació d'Afectats d'Autisme d'Andorra",
+      "summary": "Andorra's national autism association, based in Andorra la Vella, listed as a full member of Autism-Europe representing autistic people and families in the microstate.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "AD",
+      "country_name": "Andorra",
+      "region": "Andorra la Vella",
+      "lat": 42.51,
+      "lng": 1.52,
+      "languages": [
+        "ca"
+      ],
+      "url": "https://www.autea.org/",
+      "source_url": "https://www.autismeurope.org/wp-content/uploads/2026/08/Members-associations-of-Autism-Europe_Aug2026.pdf",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site returned no readable content to automated fetch (likely a JS-rendered page) despite a live 202 response; existence and details drawn from Autism-Europe's official August 2026 member directory. Founding year and leadership composition unconfirmed."
+    },
     {
       "id": "disfam-argentina",
       "name": "DISFAM Argentina",
@@ -35,6 +117,34 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Founded by parents, teachers and health professionals; part of the Spain-headquartered international DISFAM network, not an independent Argentine organization."
+    },
+    {
+      "id": "frente-de-artistas-del-borda",
+      "name": "Frente de Artistas del Borda",
+      "name_local": null,
+      "summary": "Arts collective founded in 1984 inside Buenos Aires' Borda psychiatric hospital, made up of current and former patients working alongside community members and professionals across theatre, music, and visual-arts workshops.",
+      "type": "arts",
+      "focus": [
+        "mad-pride",
+        "psychosis"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "AR",
+      "country_name": "Argentina",
+      "region": "Buenos Aires",
+      "lat": -34.61,
+      "lng": -58.38,
+      "languages": [
+        "es"
+      ],
+      "url": "http://frentedeartistasdelborda.blogspot.com/",
+      "source_url": "https://www.pagina12.com.ar/782907-el-frente-de-artistas-del-borda-cumple-40-anos/",
+      "founded": 1984,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Blog itself dormant since ~2012, but org's continued activity confirmed via 40th-anniversary (2024) press coverage and a live YouTube channel. A commonly cited domain, frentedeartistasdelbord.com, does not resolve (dead)."
     },
     {
       "id": "fubipa-argentina",
@@ -147,6 +257,35 @@
       "notes": "Board includes at least one autistic member alongside parents of autistic adults; not stated as autistic-led."
     },
     {
+      "id": "arts-project-australia",
+      "name": "Arts Project Australia",
+      "name_local": null,
+      "summary": "Arts Project Australia is a Melbourne studio and gallery founded in 1974 by Myra Hilgendorf, the first full-time art studio in Australia dedicated to artists with intellectual disability, now supporting more than 150 artists.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities",
+        "neurodiversity-general"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "AU",
+      "country_name": "Australia",
+      "region": "Melbourne, Victoria",
+      "lat": -37.81909,
+      "lng": 144.98072,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.artsproject.org.au/",
+      "source_url": "https://en.wikipedia.org/wiki/Arts_Project_Australia",
+      "founded": 1974,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Site's own tagline calls itself an organisation 'championing neurodivergent artists and artists with intellectual disability.'"
+    },
+    {
       "id": "autism-crc",
       "name": "Autism CRC (Cooperative Research Centre for Living with Autism)",
       "name_local": null,
@@ -200,6 +339,34 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Binational (Australia and New Zealand); member of the Australian Autism Alliance; organisationally distinct from ASAN in the USA."
+    },
+    {
+      "id": "back-to-back-theatre",
+      "name": "Back to Back Theatre",
+      "name_local": null,
+      "summary": "Contemporary theatre company in Geelong whose ensemble consists of actors with disability; founded 1987, led by non-disabled Artistic Director Bruce Gladwin with a full-time disabled ensemble at its creative core.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "neurodiversity-general"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "AU",
+      "country_name": "Australia",
+      "region": "Geelong, Victoria",
+      "lat": -38.15909,
+      "lng": 144.38072,
+      "languages": [
+        "en"
+      ],
+      "url": "https://backtobacktheatre.com/",
+      "source_url": "https://backtobacktheatre.com/about/people/",
+      "founded": 1987,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Ensemble members are neurodivergent/disabled; Artistic Director Bruce Gladwin is not disclosed as disabled. No 'led by disabled people' claim found on site."
     },
     {
       "id": "dxc-dandelion-program",
@@ -313,6 +480,62 @@
       "notes": "Operates nationally with no single fixed HQ city stated; registered with the ACNC."
     },
     {
+      "id": "restless-dance-theatre",
+      "name": "Restless Dance Theatre",
+      "name_local": null,
+      "summary": "Adelaide-based inclusive contemporary dance company founded in 1991 by Sally Chance and Tania Rose, building careers for disabled and neurodivergent dancers.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "neurodiversity-general"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "AU",
+      "country_name": "Australia",
+      "region": "Adelaide, South Australia",
+      "lat": -34.93,
+      "lng": 138.6,
+      "languages": [
+        "en"
+      ],
+      "url": "https://restlessdance.org/",
+      "source_url": "https://restlessdance.org/our-history/",
+      "founded": 1991,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Founded by non-disabled artists. Company's own history notes a former artistic director (2009) was 'the first artistic director with a disability in any Australian dance company', and current AD Michelle Ryan (since 2013) has MS — but no blanket 'disability-led' institutional claim, so kept as mixed."
+    },
+    {
+      "id": "studio-a-sydney",
+      "name": "Studio A",
+      "name_local": null,
+      "summary": "Studio A is a supported studio based in St Leonards, Sydney, led by CEO/Artistic Director Gabrielle Mordy, providing professional development and commercial representation to artists with intellectual disability.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "AU",
+      "country_name": "Australia",
+      "region": "St Leonards, New South Wales",
+      "lat": -33.82,
+      "lng": 151.2,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.studioa.org.au/",
+      "source_url": "https://www.studioa.org.au/pages/mission",
+      "founded": null,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Founding year not stated on the mission/impact pages checked; could not verify this session."
+    },
+    {
       "id": "yellow-ladybugs",
       "name": "Yellow Ladybugs",
       "name_local": null,
@@ -339,6 +562,90 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "CEO/founder is autistic; site states it is 'proudly autistic-led and neuro affirming'."
+    },
+    {
+      "id": "osterreichische-autistenhilfe-austria",
+      "name": "Austrian Autism Aid (ÖAH)",
+      "name_local": "Österreichische Autistenhilfe",
+      "summary": "A Vienna-based nonprofit that grew out of a parents' self-help group into Austria's federal coordination centre for autism, offering free family counselling, diagnostics, therapy, job coaching, and specialist training.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "AT",
+      "country_name": "Austria",
+      "region": "Vienna",
+      "lat": 48.21,
+      "lng": 16.37,
+      "languages": [
+        "de"
+      ],
+      "url": "https://autistenhilfe.at/",
+      "source_url": "https://autistenhilfe.at/wir-ueber-uns/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Not an Autism-Europe member as of the August 2026 directory (Austria has no listed AE member); found independently as Austria's national coordination and advocacy body. Explicitly emerged from a parent self-help group. Founding year not stated on the site."
+    },
+    {
+      "id": "oebvl-austria",
+      "name": "Austrian Federal Association for Dyslexia (ÖBVL)",
+      "name_local": "Österreichischer Bundesverband Legasthenie",
+      "summary": "Austrian dyslexia association providing certified training for dyslexia therapists, professional continuing education, therapist directories and public information on dyslexia.",
+      "type": "education",
+      "focus": [
+        "dyslexia"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "AT",
+      "country_name": "Austria",
+      "region": "Vienna",
+      "lat": 48.2082,
+      "lng": 16.3738,
+      "languages": [
+        "de"
+      ],
+      "url": "http://www.legasthenie.org",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Headquarters city not stated on the site; Vienna used as a national placeholder."
+    },
+    {
+      "id": "museum-gugging",
+      "name": "Museum Gugging",
+      "name_local": "Museum Gugging / Haus der Künstler",
+      "summary": "Art brut complex in Maria Gugging (Klosterneuburg) built around the Haus der Künstler, a residence-studio for artists with psychiatric/intellectual disabilities opened 1981 under psychiatrist Leo Navratil; the museum building dates to 2006.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general",
+        "psychosis",
+        "intellectual-disability"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "AT",
+      "country_name": "Austria",
+      "region": "Klosterneuburg (Maria Gugging), Lower Austria",
+      "lat": 48.3,
+      "lng": 16.3,
+      "languages": [
+        "de",
+        "en"
+      ],
+      "url": "https://www.museumgugging.at/en/",
+      "source_url": "https://www.museumgugging.at/en/museum/aboutus",
+      "founded": 1981,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Museum itself operated by NÖ Museum Betriebs GmbH under artistic director Johann Feilacher (psychiatrist), not by the resident artists. The adjacent galerie gugging (separate site, galeriegugging.com) is owned by the Gugging Artists collective — worth a separate look if a more nd-led entry is wanted."
     },
     {
       "id": "swac-bangladesh",
@@ -394,6 +701,175 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Founding year not stated on the site. Listed in the Maison de l'Autisme Brussels directory alongside other Belgian autism organisations."
+    },
+    {
+      "id": "dr-guislain-museum",
+      "name": "Dr. Guislain Museum",
+      "name_local": "Museum Dr. Guislain",
+      "summary": "Museum of the history of psychiatry and outsider art, housed in Belgium's oldest psychiatric hospital (inaugurated 1857) in Ghent, founded on the reform work of Dr. Joseph Guislain.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general",
+        "psychosis"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "BE",
+      "country_name": "Belgium",
+      "region": "Ghent, East Flanders",
+      "lat": 51.06,
+      "lng": 3.72,
+      "languages": [
+        "nl",
+        "en"
+      ],
+      "url": "https://www.museumdrguislain.be/en",
+      "source_url": "https://www.museumdrguislain.be/en",
+      "founded": null,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Exact year the museum (as opposed to the 1857 hospital) opened to the public could not be confirmed from primary sources; secondary sources vary (1980s). Run by the Guislain psychiatric institution/foundation, not by patients or an nd-led body."
+    },
+    {
+      "id": "kunsthuis-yellow-art",
+      "name": "Kunsthuis Yellow Art",
+      "name_local": "Kunsthuis Yellow Art",
+      "summary": "An art studio in Geel, Belgium for people with psychiatric or mental-health vulnerabilities, established as a permanent facility in 2004 by OPZ Geel, a public psychiatric care center; professional artists collaborate with about 30 participants outside a therapeutic framework.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "BE",
+      "country_name": "Belgium",
+      "region": "Geel, Antwerp Province",
+      "lat": 51.17,
+      "lng": 4.99,
+      "languages": [
+        "nl"
+      ],
+      "url": "https://www.yellowart.be",
+      "source_url": "https://www.yellowart.be/over-ons",
+      "founded": 2004,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Linked to OPZ Geel (public psychiatric hospital); grew out of the 2001 'Y.E.L.L.O.W.' exhibition curated by Jan Hoet. Serves psychiatric patients broadly, not a disability-specific studio."
+    },
+    {
+      "id": "la-s-grand-atelier",
+      "name": "La \"S\" Grand Atelier",
+      "name_local": "La « S » Grand Atelier",
+      "summary": "A center for art brut and contemporary art in Vielsalm, Belgium, founded in 1992 by director Anne-Francoise Rouche as a creative workshop for artists with intellectual disabilities, which also hosts professional artists for co-creation residencies.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "BE",
+      "country_name": "Belgium",
+      "region": "Vielsalm, Luxembourg Province",
+      "lat": 50.28,
+      "lng": 5.92,
+      "languages": [
+        "fr"
+      ],
+      "url": "https://lasgrandatelier.be",
+      "source_url": "https://www.bps22.be/en/exhibitions/la-s-grand-atelier",
+      "founded": 1992,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Official site is live (HTTP 200) but currently shows only an 'under reconstruction' placeholder — facts sourced from BPS22's exhibition page and the Vielsalm tourism site instead. Recognized as a Centre d'Art Brut & Contemporain by the Wallonia-Brussels Federation in 2019."
+    },
+    {
+      "id": "lava-belgium",
+      "name": "LAVA (Reading and Advisory Group of Adults with Autism)",
+      "name_local": "Lees- en Adviesgroep Volwassenen met Autisme",
+      "summary": "Ghent-based Flemish group of autistic adults that critically reviews autism research, advises on research priorities and media framing, and organises public lectures and reading salons on autism from a neurodiversity perspective.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "BE",
+      "country_name": "Belgium",
+      "region": "Ghent",
+      "lat": 51.0543,
+      "lng": 3.7174,
+      "languages": [
+        "nl"
+      ],
+      "url": "https://www.lavavzw.be/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. States 'we are adults with autism'; partners with Leuven Autism Research and the Flemish Autism Action Plan."
+    },
+    {
+      "id": "rev-belgium",
+      "name": "REV Belgium (Hearing Voices Network Belgium)",
+      "name_local": "Réseau sur l'Entente de Voix Belgique",
+      "summary": "French-speaking Belgian node of the international Hearing Voices Network, listed by Intervoice as the national contact for hearing-voices peer support in Belgium.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "BE",
+      "country_name": "Belgium",
+      "region": "Brussels",
+      "lat": 50.87,
+      "lng": 4.33,
+      "languages": [
+        "fr"
+      ],
+      "url": "https://rev-belgium.org/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Listed on Intervoice's national-networks directory."
+    },
+    {
+      "id": "balkan-voices-network",
+      "name": "Balkan Voices Network",
+      "name_local": "Balkanski Glasovi",
+      "summary": "A regional Hearing Voices network coordinating national representatives in Bosnia and Herzegovina (Tavan), Croatia (Dom Turnić), Serbia (Prostor) and Slovenia, running peer 'Art of Voices' training and an Erasmus+ Balkan Recovery College.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "BA",
+      "country_name": "Bosnia and Herzegovina",
+      "region": "Sarajevo (regional network spanning four countries; host city not stated)",
+      "lat": 43.85,
+      "lng": 18.36,
+      "languages": [
+        "bs",
+        "hr",
+        "sr",
+        "sl"
+      ],
+      "url": "https://nasglas.org/",
+      "source_url": "https://nasglas.org/o-nasoj-mrezi/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Country field is an approximation: the network lists a Bosnian member (Tavan) first, but coordinates activity across Bosnia and Herzegovina, Croatia, Serbia and Slovenia. Affiliated with Intervoice."
     },
     {
       "id": "abda-tdah",
@@ -585,6 +1061,34 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": null
+    },
+    {
+      "id": "cia-teatral-ueinzz",
+      "name": "Cia. Teatral Ueinzz",
+      "name_local": null,
+      "summary": "Theatre company in São Paulo, founded around 1997, whose ensemble mixes users of mental health/psychiatric services with professional actors and philosophers, closely associated with philosopher Peter Pál Pelbart.",
+      "type": "arts",
+      "focus": [
+        "psychosis",
+        "mad-pride"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "BR",
+      "country_name": "Brazil",
+      "region": "São Paulo, SP",
+      "lat": -23.55,
+      "lng": -46.63,
+      "languages": [
+        "pt"
+      ],
+      "url": "https://www.atelierpaulista.com/?page_id=976",
+      "source_url": "https://www.atelierpaulista.com/?page_id=976",
+      "founded": 1997,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "No dedicated official website found; sources vary on exact founding year (1996-1999). Confirmed active via a May 2024 performance listing. Peter Pál Pelbart is named as an actor-coordinator/member, not simply an outside academic observer. (original url https://x.com/ueinzz was a social-media link; replaced with source page)"
     },
     {
       "id": "ouvidores-de-vozes-ribeirao-preto",
@@ -810,6 +1314,33 @@
       "notes": "Run as a recurring extension course (fourth edition as of February 2026); exact founding year and whether facilitators are themselves autistic are not stated in the source."
     },
     {
+      "id": "autism-today-association-bulgaria",
+      "name": "Autism Today Association",
+      "name_local": "Сдружение Аутизъм Днес",
+      "summary": "A Bulgarian nonprofit founded in 2015, running four applied-behaviour-analysis therapy centres in Sofia, Pleven and Burgas for over 1,000 children a year, alongside training and policy-advocacy campaigns.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "BG",
+      "country_name": "Bulgaria",
+      "region": "Sofia",
+      "lat": 42.7,
+      "lng": 23.32,
+      "languages": [
+        "bg"
+      ],
+      "url": "https://www.autismtoday-bg.eu/",
+      "source_url": "https://www.autismtoday-bg.eu/",
+      "founded": 2015,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Established by ABA specialists, community members and parents. Primary activity is clinical ABA therapy delivery, which sits close to the ABA-provider category the brief flags for caution; kept because it also runs public-awareness and policy-advocacy work and is Bulgaria's Autism-Europe affiliated member. Flagged here for editorial review."
+    },
+    {
       "id": "a4a-ontario",
       "name": "Autistics 4 Autistics Ontario",
       "name_local": null,
@@ -823,8 +1354,8 @@
       "country": "CA",
       "country_name": "Canada",
       "region": "Toronto, ON",
-      "lat": 43.65,
-      "lng": -79.38,
+      "lat": 43.64091,
+      "lng": -79.35928,
       "languages": [
         "en"
       ],
@@ -835,6 +1366,88 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "International affiliate of the Autistic Self Advocacy Network (ASAN)."
+    },
+    {
+      "id": "bc-hearing-voices-network",
+      "name": "BC Hearing Voices Network",
+      "name_local": null,
+      "summary": "A Vancouver-based peer network supporting people who hear voices, see visions, or have other unique sensory experiences, listed by Intervoice as Canada's hearing-voices contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "CA",
+      "country_name": "Canada",
+      "region": "Vancouver, BC",
+      "lat": 49.28,
+      "lng": -123.12,
+      "languages": [
+        "en"
+      ],
+      "url": "https://bchvn.ca/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
+      "id": "mad-in-canada",
+      "name": "Mad in Canada",
+      "name_local": null,
+      "summary": "Canadian affiliate of the Mad in the World network, publishing critical-psychiatry journalism, research summaries and lived-experience essays on science, psychiatry and social justice.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "CA",
+      "country_name": "Canada",
+      "region": "Toronto, ON (national scope; editorial base not stated)",
+      "lat": 43.65,
+      "lng": -79.38,
+      "languages": [
+        "en"
+      ],
+      "url": "https://madincanada.org/",
+      "source_url": "https://madincanada.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network (parent: Mad in America). Editorial team composition and founding year not stated on the site."
+    },
+    {
+      "id": "mad-pride-toronto",
+      "name": "Mad Pride Toronto",
+      "name_local": null,
+      "summary": "The organising collective behind Toronto's annual Mad Pride Week, tracing back to the 1993 'Psychiatric Survivor Pride Day', the founding event of the international Mad Pride movement.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "CA",
+      "country_name": "Canada",
+      "region": "Toronto, ON",
+      "lat": 43.66,
+      "lng": -79.4,
+      "languages": [
+        "en"
+      ],
+      "url": "https://madpridetoronto.wordpress.com/",
+      "source_url": "https://en.wikipedia.org/wiki/Mad_Pride",
+      "founded": 1993,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Wikipedia identifies Toronto's Parkdale neighbourhood as the origin of the global Mad Pride movement, held annually except 1996."
     },
     {
       "id": "fuan-autismo-neurodiversidad",
@@ -1030,6 +1643,115 @@
       "notes": "Official site barriletea.org was intermittently unresolvable on repeated checks, so the confirmed-live Facebook page is used as the primary url, with a 2024 elmundo.cr news article as source_url. Founder Jessica Varela's own neurodivergent status was not stated in available sources, so leadership is marked unknown rather than assumed."
     },
     {
+      "id": "suzah-croatia",
+      "name": "Croatian Union of Associations for Autism (SUZAH)",
+      "name_local": "Savez udruga za autizam Hrvatske",
+      "summary": "A Zagreb-based umbrella body coordinating 13 Croatian autism associations, tracing its roots to a 1979 parent group, running a helpline and advisory service and advocating for autistic people and families nationally.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "HR",
+      "country_name": "Croatia",
+      "region": "Zagreb",
+      "lat": 45.82,
+      "lng": 15.98,
+      "languages": [
+        "hr"
+      ],
+      "url": "https://www.autizam-suzah.hr/",
+      "source_url": "https://www.autizam-suzah.hr/",
+      "founded": 1979,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Founding traced to the first Croatian parents-of-autistic-children group in 1979; current internal leadership composition not detailed on the site."
+    },
+    {
+      "id": "autism-support-famagusta-cyprus",
+      "name": "Autism Support Famagusta",
+      "name_local": null,
+      "summary": "A Cypriot charity founded by parents and friends of autistic people near Famagusta, running a Summer Club since 2014, outreach and parent coffee mornings, and teacher-training seminars.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "CY",
+      "country_name": "Cyprus",
+      "region": "Sotira",
+      "lat": 35.03,
+      "lng": 33.94,
+      "languages": [
+        "el",
+        "en"
+      ],
+      "url": "https://www.autismsupportfamagusta.com/",
+      "source_url": "https://www.autismsupportfamagusta.com/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Autism-Europe affiliated member; participates in the Pan Cypriot Autism Support Committee. Founding year not stated, though its Summer Club has run since 2014."
+    },
+    {
+      "id": "adventor-czechia",
+      "name": "Adventor (A-komunita)",
+      "name_local": null,
+      "summary": "Prague community centre and self-help organisation for autistic children, teenagers and adults, running individualised support, an antiquarian bookshop, and inclusion projects with mixed autistic and non-autistic teams.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "CZ",
+      "country_name": "Czechia",
+      "region": "Prague 2",
+      "lat": 50.073,
+      "lng": 14.426,
+      "languages": [
+        "cs"
+      ],
+      "url": "https://www.adventor.org/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": 2010,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Runs the KC Kopec community centre. Full member of EUCAP. Site blocks bare curl requests (403) but is reachable with a browser user agent and was read in full via fetch."
+    },
+    {
+      "id": "akrasia-czechia",
+      "name": "Akrasia (Association for Adults with ADHD)",
+      "name_local": "Spolek pro dospělé s diagnózou ADHD",
+      "summary": "Czech association founded in 2022 by psychologists, some with personal ADHD experience, running a nationwide network of peer support groups, workshops and an online resource-navigation tool for adults with ADHD.",
+      "type": "community",
+      "focus": [
+        "adhd"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "CZ",
+      "country_name": "Czechia",
+      "region": "Prague",
+      "lat": 50.1,
+      "lng": 14.46,
+      "languages": [
+        "cs"
+      ],
+      "url": "https://akrasia.cz",
+      "source_url": "https://adhdeurope.eu/members/",
+      "founded": 2022,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "One of ADHD Europe's newest (2025) national member organisations. Also active in Brno and Pardubice."
+    },
+    {
       "id": "eucap",
       "name": "European Council of Autistic People (EUCAP)",
       "name_local": null,
@@ -1061,6 +1783,61 @@
       "notes": "Registered as 'European Council of Autistic People z.s.' in Prague, but is a pan-European body: 27 member organisations across 18 countries as of the source page. Prague is a legal registration address, not an operational hub; board and members are distributed across Europe."
     },
     {
+      "id": "slyseni-hlasu-czech",
+      "name": "Hearing Voices Network Czech Republic",
+      "name_local": "Slyšení hlasu",
+      "summary": "The Czech national node of the international Hearing Voices Network, listed by Intervoice as the Czech Republic's hearing-voices contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "CZ",
+      "country_name": "Czechia",
+      "region": "Prague",
+      "lat": 50.1,
+      "lng": 14.42,
+      "languages": [
+        "cs"
+      ],
+      "url": "https://slysenihlasu.cz/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
+      "id": "nautis-czechia",
+      "name": "NAUTIS (National Institute for Autism)",
+      "name_local": "Národní ústav pro autismus, z.ú.",
+      "summary": "A Prague-based Czech national institute providing free counselling, diagnosis, therapy and training on autism, and running the AutismPort information portal, funded partly by EU and Czech government grants.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "CZ",
+      "country_name": "Czechia",
+      "region": "Prague",
+      "lat": 50.1,
+      "lng": 14.4,
+      "languages": [
+        "cs"
+      ],
+      "url": "https://www.nautis.cz/",
+      "source_url": "https://www.nautis.cz/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Grew out of APLA Praha, the organisation that founded the Pasparta publishing social enterprise; exact founding year not stated on the current site."
+    },
+    {
       "id": "pasparta",
       "name": "PASPARTA",
       "name_local": "Nakladatelství Pasparta",
@@ -1086,6 +1863,143 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Founded December 2012 by APLA Praha (now part of NAUTIS); publishes psychology, autism and special-education titles and offers graphic design services, employing people with autism in adapted roles. Cited as a good-practice example at the UN."
+    },
+    {
+      "id": "autisme-ungdom-denmark",
+      "name": "Autisme Ungdom",
+      "name_local": null,
+      "summary": "Danish youth and disability organisation for autistic people aged 13-35, founded 2019 with a board composed entirely of young autistic people, running six regional chapters, a Discord community, and an annual summer camp.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "DK",
+      "country_name": "Denmark",
+      "region": "Copenhagen",
+      "lat": 55.6761,
+      "lng": 12.5683,
+      "languages": [
+        "da"
+      ],
+      "url": "https://www.autismeungdom.dk/",
+      "source_url": "https://adhdeurope.eu/members/",
+      "founded": 2019,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Associate member of EUCAP; found while cross-checking the EUCAP member list. Membership does not require a formal diagnosis."
+    },
+    {
+      "id": "autisme-og-aspergerforeningen-denmark",
+      "name": "Autisme- og Aspergerforeningen",
+      "name_local": null,
+      "summary": "Danish national association describing itself as 'autisternes egen forening' (autistic people's own association), running local meeting places across the country, an annual Aukon conference, and disability-policy advocacy.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "DK",
+      "country_name": "Denmark",
+      "region": "Denmark (national, meeting places nationwide)",
+      "lat": 55.4038,
+      "lng": 10.4024,
+      "languages": [
+        "da"
+      ],
+      "url": "https://autisme-asperger.dk/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. No fixed single office; placed at a central Denmark coordinate. Automated curl checks returned a non-standard 454 status from this network; content was independently confirmed via fetch."
+    },
+    {
+      "id": "stemmehorernetvaerket-denmark",
+      "name": "Hearing Voices Network Denmark",
+      "name_local": "Stemmehørernetværket i Danmark",
+      "summary": "Denmark's national Hearing Voices Network, listed by Intervoice, offering peer information and groups for voice-hearers.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "DK",
+      "country_name": "Denmark",
+      "region": "Copenhagen",
+      "lat": 55.7,
+      "lng": 12.55,
+      "languages": [
+        "da"
+      ],
+      "url": "https://stemmehoerer.dk/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
+      "id": "mad-in-denmark",
+      "name": "Mad in Denmark",
+      "name_local": "Mad i Danmark",
+      "summary": "Danish affiliate of the Mad in the World network, launched around 2023, publishing critical-psychiatry articles and lived-experience accounts in Danish and English.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "DK",
+      "country_name": "Denmark",
+      "region": "Copenhagen (national scope; editorial base not stated)",
+      "lat": 55.68,
+      "lng": 12.57,
+      "languages": [
+        "da",
+        "en"
+      ],
+      "url": "http://madindenmark.org/",
+      "source_url": "https://www.madintheuk.com/2023/07/with-the-launch-of-mad-in-denmark-a-global-network-for-radical-change-grows-stronger/",
+      "founded": 2023,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network. Launch year drawn from a Mad in the UK announcement post, not the site itself."
+    },
+    {
+      "id": "ordblindeforeningen-denmark",
+      "name": "Ordblindeforeningen i Danmark",
+      "name_local": null,
+      "summary": "Danish dyslexia association based in Taastrup, giving free professional guidance to individuals, schools and employers, running regional and youth chapters, and publishing a member magazine on dyslexia.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "DK",
+      "country_name": "Denmark",
+      "region": "Taastrup",
+      "lat": 55.6497,
+      "lng": 12.2953,
+      "languages": [
+        "da"
+      ],
+      "url": "http://www.ordblindeforeningen.dk",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Patron since 2024 is Princess Marie of Denmark."
     },
     {
       "id": "specialisterne-foundation",
@@ -1117,6 +2031,33 @@
       "notes": "Founded by Thorkil Sonne; credited with creating roughly 10,000 jobs for autistic people globally through corporate partnerships (SAP, Microsoft, IBM and others). Included as a large, well-known anchor organisation; leadership is not itself predominantly neurodivergent-led."
     },
     {
+      "id": "wnusp",
+      "name": "World Network of Users and Survivors of Psychiatry (WNUSP)",
+      "name_local": null,
+      "summary": "An international organisation of psychiatric survivors, founded in 1991 (as the World Federation of Psychiatric Users, renamed WNUSP in 1997), advocating for the rights of people labelled with mental illness within the UN human-rights system.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "DK",
+      "country_name": "Denmark",
+      "region": "Odense",
+      "lat": 55.4,
+      "lng": 10.39,
+      "languages": [
+        "en"
+      ],
+      "url": "https://en.wikipedia.org/wiki/World_Network_of_Users_and_Survivors_of_Psychiatry",
+      "source_url": "https://en.wikipedia.org/wiki/World_Network_of_Users_and_Survivors_of_Psychiatry",
+      "founded": 1991,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Official domain wnusp.net is unreachable (connection refused) and wnusp.org now resolves to an unrelated retail site, so Wikipedia is used as both url and source_url. Wikipedia states WNUSP is based in Odense, Denmark since 2000 and is explicitly led by survivors of psychiatry."
+    },
+    {
       "id": "fundacion-dominicana-de-autismo",
       "name": "Dominican Autism Foundation",
       "name_local": "Fundación Dominicana de Autismo",
@@ -1142,6 +2083,226 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Site lists training sessions scheduled into 2026, indicating current activity; returns HTTP 406 to bare requests without browser headers (bot-filtering quirk, not a dead site). Membership explicitly described as the children's own parents, hence ally-led rather than nd-led."
+    },
+    {
+      "id": "estonian-autism-alliance",
+      "name": "Estonian Autism Alliance",
+      "name_local": "Eesti Autismiliit",
+      "summary": "An umbrella organisation based in Tartu coordinating regional autism associations across Estonia, providing training and counselling to network members and advocating for autistic people's rights.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "EE",
+      "country_name": "Estonia",
+      "region": "Tartu",
+      "lat": 58.38,
+      "lng": 26.73,
+      "languages": [
+        "et"
+      ],
+      "url": "https://www.autismiliit.ee/",
+      "source_url": "https://www.autismiliit.ee/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Autism-Europe affiliated member. Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "mtu-autistid-estonia",
+      "name": "MTÜ Autistid",
+      "name_local": "Eesti Autistide Ühing",
+      "summary": "Estonian association, established 2019 as the Estonian Autistic Women's Association, that spreads information about autism and neurodiversity, builds community, and advocates to improve conditions for autistic people in Estonia.",
+      "type": "community",
+      "focus": [
+        "autism",
+        "neurodiversity-general"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "EE",
+      "country_name": "Estonia",
+      "region": "Estonia (national)",
+      "lat": 59.437,
+      "lng": 24.7536,
+      "languages": [
+        "et"
+      ],
+      "url": "https://autistid.ee/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": 2019,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP, formerly Eesti Autistlike Naiste Ühing (Estonian Autistic Women's Association), founded 8 March 2019. Site notes it is under renovation. The EUCAP-listed URL (eany.ee) redirects to autistid.ee, used here. Leadership not explicitly stated on-site as autistic-led, so marked unknown despite the association's name and history."
+    },
+    {
+      "id": "eoliitto-finland",
+      "name": "Association of Different Learners (FINDER)",
+      "name_local": "Erilaisten Oppijoiden Liitto",
+      "summary": "Helsinki-based Finnish association supporting people with dyslexia, dyscalculia and other learning difficulties in work and education, offering counselling, peer 'experience expert' activities and policy advocacy.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia",
+        "dyscalculia",
+        "learning-disabilities"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "FI",
+      "country_name": "Finland",
+      "region": "Helsinki",
+      "lat": 60.1756,
+      "lng": 24.9227,
+      "languages": [
+        "fi"
+      ],
+      "url": "https://www.eoliitto.fi",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association."
+    },
+    {
+      "id": "autism-foundation-finland",
+      "name": "Autism Foundation Finland",
+      "name_local": "Autismisäätiö",
+      "summary": "A Helsinki-based Finnish foundation and KELA-approved service provider offering guidance, employment and education support, and 24-hour residential and supported housing for autistic people nationwide.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "FI",
+      "country_name": "Finland",
+      "region": "Helsinki",
+      "lat": 60.2,
+      "lng": 24.96,
+      "languages": [
+        "fi"
+      ],
+      "url": "https://www.autismisaatio.fi/",
+      "source_url": "https://www.autismisaatio.fi/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Listed as an Autism-Europe affiliated member, distinct from the full-member Finnish Association for Autism and Asperger's Syndrome. Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "faaas-finland",
+      "name": "Finnish Association for Autism and Asperger's Syndrome",
+      "name_local": "Autismiliitto",
+      "summary": "Finland's national autism federation, coordinating member associations, publishing the quarterly Autismi-lehti magazine, and providing peer support, counselling and professional training nationwide.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "FI",
+      "country_name": "Finland",
+      "region": "Helsinki",
+      "lat": 60.19,
+      "lng": 24.95,
+      "languages": [
+        "fi"
+      ],
+      "url": "https://www.autismiliitto.fi/",
+      "source_url": "https://www.autismiliitto.fi/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "mad-in-finland",
+      "name": "Mad in Finland",
+      "name_local": "Mad In Finland - Hulluna Suomessa",
+      "summary": "Finnish affiliate of the Mad in the World network, publishing critical mental-health journalism, event listings and a media-monitoring digest in Finnish.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "FI",
+      "country_name": "Finland",
+      "region": "Helsinki (national scope; editorial base not stated)",
+      "lat": 60.17,
+      "lng": 24.94,
+      "languages": [
+        "fi"
+      ],
+      "url": "https://madinfinland.org/",
+      "source_url": "https://madinfinland.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network."
+    },
+    {
+      "id": "suomen-autismikirjon-yhdistys",
+      "name": "Suomen Autismikirjon Yhdistys (ASY)",
+      "name_local": null,
+      "summary": "Helsinki-based Finnish association working for the wellbeing and equality of autistic people, running peer support groups, an autism-friendly certification programme, and summer and autumn community gatherings.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "FI",
+      "country_name": "Finland",
+      "region": "Helsinki",
+      "lat": 60.172,
+      "lng": 24.941,
+      "languages": [
+        "fi"
+      ],
+      "url": "https://asy.fi/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. Leadership composition not explicitly stated as autistic-led on the pages read, so marked unknown despite EUCAP full-member status."
+    },
+    {
+      "id": "moniaaniset-finland",
+      "name": "Suomen Moniääniset (Finnish Hearing Voices Network)",
+      "name_local": "Suomen Moniääniset ry",
+      "summary": "Finland's national hearing-voices association, providing support to voice-hearers and their families and listed as Finland's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "FI",
+      "country_name": "Finland",
+      "region": "Helsinki",
+      "lat": 60.19,
+      "lng": 24.96,
+      "languages": [
+        "fi"
+      ],
+      "url": "https://moniaaniset.fi/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Registered association ('ry')."
     },
     {
       "id": "cle-autistes",
@@ -1172,6 +2333,91 @@
       "notes": "Founded September 2018; over 130 members and 400 supporters nationally. Governed by a collegial leadership composed entirely of autistic people, renewed by co-optation."
     },
     {
+      "id": "compagnie-oiseau-mouche",
+      "name": "Compagnie de l'Oiseau-Mouche",
+      "name_local": "Compagnie de l'Oiseau-Mouche",
+      "summary": "Roubaix theatre company founded in 1978 (professionalized 1981) as France's first artistic ESAT, with a permanent troupe of actors with intellectual/psychological disability directed by rotating outside stage directors.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "FR",
+      "country_name": "France",
+      "region": "Roubaix, Hauts-de-France",
+      "lat": 50.69,
+      "lng": 3.17,
+      "languages": [
+        "fr"
+      ],
+      "url": "https://www.oiseau-mouche.org/",
+      "source_url": "https://www.oiseau-mouche.org/le-projet/",
+      "founded": 1978,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "General/artistic direction held by non-disabled staff; productions staged by guest directors. Permanent troupe of ~20-23 comédien·ne·s have intellectual/psychological disability."
+    },
+    {
+      "id": "ffdys-france",
+      "name": "French Federation of Dys Disorders (FFDys)",
+      "name_local": "Fédération Française des Dys",
+      "summary": "French federation of regional associations for people with dyslexia, dyspraxia, dyscalculia and related developmental disorders, running an annual National Dys Day and professional training programme.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia",
+        "dyspraxia",
+        "dyscalculia",
+        "learning-disabilities"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "FR",
+      "country_name": "France",
+      "region": "Paris",
+      "lat": 48.87,
+      "lng": 2.33,
+      "languages": [
+        "fr"
+      ],
+      "url": "http://www.ffdys.com",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Its 20th National Dys Day fell in 2026. Site describes mobilising 'parents and professionals throughout France,' hence marked ally-led."
+    },
+    {
+      "id": "rev-france",
+      "name": "REV France (Hearing Voices Network France)",
+      "name_local": "Réseau français sur l'Entente de Voix",
+      "summary": "France's national Hearing Voices Network, coordinating peer support groups for voice-hearers and listed as France's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "FR",
+      "country_name": "France",
+      "region": "Paris",
+      "lat": 48.88,
+      "lng": 2.33,
+      "languages": [
+        "fr"
+      ],
+      "url": "https://revfrance.org/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
       "id": "aspies-ev",
       "name": "Aspies e.V.",
       "name_local": null,
@@ -1199,6 +2445,257 @@
       "notes": "Around 550 members, board of five autistic people, registered at Berlin-Charlottenburg district court. Member of EUCAP. Automated HTTPS checks from this session failed with a TLS renegotiation error against aspies.de specifically; live page content was independently confirmed via a fetch tool, so it is not treated as down."
     },
     {
+      "id": "atelier-goldstein",
+      "name": "Atelier Goldstein",
+      "name_local": "Atelier Goldstein",
+      "summary": "An artist studio in Frankfurt, Germany, founded in 2001 as a project of Lebenshilfe Frankfurt, offering individual artistic assistance from professional artists to people with cognitive disabilities; work has shown at documenta fifteen and Schirn Kunsthalle.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Frankfurt am Main, Hesse",
+      "lat": 50.11,
+      "lng": 8.68,
+      "languages": [
+        "de"
+      ],
+      "url": "https://www.atelier-goldstein.de",
+      "source_url": "https://www.atelier-goldstein.de/about/",
+      "founded": 2001,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Site's WAF returns HTTP 500 on plain HEAD requests but 200 on GET (verified live via GET and WebFetch)."
+    },
+    {
+      "id": "autismus-kultur-germany",
+      "name": "Autismus-Kultur",
+      "name_local": null,
+      "summary": "German website written from an autistic perspective on how autistic people can live well in a non-autistic world, offering practical guidance, tips and community discussion rather than clinical advice.",
+      "type": "media",
+      "focus": [
+        "autism",
+        "neurodiversity-general"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Germany (online, no stated HQ)",
+      "lat": 51.3127,
+      "lng": 9.4797,
+      "languages": [
+        "de"
+      ],
+      "url": "https://autismus-kultur.de/",
+      "source_url": "https://www.facebook.com/autismuskultur/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site self-describes as written from an autistic perspective. Returns 403 to automated fetches (bot-blocking); reachable and returns 200 to a plain curl with a browser user agent. No stated headquarters city; placed at a geographic-centre-of-Germany coordinate as a placeholder."
+    },
+    {
+      "id": "autsocial-germany",
+      "name": "autSocial e.V.",
+      "name_local": null,
+      "summary": "Hamburg-based German association run under the motto 'von Autist*innen für Autist*innen' (by autistic people for autistic people), operating self-help groups, online workshops on masking and workplace inclusion, and creative projects like autArt.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Hamburg",
+      "lat": 53.5511,
+      "lng": 9.9937,
+      "languages": [
+        "de"
+      ],
+      "url": "https://www.autsocial.de/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP; funded in part through Hamburg's social affairs authority."
+    },
+    {
+      "id": "bvl-germany",
+      "name": "Federal Association for Dyslexia and Dyscalculia (BVL)",
+      "name_local": "Bundesverband Legasthenie und Dyskalkulie",
+      "summary": "German federal association, established around 1976, advocating for accommodations for people with dyslexia and dyscalculia in school, training and careers, with regional chapters and a therapist certification programme.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia",
+        "dyscalculia"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Bad Münstereifel",
+      "lat": 50.5548,
+      "lng": 6.7594,
+      "languages": [
+        "de"
+      ],
+      "url": "http://www.bvl-legasthenie.de",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": 1976,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Founding year inferred from the site's own '50 years' anniversary claim."
+    },
+    {
+      "id": "kunstwerkstatt-lebenshilfe-berlin",
+      "name": "Kunstwerkstatt der Lebenshilfe Berlin",
+      "name_local": "Kunstwerkstatt der Lebenshilfe Berlin",
+      "summary": "An inclusive art workshop run by Lebenshilfe Berlin in Berlin, Germany, active since at least 1999 (its first exhibition), where professional facilitators guide clients with intellectual disabilities in painting and other visual art.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Berlin",
+      "lat": 52.52,
+      "lng": 13.4,
+      "languages": [
+        "de"
+      ],
+      "url": "http://kunstwerkstatt-lebenshilfe-berlin.de",
+      "source_url": "http://kunstwerkstatt-lebenshilfe-berlin.de/ueber-uns/",
+      "founded": null,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Domain works reliably only over plain HTTP; HTTPS fails TLS handshake. Exact founding year not stated on-site — earliest documented activity is its 1999 exhibition."
+    },
+    {
+      "id": "mad-in-germany",
+      "name": "Mad in Germany",
+      "name_local": "Mad in Deutschland",
+      "summary": "German affiliate of the Mad in the World network, publishing critical-psychiatry essays, translated international pieces and lived-experience accounts in German.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Berlin (national scope; editorial base not stated)",
+      "lat": 52.5,
+      "lng": 13.38,
+      "languages": [
+        "de"
+      ],
+      "url": "https://www.madindeutschland.org/",
+      "source_url": "https://www.madindeutschland.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network."
+    },
+    {
+      "id": "netzwerk-stimmenhoeren-germany",
+      "name": "Netzwerk Stimmenhören (German Hearing Voices Network)",
+      "name_local": "Netzwerk Stimmenhören e.V.",
+      "summary": "Germany's national Hearing Voices Network association, coordinating peer groups and information on hearing voices, listed as Germany's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Berlin",
+      "lat": 52.54,
+      "lng": 13.42,
+      "languages": [
+        "de"
+      ],
+      "url": "https://stimmenhoeren.de/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Registered association ('e.V.'). Old domain netzwerk-stimmenhoeren.de now redirects here."
+    },
+    {
+      "id": "prinzhorn-collection",
+      "name": "Prinzhorn Collection",
+      "name_local": "Sammlung Prinzhorn",
+      "summary": "Collection of art by psychiatric patients assembled by Hans Prinzhorn at Heidelberg University's psychiatric clinic from 1919, with a dedicated museum inaugurated in 2001; now ~40,000 works from 1825 to today.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general",
+        "psychosis"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Heidelberg, Baden-Württemberg",
+      "lat": 49.41,
+      "lng": 8.69,
+      "languages": [
+        "de",
+        "en"
+      ],
+      "url": "https://www.sammlung-prinzhorn.de/en",
+      "source_url": "https://www.sammlung-prinzhorn.de/en/museum/geschichte",
+      "founded": 2001,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Part of Heidelberg University Hospital; a research/curatorial institution, not patient- or artist-run."
+    },
+    {
+      "id": "theater-thikwa",
+      "name": "Theater Thikwa",
+      "name_local": "Theater Thikwa",
+      "summary": "Berlin theatre company founded in 1991, self-described as a company where artists 'with and without disability' make theatre together; artistic direction is currently shared by Nicole Hummel and Laura Besch.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities",
+        "neurodiversity-general"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "DE",
+      "country_name": "Germany",
+      "region": "Berlin-Kreuzberg",
+      "lat": 52.49,
+      "lng": 13.39,
+      "languages": [
+        "de",
+        "en"
+      ],
+      "url": "https://www.thikwa.de",
+      "source_url": "https://www.thikwa.de/en/about-thikwa/about-thikwa-profil/",
+      "founded": 1991,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
       "id": "autism-awareness-care-and-training-centre",
       "name": "Autism Awareness Care and Training Centre (AACT)",
       "name_local": null,
@@ -1224,6 +2721,88 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Parent-led, professionally run. Site returns 406 to a bare curl user agent; needs a full browser-style header."
+    },
+    {
+      "id": "gspap-greece",
+      "name": "Greek Society for the Protection of Autistic People (GSPAP)",
+      "name_local": "Ελληνική Εταιρεία Προστασίας Αυτιστικών Ατόμων",
+      "summary": "Founded in Athens in November 1992 by 80 parents of autistic people from Athens, Piraeus and Crete, this national society runs residential and day-centre services in Attica, Macedonia and Ioannina.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "GR",
+      "country_name": "Greece",
+      "region": "Athens",
+      "lat": 37.98,
+      "lng": 23.73,
+      "languages": [
+        "el"
+      ],
+      "url": "https://www.autismgreece.gr/",
+      "source_url": "https://www.autismgreece.gr/",
+      "founded": 1992,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Explicitly parent-founded; current governance not detailed on the site."
+    },
+    {
+      "id": "hearing-voices-network-greece",
+      "name": "Hearing Voices Network Greece",
+      "name_local": "Δίκτυο Ακοής Φωνών Ελλάδας",
+      "summary": "Greece's national Hearing Voices Network, offering peer information and groups for voice-hearers and listed as Greece's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "GR",
+      "country_name": "Greece",
+      "region": "Athens",
+      "lat": 37.96,
+      "lng": 23.75,
+      "languages": [
+        "el"
+      ],
+      "url": "https://hearingvoices.gr/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
+      "id": "mad-in-greece",
+      "name": "Mad in Greece",
+      "name_local": null,
+      "summary": "Greek affiliate of the Mad in the World network, run by a volunteer contributor team publishing psychopharmaceutical-policy critique, personal narratives and art on psychiatric experience.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "mixed",
+      "mode": "online",
+      "country": "GR",
+      "country_name": "Greece",
+      "region": "Athens (national scope; editorial base not stated)",
+      "lat": 37.96,
+      "lng": 23.71,
+      "languages": [
+        "el"
+      ],
+      "url": "http://madingreece.org/",
+      "source_url": "http://madingreece.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site names a volunteer team page ('Our Team') and invites contributions; individual members' lived-experience status not confirmed, hence 'mixed' rather than 'nd-led'."
     },
     {
       "id": "neurodiversity-association-hong-kong",
@@ -1254,6 +2833,116 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": null
+    },
+    {
+      "id": "aosz-hungary",
+      "name": "Hungarian Autistic Society (AOSZ)",
+      "name_local": "Autisták Országos Szövetsége",
+      "summary": "Hungary's national autism federation, based in Budapest, listed as a full member of Autism-Europe representing autistic people and their families in national advocacy.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "HU",
+      "country_name": "Hungary",
+      "region": "Budapest",
+      "lat": 47.5,
+      "lng": 19.04,
+      "languages": [
+        "hu"
+      ],
+      "url": "https://www.aosz.hu/",
+      "source_url": "https://www.autismeurope.org/wp-content/uploads/2026/08/Members-associations-of-Autism-Europe_Aug2026.pdf",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "The live site is currently a bare landing page with no navigable content, so facts are drawn from Autism-Europe's official August 2026 member directory rather than the org's own site. Founding year and leadership composition unconfirmed."
+    },
+    {
+      "id": "mars-foundation-hungary",
+      "name": "Mars Foundation",
+      "name_local": "Mars Autistákért Alapítvány",
+      "summary": "A Budapest foundation for autism awareness offering family and professional training, downloadable social-story resources, a parent support club, and urban life-skills training for autistic teenagers.",
+      "type": "education",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "HU",
+      "country_name": "Hungary",
+      "region": "Budapest",
+      "lat": 47.51,
+      "lng": 19.05,
+      "languages": [
+        "hu"
+      ],
+      "url": "https://marsalapitvany.hu/",
+      "source_url": "https://marsalapitvany.hu/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Listed as an Autism-Europe affiliated member. Runs Erasmus+ international projects; founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "einhverfusamtokin-iceland",
+      "name": "Einhverfusamtökin (Icelandic Autism Association)",
+      "name_local": "Einhverfusamtökin",
+      "summary": "Iceland's national autism association, based in Reykjavik, providing autism education resources, rights and benefits information, and social groups for autistic youth and adults in Reykjavik and Akureyri.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "IS",
+      "country_name": "Iceland",
+      "region": "Reykjavik",
+      "lat": 64.13,
+      "lng": -21.86,
+      "languages": [
+        "is"
+      ],
+      "url": "https://www.einhverfa.is/",
+      "source_url": "https://www.einhverfa.is/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "hugarafl-iceland",
+      "name": "Hugarafl",
+      "name_local": null,
+      "summary": "A Reykjavik peer-run mental-health community offering recovery, empowerment and hearing-voices support groups run by and for its members; Iceland's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "mad-pride",
+        "psychosis"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "IS",
+      "country_name": "Iceland",
+      "region": "Reykjavik",
+      "lat": 64.15,
+      "lng": -21.94,
+      "languages": [
+        "is"
+      ],
+      "url": "https://hugarafl.is/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site describes itself as 'samfélag jafningja sem styðja hvert annað' (a community of peers who support one another); broader peer mental-health community whose activities include the Icelandic hearing-voices group."
     },
     {
       "id": "action-for-autism",
@@ -1315,6 +3004,60 @@
       "notes": "About page 404'd during verification; leadership framing not explicitly self-declared. Site returns 406 to a bare curl user agent."
     },
     {
+      "id": "mad-in-south-asia",
+      "name": "Mad in South Asia",
+      "name_local": null,
+      "summary": "Regional affiliate of the Mad in the World network covering India, Pakistan, Bangladesh, Sri Lanka, Bhutan and Nepal, run by a core team of therapists, researchers, professors and psychiatric-service users who center survivors' own accounts.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "mixed",
+      "mode": "online",
+      "country": "IN",
+      "country_name": "India",
+      "region": "Pune, Maharashtra (approximate anchor; site states no single national HQ)",
+      "lat": 18.5,
+      "lng": 73.88,
+      "languages": [
+        "en"
+      ],
+      "url": "http://madinsouthasia.org/",
+      "source_url": "http://madinsouthasia.org/about-us/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Regional, not single-country; India used only as an approximate map anchor given the site's connections to Pune-based Bapu Trust and lack of a stated HQ city. Site explicitly states service users/survivors are kept 'first' among contributors."
+    },
+    {
+      "id": "tci-global",
+      "name": "TCI Global (Transforming Communities for Inclusion)",
+      "name_local": null,
+      "summary": "A global federation of organisations of persons with psychosocial disabilities, grown since 2012 from an Asia-Pacific network supported by Pune's Bapu Trust and the International Disability Alliance, campaigning to abolish coercive mental-health law.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "IN",
+      "country_name": "India",
+      "region": "Pune, Maharashtra (originating hub; now a global federation)",
+      "lat": 18.54,
+      "lng": 73.84,
+      "languages": [
+        "en"
+      ],
+      "url": "https://tci-global.org/",
+      "source_url": "https://tci-global.org/our-origins/",
+      "founded": 2012,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Explicitly self-describes as 'a global Organisation of persons with psychosocial disabilities [an OPD]'. Originated as the 'TransAsian strategy group' (2012-2014) working with Bapu Trust, already in the atlas. The domain tci-asia.org, once its Asia-Pacific site, now resolves to an unrelated gambling site and should not be used."
+    },
+    {
       "id": "ummeed-child-development-center",
       "name": "Ummeed Child Development Center",
       "name_local": null,
@@ -1373,6 +3116,89 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Evolved from KOMPAA (Komunitas Peduli Autis dan ADHD), founded in 1998."
+    },
+    {
+      "id": "asiam-ireland",
+      "name": "AsIAm",
+      "name_local": null,
+      "summary": "Ireland's national autism charity, founded in 2014 by autistic CEO Adam Harris, working on autism-friendly community certification, policy and self-advocacy, with a stated policy of at least half its board being autistic.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "IE",
+      "country_name": "Ireland",
+      "region": "Dublin",
+      "lat": 53.36,
+      "lng": -6.24,
+      "languages": [
+        "en"
+      ],
+      "url": "https://asiam.ie/",
+      "source_url": "https://asiam.ie/who-we-are/our-story",
+      "founded": 2014,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Registered as a Disabled Persons' Organisation; runs the Autism Friendly Towns programme."
+    },
+    {
+      "id": "dyslexia-ireland",
+      "name": "Dyslexia Ireland",
+      "name_local": null,
+      "summary": "Dublin-based Irish charity providing dyslexia and dyscalculia assessments, tutoring, training for parents and teachers, and policy advocacy, funded in part by the Department of Education.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia",
+        "dyscalculia"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "IE",
+      "country_name": "Ireland",
+      "region": "Dublin",
+      "lat": 53.3437,
+      "lng": -6.2371,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.dyslexia.ie",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Site returns 403 to some automated fetch tools (bot-blocking) but was read in full via a different fetch and confirmed live with a browser-header curl."
+    },
+    {
+      "id": "hearing-voices-network-ireland",
+      "name": "Hearing Voices Network Ireland",
+      "name_local": null,
+      "summary": "Ireland's national Hearing Voices Network, coordinating local peer groups and training, historically linked to academics Harry Gijbels and Lydia Sapouna at University College Cork.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "IE",
+      "country_name": "Ireland",
+      "region": "Cork",
+      "lat": 51.9,
+      "lng": -8.47,
+      "languages": [
+        "en"
+      ],
+      "url": "https://hearingvoicesnetworkireland.ie/",
+      "source_url": "https://hearingvoicesnetworkireland.ie/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Distinct from the editorial site Mad in Ireland (madinireland.com), already in the atlas; both trace to the same UCC-linked circle of academics and voice-hearers."
     },
     {
       "id": "mad-in-ireland",
@@ -1497,6 +3323,34 @@
       "notes": "Direct page fetch was blocked by a bot filter; verified live via curl (200 OK) and secondary sources."
     },
     {
+      "id": "intervoice-italia",
+      "name": "ARCI Intervoice Italia",
+      "name_local": "ARCI Intervoice Italia APS (formerly Rete Italiana Noi e le Voci)",
+      "summary": "Italy's national Hearing Voices association, offering information and peer exchange for voice-hearers, professionals and relatives, treating hearing voices as a human experience rather than a symptom.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "IT",
+      "country_name": "Italy",
+      "region": "Italy (national association; HQ city not stated)",
+      "lat": 41.92,
+      "lng": 12.48,
+      "languages": [
+        "it"
+      ],
+      "url": "https://www.intervoiceitalia.it/",
+      "source_url": "https://www.intervoiceitalia.it/chi-siamo/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Rebranded from 'Rete Italiana Noi e le Voci' (parlaconlevoci.it, now a redirect page) to ARCI Intervoice Italia APS. Registered as an Italian APS (Associazione di Promozione Sociale)."
+    },
+    {
       "id": "aspergeronline",
       "name": "Aspergeronline",
       "name_local": null,
@@ -1523,6 +3377,149 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Founded January 2023 by Simone Favarin, an autistic designer and communicator; became a formal association (ETS) in December 2023. Reports 356,817 unique users and 60,000+ RAADS-R screenings completed in 2024."
+    },
+    {
+      "id": "aid-italy",
+      "name": "Italian Dyslexia Association (AID)",
+      "name_local": "Associazione Italiana Dislessia",
+      "summary": "Bologna-based Italian association, founded 1997, supporting people with specific learning disorders across their lifespan through teacher and family training, the LibroAID digital textbook platform, and school/workplace advocacy.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia",
+        "dyscalculia",
+        "learning-disabilities"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "IT",
+      "country_name": "Italy",
+      "region": "Bologna",
+      "lat": 44.4949,
+      "lng": 11.3426,
+      "languages": [
+        "it"
+      ],
+      "url": "http://www.aiditalia.org",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": 1997,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association."
+    },
+    {
+      "id": "mad-in-italy",
+      "name": "Mad in Italy",
+      "name_local": null,
+      "summary": "Italian affiliate of the Mad in the World network, founded in 2018 and run by a mixed board of a psychiatrist, a pharmacology researcher and two psychiatric-survivor advocates.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "mixed",
+      "mode": "online",
+      "country": "IT",
+      "country_name": "Italy",
+      "region": "Rome (national scope; editorial base not stated)",
+      "lat": 41.9,
+      "lng": 12.5,
+      "languages": [
+        "it"
+      ],
+      "url": "https://mad-in-italy.com/",
+      "source_url": "https://mad-in-italy.com/chi-siamo/",
+      "founded": 2018,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Board includes Susanna Brunelli and Cristina Paderi, both self-described psychiatric-survivor advocates, alongside a psychiatrist and a pharmacology researcher."
+    },
+    {
+      "id": "neuropeculiar-italy",
+      "name": "Neuropeculiar",
+      "name_local": "Associazione Neuro-Peculiar",
+      "summary": "Italian association founded and directed by autistic people that campaigns for self-representation and self-determination under a neurodiversity and Disability Studies framework, and organises the annual AUTcamp gathering.",
+      "type": "advocacy",
+      "focus": [
+        "autism",
+        "neurodiversity-general"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "IT",
+      "country_name": "Italy",
+      "region": "Rome",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "languages": [
+        "it"
+      ],
+      "url": "https://neuropeculiar.com/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": 2018,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. No single stated headquarters; located at Rome, where its 2026 AUTcamp event is held."
+    },
+    {
+      "id": "able-art-japan",
+      "name": "Able Art Japan",
+      "name_local": "エイブル・アート・ジャパン",
+      "summary": "Able Art Japan is a Tokyo NPO founded in 1995 that supports people with disabilities in creating, exhibiting, and selling art; it co-founded the affiliated Able Art Company (2007), an agency licensing disabled artists' work commercially.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities",
+        "neurodiversity-general"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "JP",
+      "country_name": "Japan",
+      "region": "Tokyo",
+      "lat": 35.65,
+      "lng": 139.75,
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "url": "https://ableart.org/",
+      "source_url": "https://ableart.org/aaj.html",
+      "founded": 1995,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Related entity Able Art Company (https://ableartcom.jp/, curl 200 OK) is an artist agency founded 2007 by three Japanese NPOs including Able Art Japan, HQ in Nara with a Tokyo office. Neither site explicitly claims artist-led governance; language is 'together with people with disabilities.'"
+    },
+    {
+      "id": "atelier-incurve",
+      "name": "Atelier Incurve",
+      "name_local": "アトリエインカーブ",
+      "summary": "Atelier Incurve (renamed INCURVE in April 2024) is a licensed day-service art facility in Osaka operated by the Social Welfare Corporation Sou-kai for adults with intellectual disabilities under Japan's disability-support law.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "JP",
+      "country_name": "Japan",
+      "region": "Osaka",
+      "lat": 34.69,
+      "lng": 135.5,
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "url": "https://incurve.jp/",
+      "source_url": "https://incurve.jp/",
+      "founded": null,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Site confirms operation by Social Welfare Corporation Sou-kai and the 2024 rename to INCURVE, but does not state the studio's original founding year on pages checked."
     },
     {
       "id": "jddnet",
@@ -1585,6 +3582,60 @@
       "notes": "Explicitly by-and-for psychiatric survivors (tojisha); runs an annual 'Bethel Festival' and cooperative small businesses."
     },
     {
+      "id": "adhd-jersey",
+      "name": "ADHD Jersey",
+      "name_local": null,
+      "summary": "Jersey (Channel Islands) not-for-profit combining lived ADHD experience with professional expertise, running adult and youth ADHD support programmes, awareness talks and a community hub in St Helier.",
+      "type": "community",
+      "focus": [
+        "adhd"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "JE",
+      "country_name": "Jersey",
+      "region": "St Helier",
+      "lat": 49.1805,
+      "lng": -2.1049,
+      "languages": [
+        "en"
+      ],
+      "url": "https://adhd.je",
+      "source_url": "https://adhdeurope.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "One of ADHD Europe's newest (2025) national member organisations. Site states it was 'built by people who truly understand ADHD because we've lived it,' combined with professional expertise."
+    },
+    {
+      "id": "latvian-autism-association",
+      "name": "Latvian Autism Association",
+      "name_local": "Latvijas Autisma apvienība",
+      "summary": "A Riga-based association founded on 1 October 2006 to protect the rights and interests of autistic people in Latvia, running a psychosocial rehabilitation programme for children and joining Autism-Europe in 2013.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "LV",
+      "country_name": "Latvia",
+      "region": "Riga",
+      "lat": 56.95,
+      "lng": 24.11,
+      "languages": [
+        "lv"
+      ],
+      "url": "https://www.autisms.lv/",
+      "source_url": "https://www.autisms.lv/",
+      "founded": 2006,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Listed as an Autism-Europe affiliated member (joined 2013). Chaired by Līga Bērziņa as of the source page; leadership composition (parent-led vs. self-advocate) not explicitly stated."
+    },
+    {
       "id": "lebanese-autism-society",
       "name": "Lebanese Autism Society (LAS)",
       "name_local": null,
@@ -1614,6 +3665,61 @@
       "notes": "Runs a Technical School for Adolescents with Autism."
     },
     {
+      "id": "lietaus-vaikai-lithuania",
+      "name": "Rain Children",
+      "name_local": "Lietaus vaikai",
+      "summary": "A Vilnius-based Lithuanian nonprofit uniting families of autistic children, autistic adults and professionals, running a resource directory, peer-support groups for autistic youth, and a community handmade-goods shop.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "LT",
+      "country_name": "Lithuania",
+      "region": "Vilnius",
+      "lat": 54.69,
+      "lng": 25.28,
+      "languages": [
+        "lt"
+      ],
+      "url": "https://www.lietausvaikai.lt/",
+      "source_url": "https://www.lietausvaikai.lt/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Site references '10 years' of operation without giving an exact founding date; unites families, adults with autism, and professionals rather than being purely parent-led."
+    },
+    {
+      "id": "fondation-autisme-luxembourg",
+      "name": "Fondation Autisme Luxembourg (FAL)",
+      "name_local": null,
+      "summary": "A Luxembourg foundation, marking its 30th anniversary in 2026, providing residential care at five sites for 39 autistic residents, family support to about 650 families, and professional training on autism.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "LU",
+      "country_name": "Luxembourg",
+      "region": "Capellen",
+      "lat": 49.65,
+      "lng": 5.99,
+      "languages": [
+        "fr",
+        "de"
+      ],
+      "url": "https://www.fal.lu/",
+      "source_url": "https://www.fal.lu/",
+      "founded": 1996,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Founding year (1996) inferred from a 30th-anniversary reference on the site in 2026."
+    },
+    {
       "id": "nasom",
       "name": "National Autism Society of Malaysia (NASOM)",
       "name_local": null,
@@ -1640,6 +3746,63 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": null
+    },
+    {
+      "id": "autism-parents-association-malta",
+      "name": "Autism Parents Association (APA)",
+      "name_local": null,
+      "summary": "A Maltese voluntary organisation of over 450 member families of autistic children, running a private peer-support network, an autism handbook, seminars, and the SIPT sensory-integration youth programme.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "MT",
+      "country_name": "Malta",
+      "region": "Marsa",
+      "lat": 35.87,
+      "lng": 14.49,
+      "languages": [
+        "mt",
+        "en"
+      ],
+      "url": "http://www.autismparentsassociation.com/",
+      "source_url": "http://www.autismparentsassociation.com/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe, registered as voluntary organisation VO802. Founded by parents of autistic children; founding year not stated on the site."
+    },
+    {
+      "id": "hearing-voices-malta",
+      "name": "Hearing Voices Network Malta",
+      "name_local": null,
+      "summary": "Malta's national Hearing Voices peer group, listed by Intervoice as the country's national contact for hearing-voices support.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "MT",
+      "country_name": "Malta",
+      "region": "Valletta",
+      "lat": 35.9,
+      "lng": 14.51,
+      "languages": [
+        "en",
+        "mt"
+      ],
+      "url": "https://hearingvoicesmalta.wixsite.com/hearingvoicesmalta",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Only public presence is this Wix site; no separate domain found."
     },
     {
       "id": "autistas-de-mexico-ac",
@@ -1697,6 +3860,143 @@
       "notes": "No independent Chuhcan website or confirmed social-media handle was found; url/source_url point to a Mad in Mexico interview with founder Raúl Montoya. Also active in Red Orgullo Loco México's annual Marcha del Orgullo Loco alongside other user-led collectives (SinColectivo, Colectiva Meteorita) that could not be independently verified."
     },
     {
+      "id": "sos-autism-moldova",
+      "name": "SOS Autism Moldova",
+      "name_local": "Asociația Obștească «SOS AUTISM»",
+      "summary": "A Chișinău-based Moldovan association founded in May 2008 by parents of autistic children, offering ABA, speech and art therapy, and acting as the main advocate to national authorities on autism policy.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "MD",
+      "country_name": "Moldova",
+      "region": "Chișinău",
+      "lat": 47.01,
+      "lng": 28.86,
+      "languages": [
+        "ro"
+      ],
+      "url": "http://autismmoldova.md/",
+      "source_url": "http://autismmoldova.md/",
+      "founded": 2008,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Autism-Europe affiliated member. Explicitly founded by a group of parents of autistic children."
+    },
+    {
+      "id": "atelier-herenplaats",
+      "name": "Atelier Herenplaats",
+      "name_local": "Galerie Atelier Herenplaats",
+      "summary": "An art studio and gallery in Rotterdam, Netherlands, founded in 1991, providing studio space and training for about 35 artists with intellectual disabilities or psychiatric backgrounds, supervised by professional artists and art teachers.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "region": "Rotterdam, South Holland",
+      "lat": 51.92,
+      "lng": 4.48,
+      "languages": [
+        "nl",
+        "en"
+      ],
+      "url": "https://www.herenplaats.nl",
+      "source_url": "https://www.herenplaats.nl/en/about-herenplaats/",
+      "founded": 1991,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
+      "id": "autminds-netherlands",
+      "name": "Autminds",
+      "name_local": null,
+      "summary": "Dutch congress for and by autistic people, run for eleven years out of Delft, bringing autistic adults together for talks, workshops and networking; its final edition is scheduled for October 2026.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "region": "Delft",
+      "lat": 52.0116,
+      "lng": 4.3571,
+      "languages": [
+        "en",
+        "nl"
+      ],
+      "url": "https://www.autminds.nl",
+      "source_url": "https://eucap.eu/members/",
+      "founded": 2015,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Associate member of EUCAP. Founding year inferred from the site's own '11 years' claim ahead of its announced final October 2026 congress; included despite the planned wind-down because it is still active as of verification."
+    },
+    {
+      "id": "enusp",
+      "name": "European Network of (Ex-)Users and Survivors of Psychiatry (ENUSP)",
+      "name_local": null,
+      "summary": "A grassroots umbrella organisation, founded in 1990 by Dutch psychiatric survivors, uniting national and local user/survivor organisations across Europe to advocate directly on human rights in mental health.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "region": "Netherlands (founding country; no fixed current HQ stated)",
+      "lat": 52.09,
+      "lng": 5.1,
+      "languages": [
+        "en"
+      ],
+      "url": "https://enusp.org/",
+      "source_url": "https://enusp.org/who-are-we/",
+      "founded": 1990,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site states: 'We directly represent the views of people who are or have been on the receiving end of psychiatric services' and describes itself as the only grassroots umbrella working across Europe on this basis. No current registered-office city found; located here at its 1990 founding country only."
+    },
+    {
+      "id": "mad-in-the-netherlands",
+      "name": "Mad in the Netherlands",
+      "name_local": "Mad in the Netherlands",
+      "summary": "Dutch affiliate of the Mad in the World network, launched 1 February 2022 as the tenth national affiliate, making international critical-psychiatry and psychopharmacology knowledge accessible in Dutch.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "region": "Amsterdam (national scope; editorial base not stated)",
+      "lat": 52.37,
+      "lng": 4.9,
+      "languages": [
+        "nl"
+      ],
+      "url": "https://madinthenetherlands.org/",
+      "source_url": "https://www.madinamerica.com/2022/02/profile-mad-netherlands/",
+      "founded": 2022,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network."
+    },
+    {
       "id": "pas-nederland",
       "name": "PAS Nederland",
       "name_local": "Personen uit het Autisme Spectrum",
@@ -1722,6 +4022,34 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Activities run in multiple cities including Alkmaar, Utrecht, Nijmegen, Weert, 's-Hertogenbosch, Leiden and Zwolle; The Hague used as the organisation's registered base."
+    },
+    {
+      "id": "stichting-weerklank-netherlands",
+      "name": "Stichting Weerklank",
+      "name_local": null,
+      "summary": "The Dutch national Hearing Voices foundation, supporting people who hear voices, see visions or have other unusual perceptions, and their relatives, and listed as the Netherlands' Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "NL",
+      "country_name": "Netherlands",
+      "region": "Utrecht",
+      "lat": 52.09,
+      "lng": 5.12,
+      "languages": [
+        "nl"
+      ],
+      "url": "https://stichtingweerklank.nl/",
+      "source_url": "https://stichtingweerklank.nl/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
     },
     {
       "id": "altogether-autism",
@@ -1779,6 +4107,34 @@
       "notes": "At least one board member is autistic and also a parent of an autistic adult; overall composition reads as ally-led/mixed."
     },
     {
+      "id": "hearing-voices-aotearoa-nz",
+      "name": "Hearing Voices Network Aotearoa New Zealand",
+      "name_local": null,
+      "summary": "New Zealand's national Hearing Voices Network, providing information and peer group support for voice-hearers and listed as the country's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "NZ",
+      "country_name": "New Zealand",
+      "region": "Wellington",
+      "lat": -41.29909,
+      "lng": 174.80072,
+      "languages": [
+        "en"
+      ],
+      "url": "https://hearingvoices.org.nz/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
       "id": "patrick-speech-and-languages-centre",
       "name": "Patrick Speech and Languages Centre (PSLC)",
       "name_local": null,
@@ -1832,6 +4188,33 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Run by a single autistic author who publishes under the name 'Soda' and lives on an island near Bergen; launched 3 June 2018 to fill a gap in Norwegian-language autism coverage."
+    },
+    {
+      "id": "mad-in-norway",
+      "name": "Mad in Norway",
+      "name_local": null,
+      "summary": "Norwegian affiliate of the Mad in the World network, launched in 2019 under editor-in-chief Birgit Valla, publishing critical-psychiatry commentary and research.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "NO",
+      "country_name": "Norway",
+      "region": "Oslo (national scope; editorial base not stated)",
+      "lat": 59.91,
+      "lng": 10.75,
+      "languages": [
+        "no"
+      ],
+      "url": "https://www.madinnorway.org/",
+      "source_url": "https://www.madinamerica.com/2022/08/the-mad-in-the-world-network-a-global-voice-for-change/",
+      "founded": 2019,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Editor-in-chief Birgit Valla is a psychologist by training; site does not state the outlet is survivor-led, hence leadership marked unknown rather than assumed."
     },
     {
       "id": "autism-society-of-pakistan",
@@ -1943,6 +4326,33 @@
       "notes": "The domain asociacionperuanadeautistas.com surfaced in search results but did not resolve on repeated checks; using their active Instagram (posts through late 2025, includes Hispanoamerican Autism Congress participation) as url/source_url instead. Also active on Facebook."
     },
     {
+      "id": "teatro-la-plaza",
+      "name": "Teatro La Plaza",
+      "name_local": "Teatro La Plaza",
+      "summary": "Theatre in Lima, Peru, founded in 2003 by a group of artists including director Chela De Ferrari (non-disabled); internationally known for productions 'Hamlet' (2021) and 'Ricardo III' (2023), which cast actors with Down syndrome.",
+      "type": "arts",
+      "focus": [
+        "down-syndrome"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "PE",
+      "country_name": "Peru",
+      "region": "Miraflores, Lima",
+      "lat": -12.12,
+      "lng": -77.03,
+      "languages": [
+        "es"
+      ],
+      "url": "https://laplaza.com.pe",
+      "source_url": "https://en.wikipedia.org/wiki/Teatro_La_Plaza",
+      "founded": 2003,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "General theatre venue directed by non-disabled founder; Down-syndrome casting applies to specific acclaimed productions, not a standing disabled ensemble. Site blocks some browser user-agents (403 on one UA, 200 on another) — confirmed live either way."
+    },
+    {
       "id": "autism-society-philippines",
       "name": "Autism Society Philippines (ASP)",
       "name_local": null,
@@ -1969,6 +4379,197 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": null
+    },
+    {
+      "id": "porozumienie-autyzm-polska",
+      "name": "Autism-Poland Coalition",
+      "name_local": "Porozumienie AUTYZM-POLSKA",
+      "summary": "A Warsaw-based coalition of Polish autism organisations doing national advocacy, running an information centre and legal support, and promoting supported-housing 'Home Communities' for autistic adults.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "PL",
+      "country_name": "Poland",
+      "region": "Warsaw",
+      "lat": 52.23,
+      "lng": 21.01,
+      "languages": [
+        "pl"
+      ],
+      "url": "https://autyzmpolska.org.pl/",
+      "source_url": "https://autyzmpolska.org.pl/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Listed as 'Autism Poland Association' in Autism-Europe's August 2026 member directory; office shares an address with the Synapsis Foundation in Warsaw. Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "fundacja-adhd-poland",
+      "name": "Fundacja ADHD",
+      "name_local": null,
+      "summary": "Polish foundation providing psychological consultations, ADHD and autism diagnostic assessments, crisis support and public education for neurodivergent people nationwide.",
+      "type": "care",
+      "focus": [
+        "adhd",
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "PL",
+      "country_name": "Poland",
+      "region": "Poland (national)",
+      "lat": 52.22091,
+      "lng": 21.03072,
+      "languages": [
+        "pl"
+      ],
+      "url": "https://fundacja-adhd.pl",
+      "source_url": "https://adhdeurope.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "One of ADHD Europe's newest (2025) national member organisations. No single headquarters city stated."
+    },
+    {
+      "id": "fundacja-autism-team-poland",
+      "name": "Fundacja Autism Team",
+      "name_local": null,
+      "summary": "Łódź-based Polish foundation, founded 2016, combining autistic people, families, experts and therapists to run youth and parent support clubs, crisis intervention, school inclusion programmes and creative 'Artegracja' projects.",
+      "type": "community",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "PL",
+      "country_name": "Poland",
+      "region": "Łódź",
+      "lat": 51.7592,
+      "lng": 19.455,
+      "languages": [
+        "pl"
+      ],
+      "url": "https://autismteam.pl/",
+      "source_url": "https://autismteam.pl/o-fundacji/",
+      "founded": 2016,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site describes staff as 'osoby w spektrum autyzmu, ich rodziny, eksperci i terapeuci' (autistic people, their families, experts and therapists), hence marked mixed rather than nd-led."
+    },
+    {
+      "id": "jasna-strona-spektrum-poland",
+      "name": "Jasna Strona Spektrum",
+      "name_local": null,
+      "summary": "Polish autism information and support website for diagnosed and undiagnosed autistic children and adults, publishing articles on daily life, self-advocacy and diagnosis and running parent workshops.",
+      "type": "media",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "PL",
+      "country_name": "Poland",
+      "region": "Poland (national)",
+      "lat": 52.24,
+      "lng": 21.03,
+      "languages": [
+        "pl"
+      ],
+      "url": "https://jasnastronaspektrum.pl/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Associate member of EUCAP. Leadership not stated on the site; no fixed city given."
+    },
+    {
+      "id": "jim-foundation-poland",
+      "name": "JiM Foundation",
+      "name_local": "Fundacja JiM",
+      "summary": "A Łódź-based Polish foundation running diagnostic and therapy clinics and schools for autistic and ADHD children, offering free screening, legal aid, and public campaigns such as 'Quiet Hours'.",
+      "type": "care",
+      "focus": [
+        "autism",
+        "adhd"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "PL",
+      "country_name": "Poland",
+      "region": "Łódź",
+      "lat": 51.77,
+      "lng": 19.46,
+      "languages": [
+        "pl"
+      ],
+      "url": "https://jim.org/",
+      "source_url": "https://jim.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Registered in Poland's National Court Register (KRS 0000127075). Listed as an Autism-Europe affiliated member. Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "ptd-poland",
+      "name": "Polish Dyslexia Society (PTD)",
+      "name_local": "Polskie Towarzystwo Dysleksji",
+      "summary": "Polish learned society on dyslexia running regional branches, an advisory clinic, and courses and training on specific learning difficulties, with an active branch in Gdańsk.",
+      "type": "education",
+      "focus": [
+        "dyslexia"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "PL",
+      "country_name": "Poland",
+      "region": "Gdańsk",
+      "lat": 54.352,
+      "lng": 18.6466,
+      "languages": [
+        "pl"
+      ],
+      "url": "http://www.ptd.edu.pl",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Site is mostly navigation/image-based; national headquarters not clearly stated, so located at its documented Gdańsk branch."
+    },
+    {
+      "id": "fundacja-synapsis",
+      "name": "Synapsis Foundation",
+      "name_local": "Fundacja Synapsis",
+      "summary": "A Warsaw foundation running diagnostic and therapy centres for autistic children and adults, plus Poland's first social enterprise and training home for autistic adults, and training for specialists and parents.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "PL",
+      "country_name": "Poland",
+      "region": "Warsaw",
+      "lat": 52.25,
+      "lng": 21.03,
+      "languages": [
+        "pl"
+      ],
+      "url": "https://synapsis.org.pl/",
+      "source_url": "https://synapsis.org.pl/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "The domain listed for Synapsis in Autism-Europe's official directory (synapsis.waw.pl) is now a dead placeholder page; synapsis.org.pl is the current live site. Site references a 20th-anniversary milestone in 2026 for one of its centres, but the foundation's own founding year is not directly confirmed."
     },
     {
       "id": "brainstorm-phda",
@@ -2025,6 +4626,225 @@
       "notes": "Founded by researchers and clinicians including Vítor da Fonseca; run by a professional board rather than by dyslexic people themselves. Has publicly criticised lack of teacher training for dyslexia support."
     },
     {
+      "id": "mad-in-portugal",
+      "name": "Mad in Portugal",
+      "name_local": null,
+      "summary": "Portuguese affiliate of the Mad in the World network, publishing critical-psychiatry journalism and lived-experience writing in Portuguese.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "PT",
+      "country_name": "Portugal",
+      "region": "Lisbon (national scope; editorial base not stated)",
+      "lat": 38.72,
+      "lng": -9.14,
+      "languages": [
+        "pt"
+      ],
+      "url": "http://madinportugal.org/",
+      "source_url": "http://madinportugal.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network."
+    },
+    {
+      "id": "movimento-ouvir-vozes-portugal",
+      "name": "Ouvir Vozes Movement Portugal",
+      "name_local": "Movimento Ouvir Vozes - Portugal",
+      "summary": "Portugal's national hearing-voices movement, publishing peer information and coping strategies via a WordPress blog, listed as Portugal's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "PT",
+      "country_name": "Portugal",
+      "region": "Lisbon",
+      "lat": 38.74,
+      "lng": -9.16,
+      "languages": [
+        "pt"
+      ],
+      "url": "https://ouvirvozes.wordpress.com/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Distinct from the editorial site Mad in Portugal, also in this file."
+    },
+    {
+      "id": "voz-do-autista-portugal",
+      "name": "Voz do Autista (APVA)",
+      "name_local": "Associação Portuguesa Voz do Autista",
+      "summary": "Aveiro-based self-advocacy association of autistic adults, parents and autistic health/education professionals, running an online rights-guidance service, employment support projects and free resources for autistic people.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "PT",
+      "country_name": "Portugal",
+      "region": "Aveiro",
+      "lat": 40.6405,
+      "lng": -8.6538,
+      "languages": [
+        "pt"
+      ],
+      "url": "https://vozdoautista.pt/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. Describes itself as 'an association of autists, for autists.'"
+    },
+    {
+      "id": "mad-in-puerto-rico",
+      "name": "Mad in Puerto Rico",
+      "name_local": null,
+      "summary": "Puerto Rican affiliate of the Mad in the World network, publishing critical-psychiatry journalism and lived-experience writing in Spanish for a Puerto Rican audience.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "PR",
+      "country_name": "Puerto Rico",
+      "region": "San Juan (national scope; editorial base not stated)",
+      "lat": 18.47,
+      "lng": -66.11,
+      "languages": [
+        "es"
+      ],
+      "url": "https://madinpuertorico.org/",
+      "source_url": "https://madinpuertorico.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network; distinct from the older Mad in America Hispanohablante / Mad in (S)pain lineage."
+    },
+    {
+      "id": "help-autism-romania",
+      "name": "Help Autism",
+      "name_local": "Asociația Help Autism",
+      "summary": "Romania's largest autism organisation, founded around 2010 and based in Bucharest, running eight therapy centres nationwide, a digital platform for specialists and families, and inclusive camps and sports programmes.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "RO",
+      "country_name": "Romania",
+      "region": "Bucharest",
+      "lat": 44.43,
+      "lng": 26.1,
+      "languages": [
+        "ro"
+      ],
+      "url": "https://www.helpautism.ro/",
+      "source_url": "https://www.helpautism.ro/",
+      "founded": 2010,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Founded and led by Daniela Bololoi; run by professionals and specialists rather than a self-advocacy model. Listed as an Autism-Europe affiliated member. Founding year inferred from a '16 years' reference on the site as of February 2026."
+    },
+    {
+      "id": "suntautist-romania",
+      "name": "suntAutist",
+      "name_local": "Asociația suntAutist",
+      "summary": "Romanian association publishing 'autism explained by autistics' articles by autistic contributors, opposing ABA and conversion-style therapies and offering resources for autistic children, women and men.",
+      "type": "media",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "RO",
+      "country_name": "Romania",
+      "region": "Romania (national)",
+      "lat": 44.4268,
+      "lng": 26.1025,
+      "languages": [
+        "ro"
+      ],
+      "url": "http://www.suntautist.ro",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Associate member of EUCAP. Tagline 'Autismul explicat de autiști' (autism explained by autistics); named autistic contributors write the site's articles. No fixed city stated."
+    },
+    {
+      "id": "prostor-serbia",
+      "name": "Prostor",
+      "name_local": null,
+      "summary": "A Serbian mental-health NGO running peer creative workshops, mental-health campaigns and volunteering programmes with people who use psychiatric services; Serbia's node of the Balkan Voices hearing-voices network.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis",
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "RS",
+      "country_name": "Serbia",
+      "region": "Novi Sad (approximate; exact city not stated on site)",
+      "lat": 45.27,
+      "lng": 19.83,
+      "languages": [
+        "sr"
+      ],
+      "url": "https://prostor.org.rs/",
+      "source_url": "https://nasglas.org/o-nasoj-mrezi/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "City is an approximation from general knowledge of the organisation, not confirmed on its own about page; a moderator should verify."
+    },
+    {
+      "id": "serbian-society-for-autism",
+      "name": "Union of Serbian Autism Associations",
+      "name_local": "Savez udruženja Srbije za pomoć osobama sa autizmom",
+      "summary": "A Belgrade-based union of member associations from across Serbia that raises public awareness of autism and seeks systemic legal and policy solutions for autistic people's rights.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "RS",
+      "country_name": "Serbia",
+      "region": "Belgrade",
+      "lat": 44.82,
+      "lng": 20.46,
+      "languages": [
+        "sr"
+      ],
+      "url": "https://www.autizam.org.rs/",
+      "source_url": "https://www.autizam.org.rs/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Listed as 'Serbian Society for Autism' in Autism-Europe's August 2026 member directory. Founding year and leadership composition not stated on the site."
+    },
+    {
       "id": "autism-resource-centre-singapore",
       "name": "Autism Resource Centre (Singapore)",
       "name_local": null,
@@ -2050,6 +4870,115 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Runs Pathlight School, Singapore's first autism-focused school."
+    },
+    {
+      "id": "a-centrum-slovakia",
+      "name": "A Centrum",
+      "name_local": null,
+      "summary": "Slovak organisation running education, conferences and a self-advocacy programme ('Kľúče k sebaobhajobe') on autism, Asperger syndrome and neurodiversity, involving neurodivergent young people as volunteers and advocates.",
+      "type": "education",
+      "focus": [
+        "autism",
+        "neurodiversity-general"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "SK",
+      "country_name": "Slovakia",
+      "region": "Bratislava",
+      "lat": 48.1486,
+      "lng": 17.1077,
+      "languages": [
+        "sk"
+      ],
+      "url": "https://www.a-centrum.net/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Associate member of EUCAP. Leads courses/podcasts through Viera Hincová; not explicitly stated whether the organisation itself is autistic-led."
+    },
+    {
+      "id": "sposa-slovakia",
+      "name": "S.P.O.S.A. (Slovak Autism Society)",
+      "name_local": "Spoločnosť na pomoc osobám s autizmom",
+      "summary": "A Bratislava-based Slovak national association offering autism education, counselling, a virtual-reality autism simulator, and the 'Autists at Work' employment training programme.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "SK",
+      "country_name": "Slovakia",
+      "region": "Bratislava",
+      "lat": 48.15,
+      "lng": 17.11,
+      "languages": [
+        "sk"
+      ],
+      "url": "https://www.sposa.sk/",
+      "source_url": "https://www.sposa.sk/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Site footer shows a 2016 copyright year, which may not reflect the organisation's actual founding date; leadership composition not stated."
+    },
+    {
+      "id": "zveza-nvo-avtizem-slovenije",
+      "name": "Association of NGOs for Autism Slovenia",
+      "name_local": "Zveza NVO za avtizem Slovenije",
+      "summary": "A Slovenian national association bringing together NGOs working on autism, listed as an Autism-Europe affiliated member representing the country's autism community.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "SI",
+      "country_name": "Slovenia",
+      "region": "Žalec",
+      "lat": 46.25,
+      "lng": 15.16,
+      "languages": [
+        "sl"
+      ],
+      "url": "https://www.zveza-avtizem.eu/",
+      "source_url": "https://www.autismeurope.org/wp-content/uploads/2026/08/Members-associations-of-Autism-Europe_Aug2026.pdf",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "The site returns an automated bot-verification page to scripted requests, so it could not be read directly; its existence and role are confirmed via Autism-Europe's official August 2026 member directory. Founding year and leadership composition unconfirmed."
+    },
+    {
+      "id": "mad-in-slovenia",
+      "name": "Mad in Slovenia",
+      "name_local": null,
+      "summary": "Slovenian affiliate of the Mad in the World network, launched in spring 2025, publishing critical-psychiatry articles, professional contributions and a resource page for relatives; grew to over 70 members by December 2025.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "SI",
+      "country_name": "Slovenia",
+      "region": "Ljubljana (national scope; editorial base not stated)",
+      "lat": 46.06,
+      "lng": 14.51,
+      "languages": [
+        "sl"
+      ],
+      "url": "https://www.madinslovenia.org/",
+      "source_url": "https://www.madinamerica.com/",
+      "founded": 2025,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "One of the newest Mad in the World affiliates as of this writing."
     },
     {
       "id": "autism-south-africa",
@@ -2105,6 +5034,313 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Grew out of peer meetings among patients at Madrid's Centro de Especialidades Argüelles from 2012. amatdah.org returned HTTP 429 (rate-limited) on repeated automated checks in this session; existence and current activity were confirmed via the SID-INICO and SOM360 directories instead."
+    },
+    {
+      "id": "cepama-spain",
+      "name": "CEPAMA (Committee for the Promotion and Support of Autistic Girls and Women)",
+      "name_local": "Comité para la Promoción y Apoyo de las Niñas y Mujeres Autistas",
+      "summary": "Spanish association of autistic women working on the rights, visibility and research access of autistic girls and women, including a participatory research project with the University of Lisbon on employment, education and healthcare.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "ES",
+      "country_name": "Spain",
+      "region": "Valdemorillo, Madrid",
+      "lat": 40.509,
+      "lng": -4.061,
+      "languages": [
+        "es"
+      ],
+      "url": "https://cepama.es/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. Site states 'somos mujeres autistas' (we are autistic women) and describes governance by autistic women."
+    },
+    {
+      "id": "debajo-del-sombrero",
+      "name": "Debajo del Sombrero",
+      "name_local": "Debajo del Sombrero",
+      "summary": "Debajo del Sombrero is a Madrid nonprofit platform, active since 2007, running an assisted art studio and gallery where professional staff accompany artists with intellectual disabilities in creating, exhibiting, and selling contemporary art.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "ES",
+      "country_name": "Spain",
+      "region": "Madrid",
+      "lat": 40.42,
+      "lng": -3.7,
+      "languages": [
+        "es",
+        "en"
+      ],
+      "url": "https://debajodelsombrero.es/",
+      "source_url": "https://debajodelsombrero.es/",
+      "founded": 2007,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "debajodelsombrero.org (alternate domain) timed out on curl (20s connection timeout) and was not used; debajodelsombrero.es returned 200 OK. 2007 founding date is from third-party arts-press coverage (masdearte.com, mediacionartistica.org) found before search quota ran out, not an explicit dated claim on the official site itself."
+    },
+    {
+      "id": "orgullo-loco-madrid",
+      "name": "Mad Pride Madrid (Orgullo Loco)",
+      "name_local": "Orgullo Loco Madrid",
+      "summary": "A Madrid psychiatric-survivor collective organising around Mad Pride, publishing a blog on mental-health activism, deinstitutionalization and reclaiming madness as identity rather than illness.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "ES",
+      "country_name": "Spain",
+      "region": "Madrid",
+      "lat": 40.41091,
+      "lng": -3.67928,
+      "languages": [
+        "es"
+      ],
+      "url": "https://orgullolocomadrid.wordpress.com/",
+      "source_url": "https://orgullolocomadrid.wordpress.com/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the same Latin/Iberian Orgullo Loco movement as the Buenos Aires and Chile entries already in the atlas."
+    },
+    {
+      "id": "autism-sverige",
+      "name": "Autism Sverige",
+      "name_local": null,
+      "summary": "Sweden's national autism federation, based in Stockholm and organised into district associations, providing information, an ombudsman service, policy advocacy, and a training centre for professionals and families.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "SE",
+      "country_name": "Sweden",
+      "region": "Stockholm",
+      "lat": 59.33,
+      "lng": 18.06,
+      "languages": [
+        "sv"
+      ],
+      "url": "https://www.autism.se/",
+      "source_url": "https://www.autism.se/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "dyslexiforbundet-sweden",
+      "name": "Dyslexiförbundet",
+      "name_local": null,
+      "summary": "Swedish national federation for people with dyslexia and dyscalculia, based in Stockholm, offering educational and workplace guidance, a writing-support helpline, assistive-technology information and a member magazine.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia",
+        "dyscalculia"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "SE",
+      "country_name": "Sweden",
+      "region": "Stockholm",
+      "lat": 59.3096,
+      "lng": 18.1042,
+      "languages": [
+        "sv"
+      ],
+      "url": "http://www.dyslexi.org",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Patron is Prince Carl Philip of Sweden."
+    },
+    {
+      "id": "mad-in-sweden",
+      "name": "Mad in Sweden",
+      "name_local": null,
+      "summary": "Swedish affiliate of the Mad in the World network, publishing critical-psychiatry journalism, research summaries and therapy-policy commentary in Swedish.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "SE",
+      "country_name": "Sweden",
+      "region": "Stockholm (national scope; editorial base not stated)",
+      "lat": 59.33,
+      "lng": 18.07,
+      "languages": [
+        "sv"
+      ],
+      "url": "http://madinsweden.org/",
+      "source_url": "https://www.madinamerica.com/2022/03/profile-mad-sweden/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Part of the Mad in the World network."
+    },
+    {
+      "id": "organiserade-autister-sweden",
+      "name": "Organiserade Autister",
+      "name_local": null,
+      "summary": "Swedish interest association of and for autistic people (formerly known as Organiserade Aspergare), running discussion groups and community activities and promoting neurodiversity and self-determination.",
+      "type": "community",
+      "focus": [
+        "autism",
+        "neurodiversity-general"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "SE",
+      "country_name": "Sweden",
+      "region": "Sweden (national)",
+      "lat": 59.3293,
+      "lng": 18.0686,
+      "languages": [
+        "sv"
+      ],
+      "url": "https://autister.org/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. Site describes itself as 'an interest association of and for autists.' Likely the current name of the organisation previously known as Organiserade Aspergare; no fixed city stated."
+    },
+    {
+      "id": "autismus-schweiz",
+      "name": "Autism Switzerland",
+      "name_local": "autismus schweiz",
+      "summary": "A Zurich-based Swiss network organisation providing an autism information platform, a nationwide directory of specialised services by canton, therapeutic training, and public-awareness campaigns.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "CH",
+      "country_name": "Switzerland",
+      "region": "Zurich",
+      "lat": 47.3769,
+      "lng": 8.5417,
+      "languages": [
+        "de",
+        "fr",
+        "it"
+      ],
+      "url": "https://www.autismus.ch/",
+      "source_url": "https://www.autismus.ch/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of Autism-Europe. Operates alongside partner organisations for French- and Italian-speaking Switzerland (including Autisme Suisse Romande). Founding year and leadership composition not stated on the site."
+    },
+    {
+      "id": "collection-de-lart-brut",
+      "name": "Collection de l'Art Brut",
+      "name_local": "Collection de l'Art Brut",
+      "summary": "The founding art brut museum, opened 1976 in Château de Beaulieu, Lausanne, from Jean Dubuffet's 1971 donation of ~5,000 works to the city; now holds over 60,000 pieces.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general",
+        "psychosis"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "CH",
+      "country_name": "Switzerland",
+      "region": "Lausanne, Vaud",
+      "lat": 46.53,
+      "lng": 6.63,
+      "languages": [
+        "fr",
+        "en"
+      ],
+      "url": "https://artbrut.ch/en/the-museum",
+      "source_url": "https://artbrut.ch/en/history",
+      "founded": 1976,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Curatorial institution run by the City of Lausanne, not artist-led. Many original works came from psychiatric patients, but the collection deliberately spans self-taught/marginal creators beyond that population."
+    },
+    {
+      "id": "netzwerk-stimmenhoeren-schweiz",
+      "name": "Netzwerk Stimmenhören Schweiz (Swiss Hearing Voices Network)",
+      "name_local": null,
+      "summary": "Switzerland's national Hearing Voices Network, coordinating peer groups and information for voice-hearers and listed as Switzerland's Intervoice contact.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "CH",
+      "country_name": "Switzerland",
+      "region": "Zurich",
+      "lat": 47.37,
+      "lng": 8.55,
+      "languages": [
+        "de"
+      ],
+      "url": "https://netzwerk-stimmenhoeren.ch/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
+      "id": "theater-hora",
+      "name": "Theater HORA",
+      "name_local": "Theater HORA",
+      "summary": "Zurich ensemble theatre founded in 1993 by Michael Elber, part of Stiftung Züriwerk since 2002; all ensemble actors have a certified cognitive/learning disability, while artistic and overall direction is held by non-disabled staff.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "CH",
+      "country_name": "Switzerland",
+      "region": "Zurich",
+      "lat": 47.37,
+      "lng": 8.54,
+      "languages": [
+        "de"
+      ],
+      "url": "https://hora.ch/",
+      "source_url": "https://hora.ch/hora-identitaet/",
+      "founded": 1993,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "18 full-time ensemble actors are IV-certified with cognitive disability; overall/artistic direction is non-disabled. 'Freie Republik HORA' lab (since 2013) lets ensemble members direct/choreograph their own work."
     },
     {
       "id": "autism-society-of-taiwan",
@@ -2165,6 +5401,33 @@
       "notes": "Parent association; partners with the government-accredited Autistic Thai Foundation."
     },
     {
+      "id": "denizli-autism-association-turkey",
+      "name": "Denizli Autism Association (DOD)",
+      "name_local": "Denizli Otizm Derneği",
+      "summary": "A rights-based Turkish civil-society organisation in Denizli, founded around 2016, publishing reports on discrimination against autistic people, offering family counselling, and sitting on the Turkish Autism Council.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "TR",
+      "country_name": "Turkey",
+      "region": "Denizli",
+      "lat": 37.77,
+      "lng": 29.09,
+      "languages": [
+        "tr"
+      ],
+      "url": "https://www.denizliotizm.org/",
+      "source_url": "https://www.denizliotizm.org/",
+      "founded": 2016,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Autism-Europe affiliated member; its General Secretary sits on the Autism-Europe Board of Directors. A regional rather than national body, distinct from the Turkish national anchor organisation Tohum Otizm already in this dataset. Founding year inferred from a '10th anniversary' reference in recent site news."
+    },
+    {
       "id": "tohum-otizm-vakfi",
       "name": "Tohum Otizm Vakfı (Tohum Autism Foundation)",
       "name_local": "Tohum Otizm Vakfı",
@@ -2220,6 +5483,33 @@
       "notes": null
     },
     {
+      "id": "child-with-future-ukraine",
+      "name": "Child With Future",
+      "name_local": "Дитина з майбутнім",
+      "summary": "A Kyiv-based Ukrainian foundation, active since around 2011, running a developmental kindergarten and international autism conferences, and representing Ukraine on Autism-Europe's board since 2012.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "UA",
+      "country_name": "Ukraine",
+      "region": "Kyiv",
+      "lat": 50.45,
+      "lng": 30.52,
+      "languages": [
+        "uk"
+      ],
+      "url": "https://www.cwf.com.ua/",
+      "source_url": "https://www.cwf.com.ua/",
+      "founded": 2011,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Autism-Europe affiliated member. Founding year inferred from a '15 years' reference on the site; leadership composition not stated."
+    },
+    {
       "id": "dubai-autism-center",
       "name": "Dubai Autism Center",
       "name_local": "مركز دبي للتوحد",
@@ -2246,6 +5536,61 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": null
+    },
+    {
+      "id": "argh-scotland",
+      "name": "ARGH Scotland",
+      "name_local": null,
+      "summary": "Scottish charitable incorporated organisation based in the Highlands whose committee and full voting members are all autistic, doing collective advocacy, lobbying and campaigning on autism services across Scotland.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Inverness, Highlands, Scotland",
+      "lat": 57.4778,
+      "lng": -4.2247,
+      "languages": [
+        "en"
+      ],
+      "url": "https://arghscotland.org/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. The listed EUCAP URL (arghscotland.co.uk) now redirects permanently to arghscotland.org, used here. Partners with the Scottish Government on autism strategy."
+    },
+    {
+      "id": "amase-edinburgh",
+      "name": "Autistic Mutual Aid Society Edinburgh (AMASE)",
+      "name_local": null,
+      "summary": "Edinburgh-based Autistic People's Organisation whose full members are all autistic, running peer support, an online 'My Autism Story' event series, Autistic Pride and Weird Pride Day gatherings, and policy statements.",
+      "type": "community",
+      "focus": [
+        "autism",
+        "neurodiversity-general"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Edinburgh, Scotland",
+      "lat": 55.9533,
+      "lng": -3.1883,
+      "languages": [
+        "en"
+      ],
+      "url": "https://amase.org.uk/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Full member of EUCAP. Site states 'all full members are autistic.' Most events run online."
     },
     {
       "id": "autistic-uk",
@@ -2304,6 +5649,118 @@
       "notes": "Registered UK charity since 2011; most organisers are autistic. Venue varies by year, recently High Leigh in Hoddesdon; some years run as an online-only edition."
     },
     {
+      "id": "bethlem-museum-of-the-mind",
+      "name": "Bethlem Museum of the Mind",
+      "name_local": null,
+      "summary": "Museum of mental health history and patient art on the grounds of Bethlem Royal Hospital (Beckenham), opened in its current Art Deco building in March 2015 as the public face of the Bethlem Art and History Collections Trust (est. 1970).",
+      "type": "arts",
+      "focus": [
+        "psychosis",
+        "neurodiversity-general"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Beckenham, London",
+      "lat": 51.38,
+      "lng": -0.04,
+      "languages": [
+        "en"
+      ],
+      "url": "https://museumofthemind.org.uk/",
+      "source_url": "https://museumofthemind.org.uk/about",
+      "founded": 2015,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Run by the hospital-linked charitable trust; archive/collection roots go back to 1970. Distinct from the separate Bethlem Gallery, which is more directly artist-facing."
+    },
+    {
+      "id": "blue-apple-theatre",
+      "name": "Blue Apple Theatre",
+      "name_local": null,
+      "summary": "Winchester, UK theatre company founded in 2005 by Jane Jessop, producing theatre, dance, singing and film with performers who have learning disabilities; operates as a working name of the Minstead Trust charity.",
+      "type": "arts",
+      "focus": [
+        "learning-disabilities",
+        "intellectual-disability",
+        "down-syndrome"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Winchester, Hampshire, England",
+      "lat": 51.06,
+      "lng": -1.31,
+      "languages": [
+        "en"
+      ],
+      "url": "https://blueappletheatre.com",
+      "source_url": "https://blueappletheatre.com/our-mission-1",
+      "founded": 2005,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Founded by Jane Jessop (non-disabled), mother of company member Tommy Jessop, who has Down syndrome; site separates 'Performers' from 'Staff/Facilitators/Trustees'."
+    },
+    {
+      "id": "bda-uk",
+      "name": "British Dyslexia Association (BDA)",
+      "name_local": null,
+      "summary": "English registered charity providing dyslexia and dyscalculia assessments, teacher training and accreditation, a helpline, and a Dyslexia Friendly Quality Mark for schools and workplaces.",
+      "type": "advocacy",
+      "focus": [
+        "dyslexia",
+        "dyscalculia"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Bracknell, England",
+      "lat": 51.4136,
+      "lng": -0.7538,
+      "languages": [
+        "en"
+      ],
+      "url": "http://www.bdadyslexia.org.uk",
+      "source_url": "https://eda-info.eu/members/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Effective member of the European Dyslexia Association. Registered charity 289243."
+    },
+    {
+      "id": "dadafest",
+      "name": "DaDaFest",
+      "name_local": null,
+      "summary": "Biennial disability and Deaf arts festival in Liverpool produced by DaDa, a self-described disability-controlled/disability-led arts organisation with roots to 1984; the festival launched in 2001.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "nd-led",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Liverpool, England",
+      "lat": 53.41,
+      "lng": -2.98,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.dadafest.co.uk/",
+      "source_url": "https://en.wikipedia.org/wiki/DaDaFest",
+      "founded": 2001,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Parent org DaDa traces roots to 1984 (as Arts Integrated Merseyside/North West Disability Arts Forum); DaDaFest festival itself began 2001."
+    },
+    {
       "id": "flow-observatorium",
       "name": "Flow Observatorium",
       "name_local": null,
@@ -2358,6 +5815,229 @@
       "notes": "Does not run local groups directly, only supports and networks them; work is carried out mostly by volunteers including trustees. Exact founding year not confirmed on-site."
     },
     {
+      "id": "heart-n-soul",
+      "name": "Heart n Soul",
+      "name_local": null,
+      "summary": "South East London arts organisation making music and performance work, originating from 1984 creative sessions in Lewisham and formally founded 1987; explicitly led by people with and without learning disabilities and autistic people.",
+      "type": "arts",
+      "focus": [
+        "learning-disabilities",
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Deptford/New Cross, London",
+      "lat": 51.48,
+      "lng": -0.03,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.heartnsoul.co.uk/",
+      "source_url": "https://www.heartnsoul.co.uk/who-we-are-page",
+      "founded": 1987,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Founding date varies across sources (1984 workshops, 1986 performance company, 1987 per Shape Arts timeline); leadership language ('led by people with and without learning disabilities and autistic people') is the org's own self-description."
+    },
+    {
+      "id": "hijinx-theatre",
+      "name": "Hijinx Theatre",
+      "name_local": null,
+      "summary": "Cardiff-based inclusive theatre company founded in 1981 by Gaynor Lougher and Richard Berry; centers learning disabled and/or autistic artists as its core ensemble, currently under co-CEOs Ben Pettitt-Wade and Eloise Tong.",
+      "type": "arts",
+      "focus": [
+        "autism",
+        "learning-disabilities",
+        "intellectual-disability",
+        "neurodiversity-general"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Cardiff, Wales",
+      "lat": 51.46,
+      "lng": -3.16,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.hijinx.org.uk",
+      "source_url": "https://www.hijinx.org.uk/meet-the-team/",
+      "founded": 1981,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Founders and current leadership are not disclosed as disabled; org's own language centers learning disabled/autistic artists as creative contributors without stating they hold governance roles."
+    },
+    {
+      "id": "mad-in-the-uk",
+      "name": "Mad in the UK",
+      "name_local": null,
+      "summary": "British affiliate of the Mad in the World network, publishing critical-psychiatry journalism, blogs and 'around the web' roundups since 2018, distinct from the earlier-founded Mad in Ireland.",
+      "type": "media",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "London, England (national scope; editorial base not stated)",
+      "lat": 51.50091,
+      "lng": -0.10928,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.madintheuk.com/",
+      "source_url": "https://www.madintheuk.com/2018/09/welcome-to-mad-in-the-uk/",
+      "founded": 2018,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "About page returned 403 to automated requests; founding confirmed instead via the site's own 2018 welcome post."
+    },
+    {
+      "id": "mind-the-gap",
+      "name": "Mind the Gap",
+      "name_local": null,
+      "summary": "Bradford-based learning disability and autism performance and live-arts company founded in 1988 by Tim Wheeler and Susan Brown; learning disabled and autistic artists co-create productions and help steer the company's creative work.",
+      "type": "arts",
+      "focus": [
+        "learning-disabilities",
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Bradford, West Yorkshire",
+      "lat": 53.79,
+      "lng": -1.75,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.mind-the-gap.org.uk/",
+      "source_url": "https://www.mind-the-gap.org.uk/about/",
+      "founded": 1988,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Site states artists 'directly influence and steer' the work and its vision is a world where 'learning disabled and autistic voices lead the way' — aspirational/future-tense, not a present-tense 'led by' claim. Current joint CEOs show no disability disclosure."
+    },
+    {
+      "id": "national-autistic-taskforce-uk",
+      "name": "National Autistic Taskforce (NAT)",
+      "name_local": null,
+      "summary": "British autistic-run body, founded 2018, that campaigns for better services for autistic people with high support needs, publishing independent care-quality guides and running the EQUALS Project on decision-making support.",
+      "type": "advocacy",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "United Kingdom (national)",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "languages": [
+        "en"
+      ],
+      "url": "https://nationalautistictaskforce.org.uk/",
+      "source_url": "https://eucap.eu/members/",
+      "founded": 2018,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Associate member of EUCAP. Describes itself as 'an innovative autistic-run body' focused on autistic people less able to self-advocate. No single headquarters city stated; placed at London as a national placeholder."
+    },
+    {
+      "id": "nsun",
+      "name": "National Survivor User Network (NSUN)",
+      "name_local": null,
+      "summary": "England's national lived-experience-led mental health charity, connecting and amplifying people with lived experience of mental distress and user-led grassroots groups, based in London.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "London, England",
+      "lat": 51.61,
+      "lng": -0.1,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.nsun.org.uk/",
+      "source_url": "https://www.nsun.org.uk/about-us/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Self-describes as 'England's only lived experience-led national mental health charity'. Registered address: 483 Green Lanes, London N13 4BS."
+    },
+    {
+      "id": "neuk-collective",
+      "name": "Neuk Collective",
+      "name_local": null,
+      "summary": "Scotland-wide community and advocacy network for neurodivergent artists, run under Door in the Wall Arts Access CIC (a disabled-led organisation) and founded by neurodivergent textile artist Tzipporah Johnston.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Scotland (Edinburgh & Glasgow)",
+      "lat": 55.95,
+      "lng": -3.19,
+      "languages": [
+        "en"
+      ],
+      "url": "https://neukcollective.co.uk/",
+      "source_url": "https://neukcollective.co.uk/about/",
+      "founded": null,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Exact founding year not stated on the site (its own 'Our story'/'history' subpages 404'd during verification); currently active with a directory, membership, and a 2026 Glasgow exhibition."
+    },
+    {
+      "id": "oska-bright-film-festival",
+      "name": "Oska Bright Film Festival",
+      "name_local": null,
+      "summary": "Biennial film festival in Brighton founded in 2004 by learning-disabled filmmakers, screening only films made by or featuring learning-disabled and/or autistic people, run today by a learning-disabled programming team under Carousel.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities",
+        "autism"
+      ],
+      "leadership": "nd-led",
+      "mode": "hybrid",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Brighton, England",
+      "lat": 50.82,
+      "lng": -0.14,
+      "languages": [
+        "en"
+      ],
+      "url": "https://oskabright.org/",
+      "source_url": "https://oskabright.org/about-us",
+      "founded": 2004,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
       "id": "parc-participatory-autism-research",
       "name": "Participatory Autism Research Collective (PARC)",
       "name_local": null,
@@ -2384,6 +6064,223 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Co-founded by Damian Milton and Nicola Martin; first meeting April 2015. Now spans several UK institutions including Birmingham, Sheffield Hallam and Nottingham. Active in 2026 per site events listing."
+    },
+    {
+      "id": "raw-vision",
+      "name": "Raw Vision",
+      "name_local": null,
+      "summary": "Quarterly print and online magazine devoted to outsider art and art brut, founded by John Maizels in London in 1989 and now headquartered in Radlett, Hertfordshire.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "ally-led",
+      "mode": "hybrid",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Radlett, Hertfordshire",
+      "lat": 51.68,
+      "lng": -0.32,
+      "languages": [
+        "en"
+      ],
+      "url": "https://rawvision.com/",
+      "source_url": "https://en.wikipedia.org/wiki/Raw_Vision",
+      "founded": 1989,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Edited/founded by art historian John Maizels, not by neurodivergent or disabled staff explicitly."
+    },
+    {
+      "id": "recovery-in-the-bin",
+      "name": "Recovery in the Bin (RITB)",
+      "name_local": null,
+      "summary": "A UK critical-theorist and activist collective that critiques mainstream 'recovery' models in mental health, publishing survivor-led frameworks like the '#Neorecovery' critique and the Unrecovery Star.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "United Kingdom (online collective; no fixed city stated)",
+      "lat": 51.49,
+      "lng": -0.14,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.recoveryinthebin.org/",
+      "source_url": "https://www.recoveryinthebin.org/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site explicitly publishes a piece titled '#Neorecovery: A Survivor Led Conceptualisation and Critique', supporting the nd-led designation."
+    },
+    {
+      "id": "scottish-adhd-coalition",
+      "name": "Scottish ADHD Coalition",
+      "name_local": null,
+      "summary": "Scottish charity, founded 2017 out of a 2016 Dundee meeting of local groups, coordinating voluntary organisations across Scotland that support adults and children with ADHD, including youth groups, parent training and referral information.",
+      "type": "advocacy",
+      "focus": [
+        "adhd"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Dundee, Scotland",
+      "lat": 56.462,
+      "lng": -2.9707,
+      "languages": [
+        "en"
+      ],
+      "url": "https://scottishadhdcoalition.org",
+      "source_url": "https://adhdeurope.eu/members/",
+      "founded": 2017,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "One of ADHD Europe's newest (2025) national member organisations, though the coalition itself dates to 2017. Registered Scottish charity SC047320."
+    },
+    {
+      "id": "scottish-autism",
+      "name": "Scottish Autism",
+      "name_local": null,
+      "summary": "Scotland's largest autism-specific service provider, founded in 1968 by a group of parents, running residential and day support, an advice line, family support and participatory research through its Centre for Practice, Policy and Research.",
+      "type": "care",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "Alloa, Scotland",
+      "lat": 56.1189,
+      "lng": -3.7896,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.scottishautism.org/",
+      "source_url": "https://www.scottishautism.org/",
+      "founded": 1968,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Included as a large, well-known ally-led anchor organisation for Scotland, in contrast to the autistic-led ARGH Scotland and AMASE entries in this batch."
+    },
+    {
+      "id": "soteria-network-uk",
+      "name": "Soteria Network UK",
+      "name_local": null,
+      "summary": "A UK network of service users, survivors, carers, activists and professionals promoting the drug-free or minimum-medication Soteria House model for people experiencing psychosis.",
+      "type": "advocacy",
+      "focus": [
+        "mad-pride",
+        "psychosis"
+      ],
+      "leadership": "mixed",
+      "mode": "online",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "United Kingdom (online network; no fixed city stated)",
+      "lat": 51.53,
+      "lng": -0.08,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.soterianetwork.org.uk/",
+      "source_url": "https://www.soterianetwork.org.uk/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Self-describes as part of 'an international movement of service users, survivors, activists, carers, academics and professionals'."
+    },
+    {
+      "id": "survivor-researcher-network",
+      "name": "Survivor Researcher Network",
+      "name_local": null,
+      "summary": "A UK network for and by psychiatric-survivor and service-user researchers, hosted by the National Survivor User Network (NSUN), supporting peer-led mental-health research and skill-sharing.",
+      "type": "research",
+      "focus": [
+        "mad-pride"
+      ],
+      "leadership": "nd-led",
+      "mode": "online",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "London, England",
+      "lat": 51.5,
+      "lng": -0.12,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.nsun.org.uk/support/survivor-researcher-network/",
+      "source_url": "https://www.nsun.org.uk/support/survivor-researcher-network/",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Operates as a programme of NSUN, also in this file, rather than as a separately incorporated organisation."
+    },
+    {
+      "id": "museum-of-everything",
+      "name": "The Museum of Everything",
+      "name_local": null,
+      "summary": "UK registered charity and travelling museum for self-taught, art brut and outsider art, founded by James Brett in London in 2009; operates the Gallery of Everything, its commercial space on Chiltern Street.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "London, England",
+      "lat": 51.52,
+      "lng": -0.16,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.museumofeverything.com",
+      "source_url": "https://en.wikipedia.org/wiki/The_Museum_of_Everything_(museum)",
+      "founded": 2009,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Site 301-redirects to musevery.com (HTTP 200). Curated by founder James Brett, not by ND/disabled people themselves. Touring model plus fixed Gallery of Everything retail space; recent (2025/26) exhibition dates not independently confirmed."
+    },
+    {
+      "id": "unlimited-uk",
+      "name": "Unlimited",
+      "name_local": null,
+      "summary": "UK commissioning body backing new work by disabled artists since 2012, delivered in partnership by disability-led charity Shape Arts and producer Artsadmin, staging periodic festivals in London.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "GB",
+      "country_name": "United Kingdom",
+      "region": "London, England",
+      "lat": 51.51,
+      "lng": -0.13,
+      "languages": [
+        "en"
+      ],
+      "url": "https://weareunlimited.org.uk/",
+      "source_url": "https://en.wikipedia.org/wiki/Unlimited_(arts_initiative)",
+      "founded": 2012,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Originally conceived by Arts Council England for the 2012 Cultural Olympiad; delivery partnership pairs disability-led Shape Arts with Artsadmin, which is not disability-led per available sources — hence 'mixed' rather than 'nd-led'."
     },
     {
       "id": "aaspire",
@@ -2552,6 +6449,34 @@
       "notes": "Founding date is given as 1973 or 1974 in different sources; founded by educator Florence Ludins-Katz and psychologist Elias Katz."
     },
     {
+      "id": "creativity-explored",
+      "name": "Creativity Explored",
+      "name_local": null,
+      "summary": "Creativity Explored is a San Francisco studio founded in 1983 by Florence Ludins-Katz and Elias Katz that gives adults with developmental disabilities studio access, materials, and professional support to create and sell art.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "US",
+      "country_name": "United States",
+      "region": "San Francisco, California",
+      "lat": 37.77,
+      "lng": -122.42,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.creativityexplored.org/",
+      "source_url": "https://www.creativityexplored.org/history",
+      "founded": 1983,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Curl 200 OK. Site language is 'partners with artists with developmental disabilities'; run by professional staff, not artist-governed."
+    },
+    {
       "id": "fireweed-collective",
       "name": "Fireweed Collective",
       "name_local": null,
@@ -2610,6 +6535,63 @@
       "notes": null
     },
     {
+      "id": "hearing-voices-network-usa",
+      "name": "Hearing Voices Network USA",
+      "name_local": null,
+      "summary": "The USA's national Hearing Voices Network, coordinating peer support groups, training and a resource directory for voice-hearers across the country.",
+      "type": "community",
+      "focus": [
+        "hearing-voices",
+        "psychosis"
+      ],
+      "leadership": "unknown",
+      "mode": "online",
+      "country": "US",
+      "country_name": "United States",
+      "region": "Northampton, MA (approximate; site did not state a fixed HQ)",
+      "lat": 42.32,
+      "lng": -72.64,
+      "languages": [
+        "en"
+      ],
+      "url": "https://hearingvoicesusa.org/",
+      "source_url": "https://www.intervoiceonline.org/national-networks",
+      "founded": null,
+      "added": "2026-09-08",
+      "verified": "2026-09-08",
+      "added_by": "editorial",
+      "notes": "Site blocked most automated requests with HTTP 429/403; a plain GET without www eventually returned HTTP 202. Region is an approximate placeholder in western Massachusetts, historically a hub of US peer/HV organising; a moderator should confirm the network's actual current base."
+    },
+    {
+      "id": "land-gallery",
+      "name": "LAND Gallery",
+      "name_local": null,
+      "summary": "LAND Studio & Gallery is a nonprofit day-habilitation program in Brooklyn, NY, founded in 2005 by the League Education and Treatment Center, teaching life skills through art alongside professional artists.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities",
+        "autism"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "US",
+      "country_name": "United States",
+      "region": "Brooklyn, New York",
+      "lat": 40.71,
+      "lng": -73.96,
+      "languages": [
+        "en"
+      ],
+      "url": "https://landgallery.org/",
+      "source_url": "https://landgallery.org/about",
+      "founded": 2005,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
       "id": "mindfreedom-international",
       "name": "MindFreedom International",
       "name_local": null,
@@ -2638,6 +6620,147 @@
       "notes": "Membership is majority psychiatric survivors; site states MFI \"was started by psychiatric survivors.\""
     },
     {
+      "id": "niad-art-center",
+      "name": "NIAD Art Center",
+      "name_local": null,
+      "summary": "NIAD Art Center is a nonprofit studio in Richmond, California for adult artists with developmental and physical disabilities, founded in 1982, where staff support artists in creating and selling work.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "unknown",
+      "mode": "physical",
+      "country": "US",
+      "country_name": "United States",
+      "region": "Richmond, California",
+      "lat": 37.94,
+      "lng": -122.35,
+      "languages": [
+        "en"
+      ],
+      "url": "https://niadart.org/",
+      "source_url": "https://en.wikipedia.org/wiki/NIAD_Art_Center",
+      "founded": 1982,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "www.niadart.org 301-redirects to niadart.org (final 200 OK, curl-verified). Site does not state a leadership model explicitly."
+    },
+    {
+      "id": "passion-works-studio",
+      "name": "Passion Works Studio",
+      "name_local": null,
+      "summary": "Passion Works Studio is a nonprofit collaborative art studio in Athens, Ohio, creating paid creative work for artists with and without developmental disabilities, best known for its handmade Passion Flowers.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "mixed",
+      "mode": "physical",
+      "country": "US",
+      "country_name": "United States",
+      "region": "Athens, Ohio",
+      "lat": 39.33,
+      "lng": -82.1,
+      "languages": [
+        "en"
+      ],
+      "url": "https://passionworks.org/",
+      "source_url": "https://passionworks.org/pages/values",
+      "founded": null,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Founding year not stated on official pages checked (site references '20 years' of undated copy and Patty Mitchell working there 'since 1994'); could not independently verify this session. 'mixed' leadership reflects the site's own framing as 'creative people with and without developmental differences' working collaboratively, plus 'we wanted to create an organization that follows the lead, talent and interests of our artists.'"
+    },
+    {
+      "id": "project-onward",
+      "name": "Project Onward",
+      "name_local": null,
+      "summary": "Project Onward is a nonprofit studio and gallery in Chicago, founded in 2004 out of the city's Gallery 37 youth program, providing studio space, materials, and career support to more than 60 adult artists with disabilities and mental illness.",
+      "type": "arts",
+      "focus": [
+        "intellectual-disability",
+        "learning-disabilities",
+        "neurodiversity-general"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "US",
+      "country_name": "United States",
+      "region": "Chicago, Illinois",
+      "lat": 41.88,
+      "lng": -87.63,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.projectonward.org/",
+      "source_url": "https://www.projectonward.org/",
+      "founded": 2004,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": null
+    },
+    {
+      "id": "pure-vision-arts",
+      "name": "Pure Vision Arts",
+      "name_local": null,
+      "summary": "Pure Vision Arts is a studio and exhibition space in New York City, founded in 2002 as a program of The Shield Institute, staffed by art-education and art-therapy professionals who support artists with autism and other developmental disabilities.",
+      "type": "arts",
+      "focus": [
+        "autism",
+        "intellectual-disability",
+        "learning-disabilities"
+      ],
+      "leadership": "ally-led",
+      "mode": "physical",
+      "country": "US",
+      "country_name": "United States",
+      "region": "New York, New York",
+      "lat": 40.71,
+      "lng": -74.01,
+      "languages": [
+        "en"
+      ],
+      "url": "https://www.purevisionarts.org/",
+      "source_url": "https://www.purevisionarts.org/about",
+      "founded": 2002,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "purevisionarts.org 301-redirects to www.purevisionarts.org (final 200 OK, curl-verified)."
+    },
+    {
+      "id": "reelabilities-film-festival-new-york",
+      "name": "ReelAbilities Film Festival: New York",
+      "name_local": null,
+      "summary": "Film festival dedicated to disability representation on and off screen, founded in 2007 at the Marlene Meyerson JCC Manhattan and now the flagship of a touring ReelAbilities network across the US.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "US",
+      "country_name": "United States",
+      "region": "New York, New York",
+      "lat": 40.78,
+      "lng": -73.99,
+      "languages": [
+        "en"
+      ],
+      "url": "https://reelabilities.org/newyork",
+      "source_url": "https://reelabilities.org/our-story",
+      "founded": 2007,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Leadership marked unknown: available sources name JCC Manhattan and co-directors but do not state whether disabled people hold leadership/staff roles."
+    },
+    {
       "id": "stanford-neurodiversity-project",
       "name": "Stanford Neurodiversity Project",
       "name_local": null,
@@ -2664,6 +6787,60 @@
       "verified": "2026-09-08",
       "added_by": "editorial",
       "notes": "Name is in transition from \"Stanford Neurodiversity Project\" to \"Stanford Center for Neurodiversity and Human Potential\"; both names appear on Stanford's own pages."
+    },
+    {
+      "id": "superfest-disability-film-festival",
+      "name": "Superfest International Disability Film Festival",
+      "name_local": null,
+      "summary": "Longest-running disability film festival in the world, founded in 1970, now produced by the Paul K. Longmore Institute on Disability and the San Francisco Disability Cultural Center in the Bay Area.",
+      "type": "arts",
+      "focus": [
+        "neurodiversity-general"
+      ],
+      "leadership": "unknown",
+      "mode": "hybrid",
+      "country": "US",
+      "country_name": "United States",
+      "region": "San Francisco Bay Area, California",
+      "lat": 37.76091,
+      "lng": -122.39928,
+      "languages": [
+        "en"
+      ],
+      "url": "https://superfestfilm.org/",
+      "source_url": "https://en.wikipedia.org/wiki/Superfest_International_Disability_Film_Festival",
+      "founded": 1970,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Leadership marked unknown: sources confirm disabled people serve as judges but do not explicitly state staff/leadership disability status."
+    },
+    {
+      "id": "the-art-of-autism",
+      "name": "The Art of Autism",
+      "name_local": null,
+      "summary": "San Diego-based 501(c)(3) nonprofit, founded 2005, that promotes autistic artists via an online gallery, exhibits and film festivals; states its board is approximately 50% autistic.",
+      "type": "arts",
+      "focus": [
+        "autism"
+      ],
+      "leadership": "mixed",
+      "mode": "hybrid",
+      "country": "US",
+      "country_name": "United States",
+      "region": "San Diego, California",
+      "lat": 32.72,
+      "lng": -117.16,
+      "languages": [
+        "en"
+      ],
+      "url": "https://the-art-of-autism.com/",
+      "source_url": "https://the-art-of-autism.com/mission/fact-sheet/",
+      "founded": 2005,
+      "added": "2026-09-09",
+      "verified": "2026-09-09",
+      "added_by": "editorial",
+      "notes": "Explicitly self-reports ~50% autistic board composition on its own fact sheet; active with content through August 2026."
     },
     {
       "id": "color-of-autism-foundation",

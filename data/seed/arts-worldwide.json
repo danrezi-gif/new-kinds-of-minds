@@ -1,0 +1,1183 @@
+[
+  {
+    "id": "niad-art-center",
+    "name": "NIAD Art Center",
+    "name_local": null,
+    "summary": "NIAD Art Center is a nonprofit studio in Richmond, California for adult artists with developmental and physical disabilities, founded in 1982, where staff support artists in creating and selling work.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Richmond, California",
+    "lat": 37.94,
+    "lng": -122.35,
+    "languages": [
+      "en"
+    ],
+    "url": "https://niadart.org/",
+    "source_url": "https://en.wikipedia.org/wiki/NIAD_Art_Center",
+    "founded": 1982,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "www.niadart.org 301-redirects to niadart.org (final 200 OK, curl-verified). Site does not state a leadership model explicitly."
+  },
+  {
+    "id": "creativity-explored",
+    "name": "Creativity Explored",
+    "name_local": null,
+    "summary": "Creativity Explored is a San Francisco studio founded in 1983 by Florence Ludins-Katz and Elias Katz that gives adults with developmental disabilities studio access, materials, and professional support to create and sell art.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "San Francisco, California",
+    "lat": 37.77,
+    "lng": -122.42,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.creativityexplored.org/",
+    "source_url": "https://www.creativityexplored.org/history",
+    "founded": 1983,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Curl 200 OK. Site language is 'partners with artists with developmental disabilities'; run by professional staff, not artist-governed."
+  },
+  {
+    "id": "project-onward",
+    "name": "Project Onward",
+    "name_local": null,
+    "summary": "Project Onward is a nonprofit studio and gallery in Chicago, founded in 2004 out of the city's Gallery 37 youth program, providing studio space, materials, and career support to more than 60 adult artists with disabilities and mental illness.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Chicago, Illinois",
+    "lat": 41.88,
+    "lng": -87.63,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.projectonward.org/",
+    "source_url": "https://www.projectonward.org/",
+    "founded": 2004,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "pure-vision-arts",
+    "name": "Pure Vision Arts",
+    "name_local": null,
+    "summary": "Pure Vision Arts is a studio and exhibition space in New York City, founded in 2002 as a program of The Shield Institute, staffed by art-education and art-therapy professionals who support artists with autism and other developmental disabilities.",
+    "type": "arts",
+    "focus": [
+      "autism",
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "New York, New York",
+    "lat": 40.71,
+    "lng": -74.01,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.purevisionarts.org/",
+    "source_url": "https://www.purevisionarts.org/about",
+    "founded": 2002,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "purevisionarts.org 301-redirects to www.purevisionarts.org (final 200 OK, curl-verified)."
+  },
+  {
+    "id": "land-gallery",
+    "name": "LAND Gallery",
+    "name_local": null,
+    "summary": "LAND Studio & Gallery is a nonprofit day-habilitation program in Brooklyn, NY, founded in 2005 by the League Education and Treatment Center, teaching life skills through art alongside professional artists.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities",
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Brooklyn, New York",
+    "lat": 40.71,
+    "lng": -73.96,
+    "languages": [
+      "en"
+    ],
+    "url": "https://landgallery.org/",
+    "source_url": "https://landgallery.org/about",
+    "founded": 2005,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "passion-works-studio",
+    "name": "Passion Works Studio",
+    "name_local": null,
+    "summary": "Passion Works Studio is a nonprofit collaborative art studio in Athens, Ohio, creating paid creative work for artists with and without developmental disabilities, best known for its handmade Passion Flowers.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Athens, Ohio",
+    "lat": 39.33,
+    "lng": -82.1,
+    "languages": [
+      "en"
+    ],
+    "url": "https://passionworks.org/",
+    "source_url": "https://passionworks.org/pages/values",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founding year not stated on official pages checked (site references '20 years' of undated copy and Patty Mitchell working there 'since 1994'); could not independently verify this session. 'mixed' leadership reflects the site's own framing as 'creative people with and without developmental differences' working collaboratively, plus 'we wanted to create an organization that follows the lead, talent and interests of our artists.'"
+  },
+  {
+    "id": "arts-project-australia",
+    "name": "Arts Project Australia",
+    "name_local": null,
+    "summary": "Arts Project Australia is a Melbourne studio and gallery founded in 1974 by Myra Hilgendorf, the first full-time art studio in Australia dedicated to artists with intellectual disability, now supporting more than 150 artists.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "AU",
+    "country_name": "Australia",
+    "region": "Melbourne, Victoria",
+    "lat": -37.81,
+    "lng": 144.96,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.artsproject.org.au/",
+    "source_url": "https://en.wikipedia.org/wiki/Arts_Project_Australia",
+    "founded": 1974,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site's own tagline calls itself an organisation 'championing neurodivergent artists and artists with intellectual disability.'"
+  },
+  {
+    "id": "studio-a-sydney",
+    "name": "Studio A",
+    "name_local": null,
+    "summary": "Studio A is a supported studio based in St Leonards, Sydney, led by CEO/Artistic Director Gabrielle Mordy, providing professional development and commercial representation to artists with intellectual disability.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "AU",
+    "country_name": "Australia",
+    "region": "St Leonards, New South Wales",
+    "lat": -33.82,
+    "lng": 151.2,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.studioa.org.au/",
+    "source_url": "https://www.studioa.org.au/pages/mission",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founding year not stated on the mission/impact pages checked; could not verify this session."
+  },
+  {
+    "id": "atelier-incurve",
+    "name": "Atelier Incurve",
+    "name_local": "アトリエインカーブ",
+    "summary": "Atelier Incurve (renamed INCURVE in April 2024) is a licensed day-service art facility in Osaka operated by the Social Welfare Corporation Sou-kai for adults with intellectual disabilities under Japan's disability-support law.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "JP",
+    "country_name": "Japan",
+    "region": "Osaka",
+    "lat": 34.69,
+    "lng": 135.5,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "url": "https://incurve.jp/",
+    "source_url": "https://incurve.jp/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site confirms operation by Social Welfare Corporation Sou-kai and the 2024 rename to INCURVE, but does not state the studio's original founding year on pages checked."
+  },
+  {
+    "id": "able-art-japan",
+    "name": "Able Art Japan",
+    "name_local": "エイブル・アート・ジャパン",
+    "summary": "Able Art Japan is a Tokyo NPO founded in 1995 that supports people with disabilities in creating, exhibiting, and selling art; it co-founded the affiliated Able Art Company (2007), an agency licensing disabled artists' work commercially.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities",
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "JP",
+    "country_name": "Japan",
+    "region": "Tokyo",
+    "lat": 35.65,
+    "lng": 139.75,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "url": "https://ableart.org/",
+    "source_url": "https://ableart.org/aaj.html",
+    "founded": 1995,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Related entity Able Art Company (https://ableartcom.jp/, curl 200 OK) is an artist agency founded 2007 by three Japanese NPOs including Able Art Japan, HQ in Nara with a Tokyo office. Neither site explicitly claims artist-led governance; language is 'together with people with disabilities.'"
+  },
+  {
+    "id": "debajo-del-sombrero",
+    "name": "Debajo del Sombrero",
+    "name_local": "Debajo del Sombrero",
+    "summary": "Debajo del Sombrero is a Madrid nonprofit platform, active since 2007, running an assisted art studio and gallery where professional staff accompany artists with intellectual disabilities in creating, exhibiting, and selling contemporary art.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "ES",
+    "country_name": "Spain",
+    "region": "Madrid",
+    "lat": 40.42,
+    "lng": -3.7,
+    "languages": [
+      "es",
+      "en"
+    ],
+    "url": "https://debajodelsombrero.es/",
+    "source_url": "https://debajodelsombrero.es/",
+    "founded": 2007,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "debajodelsombrero.org (alternate domain) timed out on curl (20s connection timeout) and was not used; debajodelsombrero.es returned 200 OK. 2007 founding date is from third-party arts-press coverage (masdearte.com, mediacionartistica.org) found before search quota ran out, not an explicit dated claim on the official site itself."
+  },
+  {
+    "id": "kunsthuis-yellow-art",
+    "name": "Kunsthuis Yellow Art",
+    "name_local": "Kunsthuis Yellow Art",
+    "summary": "An art studio in Geel, Belgium for people with psychiatric or mental-health vulnerabilities, established as a permanent facility in 2004 by OPZ Geel, a public psychiatric care center; professional artists collaborate with about 30 participants outside a therapeutic framework.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "BE",
+    "country_name": "Belgium",
+    "region": "Geel, Antwerp Province",
+    "lat": 51.17,
+    "lng": 4.99,
+    "languages": [
+      "nl"
+    ],
+    "url": "https://www.yellowart.be",
+    "source_url": "https://www.yellowart.be/over-ons",
+    "founded": 2004,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Linked to OPZ Geel (public psychiatric hospital); grew out of the 2001 'Y.E.L.L.O.W.' exhibition curated by Jan Hoet. Serves psychiatric patients broadly, not a disability-specific studio."
+  },
+  {
+    "id": "la-s-grand-atelier",
+    "name": "La \"S\" Grand Atelier",
+    "name_local": "La « S » Grand Atelier",
+    "summary": "A center for art brut and contemporary art in Vielsalm, Belgium, founded in 1992 by director Anne-Francoise Rouche as a creative workshop for artists with intellectual disabilities, which also hosts professional artists for co-creation residencies.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "BE",
+    "country_name": "Belgium",
+    "region": "Vielsalm, Luxembourg Province",
+    "lat": 50.28,
+    "lng": 5.92,
+    "languages": [
+      "fr"
+    ],
+    "url": "https://lasgrandatelier.be",
+    "source_url": "https://www.bps22.be/en/exhibitions/la-s-grand-atelier",
+    "founded": 1992,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Official site is live (HTTP 200) but currently shows only an 'under reconstruction' placeholder — facts sourced from BPS22's exhibition page and the Vielsalm tourism site instead. Recognized as a Centre d'Art Brut & Contemporain by the Wallonia-Brussels Federation in 2019."
+  },
+  {
+    "id": "atelier-herenplaats",
+    "name": "Atelier Herenplaats",
+    "name_local": "Galerie Atelier Herenplaats",
+    "summary": "An art studio and gallery in Rotterdam, Netherlands, founded in 1991, providing studio space and training for about 35 artists with intellectual disabilities or psychiatric backgrounds, supervised by professional artists and art teachers.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "NL",
+    "country_name": "Netherlands",
+    "region": "Rotterdam, South Holland",
+    "lat": 51.92,
+    "lng": 4.48,
+    "languages": [
+      "nl",
+      "en"
+    ],
+    "url": "https://www.herenplaats.nl",
+    "source_url": "https://www.herenplaats.nl/en/about-herenplaats/",
+    "founded": 1991,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "atelier-goldstein",
+    "name": "Atelier Goldstein",
+    "name_local": "Atelier Goldstein",
+    "summary": "An artist studio in Frankfurt, Germany, founded in 2001 as a project of Lebenshilfe Frankfurt, offering individual artistic assistance from professional artists to people with cognitive disabilities; work has shown at documenta fifteen and Schirn Kunsthalle.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "DE",
+    "country_name": "Germany",
+    "region": "Frankfurt am Main, Hesse",
+    "lat": 50.11,
+    "lng": 8.68,
+    "languages": [
+      "de"
+    ],
+    "url": "https://www.atelier-goldstein.de",
+    "source_url": "https://www.atelier-goldstein.de/about/",
+    "founded": 2001,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site's WAF returns HTTP 500 on plain HEAD requests but 200 on GET (verified live via GET and WebFetch)."
+  },
+  {
+    "id": "kunstwerkstatt-lebenshilfe-berlin",
+    "name": "Kunstwerkstatt der Lebenshilfe Berlin",
+    "name_local": "Kunstwerkstatt der Lebenshilfe Berlin",
+    "summary": "An inclusive art workshop run by Lebenshilfe Berlin in Berlin, Germany, active since at least 1999 (its first exhibition), where professional facilitators guide clients with intellectual disabilities in painting and other visual art.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "DE",
+    "country_name": "Germany",
+    "region": "Berlin",
+    "lat": 52.52,
+    "lng": 13.4,
+    "languages": [
+      "de"
+    ],
+    "url": "http://kunstwerkstatt-lebenshilfe-berlin.de",
+    "source_url": "http://kunstwerkstatt-lebenshilfe-berlin.de/ueber-uns/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Domain works reliably only over plain HTTP; HTTPS fails TLS handshake. Exact founding year not stated on-site — earliest documented activity is its 1999 exhibition."
+  },
+  {
+    "id": "back-to-back-theatre",
+    "name": "Back to Back Theatre",
+    "name_local": null,
+    "summary": "Contemporary theatre company in Geelong whose ensemble consists of actors with disability; founded 1987, led by non-disabled Artistic Director Bruce Gladwin with a full-time disabled ensemble at its creative core.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "AU",
+    "country_name": "Australia",
+    "region": "Geelong, Victoria",
+    "lat": -38.15,
+    "lng": 144.36,
+    "languages": [
+      "en"
+    ],
+    "url": "https://backtobacktheatre.com/",
+    "source_url": "https://backtobacktheatre.com/about/people/",
+    "founded": 1987,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Ensemble members are neurodivergent/disabled; Artistic Director Bruce Gladwin is not disclosed as disabled. No 'led by disabled people' claim found on site."
+  },
+  {
+    "id": "restless-dance-theatre",
+    "name": "Restless Dance Theatre",
+    "name_local": null,
+    "summary": "Adelaide-based inclusive contemporary dance company founded in 1991 by Sally Chance and Tania Rose, building careers for disabled and neurodivergent dancers.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "AU",
+    "country_name": "Australia",
+    "region": "Adelaide, South Australia",
+    "lat": -34.93,
+    "lng": 138.6,
+    "languages": [
+      "en"
+    ],
+    "url": "https://restlessdance.org/",
+    "source_url": "https://restlessdance.org/our-history/",
+    "founded": 1991,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by non-disabled artists. Company's own history notes a former artistic director (2009) was 'the first artistic director with a disability in any Australian dance company', and current AD Michelle Ryan (since 2013) has MS — but no blanket 'disability-led' institutional claim, so kept as mixed."
+  },
+  {
+    "id": "mind-the-gap",
+    "name": "Mind the Gap",
+    "name_local": null,
+    "summary": "Bradford-based learning disability and autism performance and live-arts company founded in 1988 by Tim Wheeler and Susan Brown; learning disabled and autistic artists co-create productions and help steer the company's creative work.",
+    "type": "arts",
+    "focus": [
+      "learning-disabilities",
+      "autism"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Bradford, West Yorkshire",
+    "lat": 53.79,
+    "lng": -1.75,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.mind-the-gap.org.uk/",
+    "source_url": "https://www.mind-the-gap.org.uk/about/",
+    "founded": 1988,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site states artists 'directly influence and steer' the work and its vision is a world where 'learning disabled and autistic voices lead the way' — aspirational/future-tense, not a present-tense 'led by' claim. Current joint CEOs show no disability disclosure."
+  },
+  {
+    "id": "theater-hora",
+    "name": "Theater HORA",
+    "name_local": "Theater HORA",
+    "summary": "Zurich ensemble theatre founded in 1993 by Michael Elber, part of Stiftung Züriwerk since 2002; all ensemble actors have a certified cognitive/learning disability, while artistic and overall direction is held by non-disabled staff.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "CH",
+    "country_name": "Switzerland",
+    "region": "Zurich",
+    "lat": 47.37,
+    "lng": 8.54,
+    "languages": [
+      "de"
+    ],
+    "url": "https://hora.ch/",
+    "source_url": "https://hora.ch/hora-identitaet/",
+    "founded": 1993,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "18 full-time ensemble actors are IV-certified with cognitive disability; overall/artistic direction is non-disabled. 'Freie Republik HORA' lab (since 2013) lets ensemble members direct/choreograph their own work."
+  },
+  {
+    "id": "compagnie-oiseau-mouche",
+    "name": "Compagnie de l'Oiseau-Mouche",
+    "name_local": "Compagnie de l'Oiseau-Mouche",
+    "summary": "Roubaix theatre company founded in 1978 (professionalized 1981) as France's first artistic ESAT, with a permanent troupe of actors with intellectual/psychological disability directed by rotating outside stage directors.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "FR",
+    "country_name": "France",
+    "region": "Roubaix, Hauts-de-France",
+    "lat": 50.69,
+    "lng": 3.17,
+    "languages": [
+      "fr"
+    ],
+    "url": "https://www.oiseau-mouche.org/",
+    "source_url": "https://www.oiseau-mouche.org/le-projet/",
+    "founded": 1978,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "General/artistic direction held by non-disabled staff; productions staged by guest directors. Permanent troupe of ~20-23 comédien·ne·s have intellectual/psychological disability."
+  },
+  {
+    "id": "teatro-la-plaza",
+    "name": "Teatro La Plaza",
+    "name_local": "Teatro La Plaza",
+    "summary": "Theatre in Lima, Peru, founded in 2003 by a group of artists including director Chela De Ferrari (non-disabled); internationally known for productions 'Hamlet' (2021) and 'Ricardo III' (2023), which cast actors with Down syndrome.",
+    "type": "arts",
+    "focus": [
+      "down-syndrome"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "PE",
+    "country_name": "Peru",
+    "region": "Miraflores, Lima",
+    "lat": -12.12,
+    "lng": -77.03,
+    "languages": [
+      "es"
+    ],
+    "url": "https://laplaza.com.pe",
+    "source_url": "https://en.wikipedia.org/wiki/Teatro_La_Plaza",
+    "founded": 2003,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "General theatre venue directed by non-disabled founder; Down-syndrome casting applies to specific acclaimed productions, not a standing disabled ensemble. Site blocks some browser user-agents (403 on one UA, 200 on another) — confirmed live either way."
+  },
+  {
+    "id": "theater-thikwa",
+    "name": "Theater Thikwa",
+    "name_local": "Theater Thikwa",
+    "summary": "Berlin theatre company founded in 1991, self-described as a company where artists 'with and without disability' make theatre together; artistic direction is currently shared by Nicole Hummel and Laura Besch.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "DE",
+    "country_name": "Germany",
+    "region": "Berlin-Kreuzberg",
+    "lat": 52.49,
+    "lng": 13.39,
+    "languages": [
+      "de",
+      "en"
+    ],
+    "url": "https://www.thikwa.de",
+    "source_url": "https://www.thikwa.de/en/about-thikwa/about-thikwa-profil/",
+    "founded": 1991,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "blue-apple-theatre",
+    "name": "Blue Apple Theatre",
+    "name_local": null,
+    "summary": "Winchester, UK theatre company founded in 2005 by Jane Jessop, producing theatre, dance, singing and film with performers who have learning disabilities; operates as a working name of the Minstead Trust charity.",
+    "type": "arts",
+    "focus": [
+      "learning-disabilities",
+      "intellectual-disability",
+      "down-syndrome"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Winchester, Hampshire, England",
+    "lat": 51.06,
+    "lng": -1.31,
+    "languages": [
+      "en"
+    ],
+    "url": "https://blueappletheatre.com",
+    "source_url": "https://blueappletheatre.com/our-mission-1",
+    "founded": 2005,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by Jane Jessop (non-disabled), mother of company member Tommy Jessop, who has Down syndrome; site separates 'Performers' from 'Staff/Facilitators/Trustees'."
+  },
+  {
+    "id": "hijinx-theatre",
+    "name": "Hijinx Theatre",
+    "name_local": null,
+    "summary": "Cardiff-based inclusive theatre company founded in 1981 by Gaynor Lougher and Richard Berry; centers learning disabled and/or autistic artists as its core ensemble, currently under co-CEOs Ben Pettitt-Wade and Eloise Tong.",
+    "type": "arts",
+    "focus": [
+      "autism",
+      "learning-disabilities",
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Cardiff, Wales",
+    "lat": 51.46,
+    "lng": -3.16,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.hijinx.org.uk",
+    "source_url": "https://www.hijinx.org.uk/meet-the-team/",
+    "founded": 1981,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founders and current leadership are not disclosed as disabled; org's own language centers learning disabled/autistic artists as creative contributors without stating they hold governance roles."
+  },
+  {
+    "id": "cia-teatral-ueinzz",
+    "name": "Cia. Teatral Ueinzz",
+    "name_local": null,
+    "summary": "Theatre company in São Paulo, founded around 1997, whose ensemble mixes users of mental health/psychiatric services with professional actors and philosophers, closely associated with philosopher Peter Pál Pelbart.",
+    "type": "arts",
+    "focus": [
+      "psychosis",
+      "mad-pride"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "BR",
+    "country_name": "Brazil",
+    "region": "São Paulo, SP",
+    "lat": -23.55,
+    "lng": -46.63,
+    "languages": [
+      "pt"
+    ],
+    "url": "https://www.atelierpaulista.com/?page_id=976",
+    "source_url": "https://www.atelierpaulista.com/?page_id=976",
+    "founded": 1997,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "No dedicated official website found; sources vary on exact founding year (1996-1999). Confirmed active via a May 2024 performance listing. Peter Pál Pelbart is named as an actor-coordinator/member, not simply an outside academic observer. (original url https://x.com/ueinzz was a social-media link; replaced with source page)"
+  },
+  {
+    "id": "frente-de-artistas-del-borda",
+    "name": "Frente de Artistas del Borda",
+    "name_local": null,
+    "summary": "Arts collective founded in 1984 inside Buenos Aires' Borda psychiatric hospital, made up of current and former patients working alongside community members and professionals across theatre, music, and visual-arts workshops.",
+    "type": "arts",
+    "focus": [
+      "mad-pride",
+      "psychosis"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "AR",
+    "country_name": "Argentina",
+    "region": "Buenos Aires",
+    "lat": -34.61,
+    "lng": -58.38,
+    "languages": [
+      "es"
+    ],
+    "url": "http://frentedeartistasdelborda.blogspot.com/",
+    "source_url": "https://www.pagina12.com.ar/782907-el-frente-de-artistas-del-borda-cumple-40-anos/",
+    "founded": 1984,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Blog itself dormant since ~2012, but org's continued activity confirmed via 40th-anniversary (2024) press coverage and a live YouTube channel. A commonly cited domain, frentedeartistasdelbord.com, does not resolve (dead)."
+  },
+  {
+    "id": "dadafest",
+    "name": "DaDaFest",
+    "name_local": null,
+    "summary": "Biennial disability and Deaf arts festival in Liverpool produced by DaDa, a self-described disability-controlled/disability-led arts organisation with roots to 1984; the festival launched in 2001.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Liverpool, England",
+    "lat": 53.41,
+    "lng": -2.98,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.dadafest.co.uk/",
+    "source_url": "https://en.wikipedia.org/wiki/DaDaFest",
+    "founded": 2001,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Parent org DaDa traces roots to 1984 (as Arts Integrated Merseyside/North West Disability Arts Forum); DaDaFest festival itself began 2001."
+  },
+  {
+    "id": "unlimited-uk",
+    "name": "Unlimited",
+    "name_local": null,
+    "summary": "UK commissioning body backing new work by disabled artists since 2012, delivered in partnership by disability-led charity Shape Arts and producer Artsadmin, staging periodic festivals in London.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "London, England",
+    "lat": 51.51,
+    "lng": -0.13,
+    "languages": [
+      "en"
+    ],
+    "url": "https://weareunlimited.org.uk/",
+    "source_url": "https://en.wikipedia.org/wiki/Unlimited_(arts_initiative)",
+    "founded": 2012,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Originally conceived by Arts Council England for the 2012 Cultural Olympiad; delivery partnership pairs disability-led Shape Arts with Artsadmin, which is not disability-led per available sources — hence 'mixed' rather than 'nd-led'."
+  },
+  {
+    "id": "oska-bright-film-festival",
+    "name": "Oska Bright Film Festival",
+    "name_local": null,
+    "summary": "Biennial film festival in Brighton founded in 2004 by learning-disabled filmmakers, screening only films made by or featuring learning-disabled and/or autistic people, run today by a learning-disabled programming team under Carousel.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities",
+      "autism"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Brighton, England",
+    "lat": 50.82,
+    "lng": -0.14,
+    "languages": [
+      "en"
+    ],
+    "url": "https://oskabright.org/",
+    "source_url": "https://oskabright.org/about-us",
+    "founded": 2004,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "superfest-disability-film-festival",
+    "name": "Superfest International Disability Film Festival",
+    "name_local": null,
+    "summary": "Longest-running disability film festival in the world, founded in 1970, now produced by the Paul K. Longmore Institute on Disability and the San Francisco Disability Cultural Center in the Bay Area.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "San Francisco Bay Area, California",
+    "lat": 37.77,
+    "lng": -122.42,
+    "languages": [
+      "en"
+    ],
+    "url": "https://superfestfilm.org/",
+    "source_url": "https://en.wikipedia.org/wiki/Superfest_International_Disability_Film_Festival",
+    "founded": 1970,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Leadership marked unknown: sources confirm disabled people serve as judges but do not explicitly state staff/leadership disability status."
+  },
+  {
+    "id": "reelabilities-film-festival-new-york",
+    "name": "ReelAbilities Film Festival: New York",
+    "name_local": null,
+    "summary": "Film festival dedicated to disability representation on and off screen, founded in 2007 at the Marlene Meyerson JCC Manhattan and now the flagship of a touring ReelAbilities network across the US.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "New York, New York",
+    "lat": 40.78,
+    "lng": -73.99,
+    "languages": [
+      "en"
+    ],
+    "url": "https://reelabilities.org/newyork",
+    "source_url": "https://reelabilities.org/our-story",
+    "founded": 2007,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Leadership marked unknown: available sources name JCC Manhattan and co-directors but do not state whether disabled people hold leadership/staff roles."
+  },
+  {
+    "id": "museum-of-everything",
+    "name": "The Museum of Everything",
+    "name_local": null,
+    "summary": "UK registered charity and travelling museum for self-taught, art brut and outsider art, founded by James Brett in London in 2009; operates the Gallery of Everything, its commercial space on Chiltern Street.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "London, England",
+    "lat": 51.52,
+    "lng": -0.16,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.museumofeverything.com",
+    "source_url": "https://en.wikipedia.org/wiki/The_Museum_of_Everything_(museum)",
+    "founded": 2009,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site 301-redirects to musevery.com (HTTP 200). Curated by founder James Brett, not by ND/disabled people themselves. Touring model plus fixed Gallery of Everything retail space; recent (2025/26) exhibition dates not independently confirmed."
+  },
+  {
+    "id": "collection-de-lart-brut",
+    "name": "Collection de l'Art Brut",
+    "name_local": "Collection de l'Art Brut",
+    "summary": "The founding art brut museum, opened 1976 in Château de Beaulieu, Lausanne, from Jean Dubuffet's 1971 donation of ~5,000 works to the city; now holds over 60,000 pieces.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general",
+      "psychosis"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "CH",
+    "country_name": "Switzerland",
+    "region": "Lausanne, Vaud",
+    "lat": 46.53,
+    "lng": 6.63,
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "url": "https://artbrut.ch/en/the-museum",
+    "source_url": "https://artbrut.ch/en/history",
+    "founded": 1976,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Curatorial institution run by the City of Lausanne, not artist-led. Many original works came from psychiatric patients, but the collection deliberately spans self-taught/marginal creators beyond that population."
+  },
+  {
+    "id": "museum-gugging",
+    "name": "Museum Gugging",
+    "name_local": "Museum Gugging / Haus der Künstler",
+    "summary": "Art brut complex in Maria Gugging (Klosterneuburg) built around the Haus der Künstler, a residence-studio for artists with psychiatric/intellectual disabilities opened 1981 under psychiatrist Leo Navratil; the museum building dates to 2006.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general",
+      "psychosis",
+      "intellectual-disability"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "AT",
+    "country_name": "Austria",
+    "region": "Klosterneuburg (Maria Gugging), Lower Austria",
+    "lat": 48.3,
+    "lng": 16.3,
+    "languages": [
+      "de",
+      "en"
+    ],
+    "url": "https://www.museumgugging.at/en/",
+    "source_url": "https://www.museumgugging.at/en/museum/aboutus",
+    "founded": 1981,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Museum itself operated by NÖ Museum Betriebs GmbH under artistic director Johann Feilacher (psychiatrist), not by the resident artists. The adjacent galerie gugging (separate site, galeriegugging.com) is owned by the Gugging Artists collective — worth a separate look if a more nd-led entry is wanted."
+  },
+  {
+    "id": "dr-guislain-museum",
+    "name": "Dr. Guislain Museum",
+    "name_local": "Museum Dr. Guislain",
+    "summary": "Museum of the history of psychiatry and outsider art, housed in Belgium's oldest psychiatric hospital (inaugurated 1857) in Ghent, founded on the reform work of Dr. Joseph Guislain.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general",
+      "psychosis"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "BE",
+    "country_name": "Belgium",
+    "region": "Ghent, East Flanders",
+    "lat": 51.06,
+    "lng": 3.72,
+    "languages": [
+      "nl",
+      "en"
+    ],
+    "url": "https://www.museumdrguislain.be/en",
+    "source_url": "https://www.museumdrguislain.be/en",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Exact year the museum (as opposed to the 1857 hospital) opened to the public could not be confirmed from primary sources; secondary sources vary (1980s). Run by the Guislain psychiatric institution/foundation, not by patients or an nd-led body."
+  },
+  {
+    "id": "bethlem-museum-of-the-mind",
+    "name": "Bethlem Museum of the Mind",
+    "name_local": null,
+    "summary": "Museum of mental health history and patient art on the grounds of Bethlem Royal Hospital (Beckenham), opened in its current Art Deco building in March 2015 as the public face of the Bethlem Art and History Collections Trust (est. 1970).",
+    "type": "arts",
+    "focus": [
+      "psychosis",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Beckenham, London",
+    "lat": 51.38,
+    "lng": -0.04,
+    "languages": [
+      "en"
+    ],
+    "url": "https://museumofthemind.org.uk/",
+    "source_url": "https://museumofthemind.org.uk/about",
+    "founded": 2015,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Run by the hospital-linked charitable trust; archive/collection roots go back to 1970. Distinct from the separate Bethlem Gallery, which is more directly artist-facing."
+  },
+  {
+    "id": "prinzhorn-collection",
+    "name": "Prinzhorn Collection",
+    "name_local": "Sammlung Prinzhorn",
+    "summary": "Collection of art by psychiatric patients assembled by Hans Prinzhorn at Heidelberg University's psychiatric clinic from 1919, with a dedicated museum inaugurated in 2001; now ~40,000 works from 1825 to today.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general",
+      "psychosis"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "DE",
+    "country_name": "Germany",
+    "region": "Heidelberg, Baden-Württemberg",
+    "lat": 49.41,
+    "lng": 8.69,
+    "languages": [
+      "de",
+      "en"
+    ],
+    "url": "https://www.sammlung-prinzhorn.de/en",
+    "source_url": "https://www.sammlung-prinzhorn.de/en/museum/geschichte",
+    "founded": 2001,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of Heidelberg University Hospital; a research/curatorial institution, not patient- or artist-run."
+  },
+  {
+    "id": "raw-vision",
+    "name": "Raw Vision",
+    "name_local": null,
+    "summary": "Quarterly print and online magazine devoted to outsider art and art brut, founded by John Maizels in London in 1989 and now headquartered in Radlett, Hertfordshire.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Radlett, Hertfordshire",
+    "lat": 51.68,
+    "lng": -0.32,
+    "languages": [
+      "en"
+    ],
+    "url": "https://rawvision.com/",
+    "source_url": "https://en.wikipedia.org/wiki/Raw_Vision",
+    "founded": 1989,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Edited/founded by art historian John Maizels, not by neurodivergent or disabled staff explicitly."
+  },
+  {
+    "id": "the-art-of-autism",
+    "name": "The Art of Autism",
+    "name_local": null,
+    "summary": "San Diego-based 501(c)(3) nonprofit, founded 2005, that promotes autistic artists via an online gallery, exhibits and film festivals; states its board is approximately 50% autistic.",
+    "type": "arts",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "San Diego, California",
+    "lat": 32.72,
+    "lng": -117.16,
+    "languages": [
+      "en"
+    ],
+    "url": "https://the-art-of-autism.com/",
+    "source_url": "https://the-art-of-autism.com/mission/fact-sheet/",
+    "founded": 2005,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Explicitly self-reports ~50% autistic board composition on its own fact sheet; active with content through August 2026."
+  },
+  {
+    "id": "heart-n-soul",
+    "name": "Heart n Soul",
+    "name_local": null,
+    "summary": "South East London arts organisation making music and performance work, originating from 1984 creative sessions in Lewisham and formally founded 1987; explicitly led by people with and without learning disabilities and autistic people.",
+    "type": "arts",
+    "focus": [
+      "learning-disabilities",
+      "autism"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Deptford/New Cross, London",
+    "lat": 51.48,
+    "lng": -0.03,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.heartnsoul.co.uk/",
+    "source_url": "https://www.heartnsoul.co.uk/who-we-are-page",
+    "founded": 1987,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founding date varies across sources (1984 workshops, 1986 performance company, 1987 per Shape Arts timeline); leadership language ('led by people with and without learning disabilities and autistic people') is the org's own self-description."
+  },
+  {
+    "id": "neuk-collective",
+    "name": "Neuk Collective",
+    "name_local": null,
+    "summary": "Scotland-wide community and advocacy network for neurodivergent artists, run under Door in the Wall Arts Access CIC (a disabled-led organisation) and founded by neurodivergent textile artist Tzipporah Johnston.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Scotland (Edinburgh & Glasgow)",
+    "lat": 55.95,
+    "lng": -3.19,
+    "languages": [
+      "en"
+    ],
+    "url": "https://neukcollective.co.uk/",
+    "source_url": "https://neukcollective.co.uk/about/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Exact founding year not stated on the site (its own 'Our story'/'history' subpages 404'd during verification); currently active with a directory, membership, and a 2026 Glasgow exhibition."
+  }
+]

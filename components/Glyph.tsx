@@ -34,7 +34,7 @@ export function glyphPath(glyph: TypeDef["glyph"], s = 16): string {
 
 export function glyphSvg(glyph: TypeDef["glyph"], s = 16, color = "#a8821f", halo = true): string {
   const c = s / 2;
-  const haloEl = halo ? `<circle cx="${c}" cy="${c}" r="${s * 0.62}" fill="#f7f4ed" fill-opacity="0.85"/>` : "";
+  const haloEl = halo ? `<circle cx="${c}" cy="${c}" r="${s * 0.47}" fill="#f7f4ed" fill-opacity="0.85"/>` : "";
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${s}" height="${s}" viewBox="0 0 ${s} ${s}" style="color:${color}" aria-hidden="true">${haloEl}${glyphPath(glyph, s)}</svg>`;
 }
 

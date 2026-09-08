@@ -53,3 +53,12 @@ Prioritise: neurodivergent-led organisations; arts collectives, festivals and cu
 Next to the JSON, write `<same-name>.md` with: how many entries, which countries, which entries you were unsure about and why, and 3-5 promising leads you found but could not verify in time. Keep it under 400 words.
 
 Work efficiently: search, open the site, extract facts, write the entry. Do not write long summaries in chat; the files are the deliverable. Your final chat message should be: the file paths, the entry count, and the countries covered.
+
+## Second pass (2026-09-09): volume and breadth
+
+- Before writing, read `data/initiatives.json` and DO NOT add any initiative whose `url` domain already appears there. Duplicate URLs fail the build.
+- Directory harvesting is the fastest verified route: open the member lists of umbrella federations and networks named in your task, then verify each member's own site with curl (send a full browser user agent: `-A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"`). Wikipedia category pages and national registries also work.
+- If WebSearch is unavailable or rate-limited, do not stop: use WebFetch on the directories and known sites, and curl.
+- Aim for the entry count in your task. Quality still wins: no entry without a working site or a solid third-party confirmation, no invented facts.
+- When done, run `node scripts/build-dataset.mjs` from the repo root. Fix errors in YOUR file only; ignore errors reported in other files (other agents are writing them at the same time). If a duplicate-url error names your entry, remove yours.
+- Your `.md` report: counts, countries, doubts, leads not verified. Under 400 words.
