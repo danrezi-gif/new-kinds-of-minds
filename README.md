@@ -45,8 +45,8 @@ The map is one view. Everything on it is also in the Index as a plain table, and
 
 ## Licenses
 
-Code: MIT. Data: CC BY 4.0. Map tiles: OpenStreetMap contributors and CARTO.
+Code: MIT. Data: CC BY 4.0. Map tiles: Esri World Light Gray Canvas, with OpenStreetMap contributors.
 
 ## Lineage
 
-A project by [Daniel Rezinovsky](https://danielrezinovsky.com), grown out of [Entrementes](https://entrementes.org). The name New Kinds of Minds has covered his work on unusual minds since 2019; the atlas is its first public instrument.
+A project by [Daniel Rezinovsky](https://danielrezinovsky.com), grown out of [Entrementes](https://danrezi-gif.github.io/Entrementes/). The name New Kinds of Minds has covered his work on unusual minds since 2019; the atlas is its first public instrument.

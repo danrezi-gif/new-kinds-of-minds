@@ -106,7 +106,7 @@ a:hover { color: var(--spectral); }
 
 /* Leaflet: paper-toned tiles and quiet chrome */
 .leaflet-container { background: var(--paper-2); font-family: var(--font-body); }
-.leaflet-tile-pane { filter: sepia(0.22) saturate(0.7) brightness(1.03) contrast(0.96); }
+.leaflet-tile-pane { filter: sepia(0.28) saturate(0.6) brightness(1.04) contrast(0.94); }
 .leaflet-control-zoom { border: 1px solid var(--hair) !important; box-shadow: none !important; border-radius: 999px !important; overflow: hidden; }
 .leaflet-control-zoom a { background: var(--paper) !important; color: var(--ink) !important; border-bottom: 1px solid var(--hair) !important; width: 40px !important; height: 40px !important; line-height: 40px !important; }
 .leaflet-control-zoom a:last-child { border-bottom: 0 !important; }

@@ -8,7 +8,7 @@ export default function SiteFooter() {
         <p className="max-w-[60ch] m-0">
           New Kinds of Minds is an open atlas. Code under the MIT license, data under CC BY 4.0. Version {META.version},
           dataset regenerated {META.generated}. A project by <a href="https://danielrezinovsky.com">Daniel Rezinovsky</a>,
-          grown out of Entrementes.
+          grown out of <a href="https://danrezi-gif.github.io/Entrementes/">Entrementes</a>.
         </p>
         <p className="m-0 flex flex-wrap gap-x-5 gap-y-2">
           <a href={REPO_URL}>Source on GitHub</a>
