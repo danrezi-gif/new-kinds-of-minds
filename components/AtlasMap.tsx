@@ -102,7 +102,8 @@ function Markers({ items, selectedId, onSelect, region, regionNonce }: Props) {
   useEffect(() => {
     const b = REGION_BOUNDS[region];
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    map.fitBounds(b, { padding: [20, 20], animate: !reduce });
+    const wide = window.innerWidth >= 1024;
+    map.fitBounds(b, { paddingTopLeft: wide ? [440, 80] : [16, 80], paddingBottomRight: [16, 16], animate: !reduce });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [region, regionNonce]);
 
