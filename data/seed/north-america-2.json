@@ -1,0 +1,1225 @@
+[
+  {
+    "id": "taa-project-toronto",
+    "name": "The Autism Acceptance Project (TAAP)",
+    "name_local": null,
+    "summary": "Toronto nonprofit founded in 2006 by autism advocate and parent Estée Klar, promoting autism acceptance through arts programming, publications, and public education framed around neurodiversity rather than cure.",
+    "type": "advocacy",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Toronto, ON",
+    "lat": 43.66,
+    "lng": -79.4,
+    "languages": [
+      "en"
+    ],
+    "url": "https://taaproject.com/",
+    "source_url": "https://taaproject.com/",
+    "founded": 2006,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by a parent rather than an autistic person, though the project centers autistic voices in its arts and education programming. Site is JS-rendered; verified live via curl (200) rather than full content fetch."
+  },
+  {
+    "id": "neuroclastic",
+    "name": "NeuroClastic",
+    "name_local": null,
+    "summary": "Autistic-run nonprofit media outlet publishing essays and resources almost exclusively by autistic contributors, positioned as a counterpoint to deficit-based autism narratives and recruiting writers from underrepresented backgrounds.",
+    "type": "media",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "United States (online, no fixed HQ stated)",
+    "lat": 39.74,
+    "lng": -104.99,
+    "languages": [
+      "en"
+    ],
+    "url": "https://neuroclastic.com/",
+    "source_url": "https://neuroclastic.com/about/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Volunteer-run, distributed nonprofit with no stated physical headquarters; site explicitly states contributors are 'almost exclusively autistic.' Coordinates are an approximate US placeholder, not a confirmed office location."
+  },
+  {
+    "id": "thinking-persons-guide-to-autism",
+    "name": "Thinking Person's Guide to Autism",
+    "name_local": null,
+    "summary": "Long-running collaborative media project publishing autism information and commentary from a mix of autistic self-advocates and parent writers, co-founded by writer Shannon Rosa and colleagues in the San Francisco Bay Area.",
+    "type": "media",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "San Francisco Bay Area, CA",
+    "lat": 37.49,
+    "lng": -122.24,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.thinkingautismguide.com/",
+    "source_url": "https://www.thinkingautismguide.com/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site returns 403 to automated fetch (bot-filtering), confirmed live via curl headers. Editorial team mixes autistic and non-autistic writers; region is an approximation based on a co-founder's public location, not a stated office address."
+  },
+  {
+    "id": "sabe-usa",
+    "name": "Self Advocates Becoming Empowered (SABE)",
+    "name_local": null,
+    "summary": "National coalition of self-advocates with intellectual and developmental disabilities, formally established in the early 1990s at the Second People First Conference in Nashville, with founding members and leadership drawn from self-advocates in every US state.",
+    "type": "community",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Ohio (national office; exact city not confirmed)",
+    "lat": 39.96,
+    "lng": -82.99,
+    "languages": [
+      "en"
+    ],
+    "url": "https://sabeusa.org/",
+    "source_url": "https://en.wikipedia.org/wiki/Self_Advocates_Becoming_Empowered",
+    "founded": 1990,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founding members Nancy Ward, Roland Johnson and Tia Nelis were themselves self-advocates with developmental disabilities. Site redirects to sabeusa.com; exact headquarters city not independently confirmed."
+  },
+  {
+    "id": "green-mountain-self-advocates",
+    "name": "Green Mountain Self-Advocates",
+    "name_local": null,
+    "summary": "Vermont disability rights organization run by and for people with developmental disabilities, coordinating local self-advocacy groups across the state and organizing conferences, workshops and state-house testimony.",
+    "type": "community",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Montpelier, VT",
+    "lat": 44.26,
+    "lng": -72.58,
+    "languages": [
+      "en"
+    ],
+    "url": "https://gmsavt.org/",
+    "source_url": "https://gmsavt.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "wildflower-alliance",
+    "name": "Wildflower Alliance",
+    "name_local": null,
+    "summary": "Peer-run Massachusetts mental health and recovery organization, formerly named the Western Massachusetts Recovery Learning Community, offering peer respite, a peer support line, and training grounded in the psychiatric survivor and Mad Pride movements.",
+    "type": "community",
+    "focus": [
+      "mad-pride",
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Holyoke, MA",
+    "lat": 42.2,
+    "lng": -72.62,
+    "languages": [
+      "en"
+    ],
+    "url": "https://wildfloweralliance.org/",
+    "source_url": "https://wildfloweralliance.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "westernmassrlc.org now redirects here, confirming this is the renamed continuation of the Western Massachusetts Recovery Learning Community (rebranded 2021). Peer-run by people with lived psychiatric-survivor experience."
+  },
+  {
+    "id": "intentional-peer-support",
+    "name": "Intentional Peer Support (IPS)",
+    "name_local": null,
+    "summary": "Training organization founded by peer-support pioneer Shery Mead teaching a relational, non-hierarchical model of peer support used across mental health and disability communities in North America and beyond.",
+    "type": "education",
+    "focus": [
+      "mad-pride",
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Plainfield, NH",
+    "lat": 43.56,
+    "lng": -72.33,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.intentionalpeersupport.org/",
+    "source_url": "https://www.intentionalpeersupport.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site returns 403 to automated fetch (bot-filtering), confirmed live via curl headers. Location is an approximation based on founder Shery Mead's long-standing New Hampshire base; the organization now trains internationally."
+  },
+  {
+    "id": "project-lets",
+    "name": "Project LETS",
+    "name_local": null,
+    "summary": "Grassroots peer-support and mental-health organization founded in 2009 in Providence, Rhode Island, explicitly led by and for people with lived experience of mental illness, disability, trauma and neurodivergence, running crisis support and campus chapters.",
+    "type": "community",
+    "focus": [
+      "mad-pride",
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Providence, RI",
+    "lat": 41.82,
+    "lng": -71.41,
+    "languages": [
+      "en"
+    ],
+    "url": "https://projectlets.org/",
+    "source_url": "https://projectlets.org/about",
+    "founded": 2009,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site states it is 'led by and for folks with lived experience of mental illness/madness, Disability, trauma, & neurodivergence.'"
+  },
+  {
+    "id": "national-empowerment-center",
+    "name": "National Empowerment Center",
+    "name_local": null,
+    "summary": "Peer-run mental health advocacy and training organization based in Lawrence, Massachusetts, founded in the early 1990s by psychiatric survivors including Judi Chamberlin and Daniel Fisher, promoting recovery and self-determination outside the traditional clinical model.",
+    "type": "advocacy",
+    "focus": [
+      "mad-pride",
+      "psychosis"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Lawrence, MA",
+    "lat": 42.71,
+    "lng": -71.16,
+    "languages": [
+      "en"
+    ],
+    "url": "https://power2u.org/",
+    "source_url": "https://power2u.org/",
+    "founded": 1992,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site content is heavily JS-rendered so automated fetch could not confirm all details; founding by psychiatric survivors including Judi Chamberlin and Daniel Fisher is well documented in secondary sources."
+  },
+  {
+    "id": "sins-invalid",
+    "name": "Sins Invalid",
+    "name_local": null,
+    "summary": "Bay Area disability justice performance project, founded around 2006, creating theatrical work centering disabled artists of color and queer disabled artists and running the Disability Justice Hothouse education series; a fiscally sponsored project of Dancers' Group.",
+    "type": "arts",
+    "focus": [
+      "neurodiversity-general",
+      "intellectual-disability"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Berkeley, CA",
+    "lat": 37.87,
+    "lng": -122.27,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.sinsinvalid.org/",
+    "source_url": "https://www.sinsinvalid.org/",
+    "founded": 2006,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founding year inferred from a 2026 '20th anniversary' reference on the site. Centers disabled-led performance and disability justice organizing; not autism/neurodiversity-exclusive but explicitly disability-led."
+  },
+  {
+    "id": "zeno-mountain-farm",
+    "name": "Zeno Mountain Farm",
+    "name_local": null,
+    "summary": "Vermont-based nonprofit running free, accessible camps and film/theater projects that mix people with and without disabilities, established in 2008 on the principle that disability is not a problem to be fixed but a difference society must accommodate.",
+    "type": "arts",
+    "focus": [
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Lincoln, VT",
+    "lat": 44.11,
+    "lng": -72.98,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.zenomountainfarm.org/",
+    "source_url": "https://www.zenomountainfarm.org/about",
+    "founded": 2008,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Grew out of the Cheshire Project, a 2005 Venice, CA filmmaking collective, before the Vermont farm property was purchased in 2008."
+  },
+  {
+    "id": "lda-america",
+    "name": "Learning Disabilities Association of America (LDA)",
+    "name_local": null,
+    "summary": "National membership organization founded in 1963, providing information, advocacy and a professional/family network on learning disabilities, headquartered near Pittsburgh, Pennsylvania.",
+    "type": "advocacy",
+    "focus": [
+      "learning-disabilities"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Allison Park, PA",
+    "lat": 40.55,
+    "lng": -79.96,
+    "languages": [
+      "en"
+    ],
+    "url": "https://ldaamerica.org/",
+    "source_url": "https://ldaamerica.org/",
+    "founded": 1963,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "One of the oldest US learning-disability organizations; site does not disclose whether people with learning disabilities hold governance roles."
+  },
+  {
+    "id": "decoding-dyslexia-nj",
+    "name": "Decoding Dyslexia New Jersey",
+    "name_local": null,
+    "summary": "New Jersey chapter of the parent-led Decoding Dyslexia grassroots network, campaigning for state definitions of dyslexia, teacher training, early screening and classroom access to remediation and assistive technology.",
+    "type": "advocacy",
+    "focus": [
+      "dyslexia",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "New Jersey (statewide)",
+    "lat": 40.22,
+    "lng": -74.74,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.decodingdyslexianj.org/",
+    "source_url": "https://decodingdyslexia.net/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the national Decoding Dyslexia network, which describes itself as 'a network of parent-led grassroots movements.'"
+  },
+  {
+    "id": "decoding-dyslexia-ma",
+    "name": "Decoding Dyslexia Massachusetts",
+    "name_local": null,
+    "summary": "Massachusetts chapter of the parent-led Decoding Dyslexia grassroots network, advocating for statewide dyslexia screening, teacher training and classroom accommodations.",
+    "type": "advocacy",
+    "focus": [
+      "dyslexia",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Massachusetts (statewide)",
+    "lat": 42.36,
+    "lng": -71.06,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.decodingdyslexiama.org/",
+    "source_url": "https://decodingdyslexia.net/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the national Decoding Dyslexia network of parent-led state chapters."
+  },
+  {
+    "id": "decoding-dyslexia-ca",
+    "name": "Decoding Dyslexia California",
+    "name_local": null,
+    "summary": "California chapter of the parent-led Decoding Dyslexia grassroots network, pushing for statewide dyslexia screening, teacher training and classroom accommodations.",
+    "type": "advocacy",
+    "focus": [
+      "dyslexia",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "California (statewide)",
+    "lat": 38.58,
+    "lng": -121.49,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.decodingdyslexiaca.org/",
+    "source_url": "https://decodingdyslexia.net/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the national Decoding Dyslexia network of parent-led state chapters; site returns an intermediate redirect before resolving (curl-confirmed live)."
+  },
+  {
+    "id": "tourette-association-of-america",
+    "name": "Tourette Association of America",
+    "name_local": null,
+    "summary": "The main US national organization for Tourette Syndrome and tic disorders, founded in 1972, funding research, training healthcare providers and educators, and running a nationwide support-group network.",
+    "type": "advocacy",
+    "focus": [
+      "tourette"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Bellerose, NY",
+    "lat": 40.74,
+    "lng": -73.71,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.tourette.org/",
+    "source_url": "https://www.tourette.org/about-us/",
+    "founded": 1972,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Originally named the Tourette Syndrome Association; leadership composition (self-advocate vs. professional governance) not disclosed on site."
+  },
+  {
+    "id": "international-ocd-foundation",
+    "name": "International OCD Foundation (IOCDF)",
+    "name_local": null,
+    "summary": "Boston-based national nonprofit for OCD and related disorders, funding research, training clinicians, running educational conferences, and coordinating a network of local affiliate support groups across the US.",
+    "type": "advocacy",
+    "focus": [
+      "ocd"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Boston, MA",
+    "lat": 42.36,
+    "lng": -71.06,
+    "languages": [
+      "en"
+    ],
+    "url": "https://iocdf.org/",
+    "source_url": "https://iocdf.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Leadership composition not disclosed on site; coordinates a network of independent local affiliates including several included separately in this dataset."
+  },
+  {
+    "id": "ocd-colorado",
+    "name": "OCD Colorado",
+    "name_local": null,
+    "summary": "Denver-area affiliate of the International OCD Foundation, running the annual 'One Million Steps for OCD' walk, educational presentations, and community engagement for the Colorado OCD community.",
+    "type": "community",
+    "focus": [
+      "ocd"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Denver, CO",
+    "lat": 39.72,
+    "lng": -104.97,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.ocdcolorado.org/",
+    "source_url": "https://www.ocdcolorado.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Official IOCDF affiliate."
+  },
+  {
+    "id": "ocd-twin-cities",
+    "name": "OCD Twin Cities",
+    "name_local": null,
+    "summary": "Saint Paul-based nonprofit and International OCD Foundation affiliate serving the Minneapolis-Saint Paul area, running support groups and connecting people with OCD treatment providers.",
+    "type": "community",
+    "focus": [
+      "ocd"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Saint Paul, MN",
+    "lat": 44.95,
+    "lng": -93.09,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.ocdtwincities.org/",
+    "source_url": "https://www.ocdtwincities.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Official IOCDF affiliate."
+  },
+  {
+    "id": "ocd-bay-area",
+    "name": "OCD SF Bay Area",
+    "name_local": null,
+    "summary": "San Francisco Bay Area affiliate of the International OCD Foundation, distributing OCD information, running peer support groups, and advocating for access to affordable, appropriate treatment.",
+    "type": "community",
+    "focus": [
+      "ocd"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "San Francisco Bay Area, CA",
+    "lat": 37.78,
+    "lng": -122.41,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.ocdbayarea.org/",
+    "source_url": "https://www.ocdbayarea.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Official IOCDF affiliate."
+  },
+  {
+    "id": "dyspraxia-foundation-usa",
+    "name": "Dyspraxia Foundation USA",
+    "name_local": null,
+    "summary": "US nonprofit based in Deerfield, Illinois, dedicated to raising awareness, educating, and supporting people with dyspraxia and their families.",
+    "type": "advocacy",
+    "focus": [
+      "dyspraxia"
+    ],
+    "leadership": "unknown",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Deerfield, IL",
+    "lat": 42.17,
+    "lng": -87.84,
+    "languages": [
+      "en"
+    ],
+    "url": "https://dyspraxiausa.org/",
+    "source_url": "https://dyspraxiausa.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Registered as 'Dyspraxia USA, NFP'; leadership composition not stated on homepage."
+  },
+  {
+    "id": "wm-neurodiversity-initiative",
+    "name": "William & Mary Neurodiversity Initiative",
+    "name_local": null,
+    "summary": "Participatory campus initiative at William & Mary in Williamsburg, Virginia, running events and programming on autism, ADHD and other brain differences, with autistic writer John Elder Robison serving as Neurodiversity Scholar-in-Residence.",
+    "type": "research",
+    "focus": [
+      "neurodiversity-general",
+      "autism",
+      "adhd"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Williamsburg, VA",
+    "lat": 37.27,
+    "lng": -76.71,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.wm.edu/sites/neurodiversity/",
+    "source_url": "https://www.wm.edu/sites/neurodiversity/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Working group includes administrators, faculty, staff, alumni and students alongside an autistic scholar-in-residence."
+  },
+  {
+    "id": "tash",
+    "name": "TASH",
+    "name_local": null,
+    "summary": "Washington, DC-based international disability rights organization founded in 1975 (originally for people with severe/profound disabilities), doing advocacy, research and policy work with membership spanning self-advocates, families and professionals.",
+    "type": "advocacy",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Washington, DC",
+    "lat": 38.91,
+    "lng": -77.03,
+    "languages": [
+      "en"
+    ],
+    "url": "https://tash.org/",
+    "source_url": "https://tash.org/about/",
+    "founded": 1975,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Originally the American Association for the Education of the Severely and Profoundly Handicapped; membership explicitly includes 'people with disabilities' alongside researchers and family members, but governance details not disclosed."
+  },
+  {
+    "id": "sibling-leadership-network",
+    "name": "Sibling Leadership Network",
+    "name_local": null,
+    "summary": "National nonprofit with state chapters, run by and for adult siblings of people with disabilities, providing information, support programs, advocacy training and research on the sibling experience across the lifespan.",
+    "type": "community",
+    "focus": [
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Chicago, IL",
+    "lat": 41.87,
+    "lng": -87.66,
+    "languages": [
+      "en"
+    ],
+    "url": "https://siblingleadership.org/",
+    "source_url": "https://siblingleadership.org/about/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Led by siblings of people with disabilities themselves rather than by disabled people or parents; hosted at the University of Illinois Chicago's disability studies program. Exact HQ city not stated on site; Chicago used based on UIC affiliation."
+  },
+  {
+    "id": "fiesta-educativa",
+    "name": "Fiesta Educativa",
+    "name_local": null,
+    "summary": "Los Angeles nonprofit founded in 1978, one of the first US organizations serving Latino families of children with developmental disabilities, running special-education advocacy training and family conferences in Spanish and English.",
+    "type": "community",
+    "focus": [
+      "autism",
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Los Angeles, CA",
+    "lat": 34.07,
+    "lng": -118.21,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "url": "https://fiestaeducativa.org/",
+    "source_url": "https://fiestaeducativa.org/about/",
+    "founded": 1978,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by the Eastern Los Angeles Regional Center; parent/family-led rather than led by disabled people themselves. Describes itself as California's largest nonprofit serving Latino families of children with special needs."
+  },
+  {
+    "id": "autism-in-black",
+    "name": "Autism in Black",
+    "name_local": null,
+    "summary": "Organization founded by Maria Davis-Pierre providing coaching, training and community support to Black parents raising autistic children, with an annual conference and podcast addressing racial disparities in autism diagnosis and services.",
+    "type": "advocacy",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "West Palm Beach, FL",
+    "lat": 26.72,
+    "lng": -80.05,
+    "languages": [
+      "en"
+    ],
+    "url": "https://autisminblack.org/",
+    "source_url": "https://autisminblack.org/about/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founder Maria Davis-Pierre is a parent of an autistic child, not stated as autistic herself, so classified ally-led despite being explicitly Black-led. Exact HQ city approximated from founder's public South Florida base."
+  },
+  {
+    "id": "people-first-of-california",
+    "name": "People First of California",
+    "name_local": null,
+    "summary": "Statewide self-advocacy organization run by and for people with intellectual and developmental disabilities under the banner 'Advocates Training Advocates,' with an all-self-advocate board coordinating local People First chapters across California.",
+    "type": "community",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Redding, CA",
+    "lat": 40.59,
+    "lng": -122.39,
+    "languages": [
+      "en"
+    ],
+    "url": "https://peoplefirstca.org/",
+    "source_url": "https://peoplefirstca.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Board of directors is composed of people with intellectual/developmental disabilities."
+  },
+  {
+    "id": "people-first-of-washington",
+    "name": "People First of Washington",
+    "name_local": null,
+    "summary": "Statewide self-advocacy organization for people with intellectual and developmental disabilities based in Olympia, Washington, running local county chapters focused on advocacy, education and peer community.",
+    "type": "community",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Olympia, WA",
+    "lat": 47.04,
+    "lng": -122.9,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.peoplefirstofwashington.org/",
+    "source_url": "https://www.peoplefirstofwashington.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site does not explicitly state governance composition, but follows the People First self-advocacy model in which chapters are member-run by people with intellectual/developmental disabilities."
+  },
+  {
+    "id": "auticon-us",
+    "name": "auticon US",
+    "name_local": null,
+    "summary": "US division of auticon, a technology consulting company describing itself as the largest majority-autistic company in the world, with over 75% of its workforce neurodivergent, offering software, data and QA services alongside corporate neuroinclusion training.",
+    "type": "work",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Sacramento, CA",
+    "lat": 38.58,
+    "lng": -121.49,
+    "languages": [
+      "en"
+    ],
+    "url": "https://auticon.com/us/",
+    "source_url": "https://auticon.com/us/about-us/",
+    "founded": 2009,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "auticon was founded by an ally in Germany in 2009; the workforce is majority autistic but company leadership is not exclusively so, hence 'mixed.' Sacramento is the registered US office address."
+  },
+  {
+    "id": "stimpunks-foundation",
+    "name": "Stimpunks Foundation",
+    "name_local": null,
+    "summary": "Nonprofit founded in December 2021 and built by and for neurodivergent and disabled people, providing mutual aid, creator grants, open educational resources and consultation, with leadership including autistic and ADHD board and staff members.",
+    "type": "community",
+    "focus": [
+      "neurodiversity-general",
+      "autism",
+      "adhd"
+    ],
+    "leadership": "nd-led",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Round Rock, TX",
+    "lat": 30.51,
+    "lng": -97.68,
+    "languages": [
+      "en"
+    ],
+    "url": "https://stimpunks.org/",
+    "source_url": "https://stimpunks.org/about",
+    "founded": 2021,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site does not state a physical HQ; region approximated from founders' publicly known Texas location."
+  },
+  {
+    "id": "neurodiversity-podcast",
+    "name": "Neurodiversity Podcast",
+    "name_local": null,
+    "summary": "Long-running podcast and media project hosted by a counselor specializing in gifted and neurodivergent learners, interviewing researchers, educators and neurodivergent guests on ADHD, autism, giftedness and related topics.",
+    "type": "media",
+    "focus": [
+      "neurodiversity-general",
+      "adhd",
+      "autism"
+    ],
+    "leadership": "mixed",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "St. Louis, MO",
+    "lat": 38.63,
+    "lng": -90.2,
+    "languages": [
+      "en"
+    ],
+    "url": "https://neurodiversitypodcast.com/",
+    "source_url": "https://neurodiversitypodcast.com/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Host location approximated from publicly known professional base; not independently confirmed via site content due to JS rendering."
+  },
+  {
+    "id": "sinneave-family-foundation",
+    "name": "Sinneave Family Foundation",
+    "name_local": null,
+    "summary": "Calgary-based Canadian operating foundation working with individuals, communities and organizations to reduce barriers to education, employment and housing for autistic youth and adults, running programs like NEUROinclusive Workforce Solutions and EmploymentWorks.",
+    "type": "work",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Calgary, AB",
+    "lat": 51.04,
+    "lng": -114.07,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.sinneavefoundation.org/",
+    "source_url": "https://www.sinneavefoundation.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Family-founded operating foundation; founding year not stated on site."
+  },
+  {
+    "id": "autism-canada",
+    "name": "Autism Canada",
+    "name_local": null,
+    "summary": "National Canadian charity, marking its 50th anniversary in 2026, running a support line, an inclusive-employment training program and a community assistance program, describing its approach as advocating alongside autistic people and families.",
+    "type": "advocacy",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Guelph, ON",
+    "lat": 43.54,
+    "lng": -80.25,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "url": "https://autismcanada.org/",
+    "source_url": "https://autismcanada.org/",
+    "founded": 1976,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founding year inferred from a stated 50th anniversary in 2026. Exact current headquarters city not confirmed on site (a Toronto-area phone number is listed); Guelph used per the organization's long-standing registered base."
+  },
+  {
+    "id": "caddra",
+    "name": "Canadian ADHD Resource Alliance (CADDRA)",
+    "name_local": null,
+    "summary": "Professional alliance of Canadian clinicians producing evidence-based ADHD practice guidelines, training materials and continuing education for healthcare providers, headquartered in the Toronto area.",
+    "type": "research",
+    "focus": [
+      "adhd"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Markham, ON",
+    "lat": 43.86,
+    "lng": -79.34,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "url": "https://www.caddra.ca/",
+    "source_url": "https://www.caddra.ca/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "A clinician-run professional organization, not a patient self-advocacy group; site returns 403 to automated fetch (bot-filtering), confirmed live via curl headers."
+  },
+  {
+    "id": "federation-quebecoise-de-lautisme",
+    "name": "Quebec Federation of Autism (FQA)",
+    "name_local": "Fédération québécoise de l'autisme",
+    "summary": "Montreal-based Quebec federation providing resources, training and tools for autistic adults, families and professionals, publishing materials and advocating on implementation of autism-related policy in Quebec.",
+    "type": "advocacy",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Montreal, QC",
+    "lat": 45.5,
+    "lng": -73.57,
+    "languages": [
+      "fr"
+    ],
+    "url": "https://www.autisme.qc.ca/",
+    "source_url": "https://www.autisme.qc.ca/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site does not indicate whether autistic people hold leadership roles within the federation itself, hence ally-led rather than nd-led."
+  },
+  {
+    "id": "autism-nova-scotia",
+    "name": "Autism Nova Scotia",
+    "name_local": null,
+    "summary": "Halifax-based community organization founded in October 2002 by parents of an autistic adult, building understanding, acceptance and inclusion for autistic people through advocacy, education and regional programming across Nova Scotia.",
+    "type": "advocacy",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Halifax, NS",
+    "lat": 44.65,
+    "lng": -63.58,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.autismnovascotia.ca/",
+    "source_url": "https://www.autismnovascotia.ca/about-us",
+    "founded": 2002,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by Joan and Jack Craig, parents of an adult son with autism; board chaired by an autism consultant rather than an autistic self-advocate."
+  },
+  {
+    "id": "grasp-ny",
+    "name": "GRASP (Global and Regional Autism Spectrum Partnership)",
+    "name_local": null,
+    "summary": "Autistic and neurodivergent-led nonprofit based in New York City, providing autism assessments, neurodivergent coaching, support groups and education, originally founded as the Global and Regional Asperger Syndrome Partnership.",
+    "type": "care",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "New York, NY",
+    "lat": 40.75,
+    "lng": -73.98,
+    "languages": [
+      "en"
+    ],
+    "url": "https://grasp.org/",
+    "source_url": "https://grasp.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Site explicitly self-describes as 'an Autistic and Neurodivergent led' nonprofit; also lists a satellite address in Hilo, Hawaii. Name has evolved from the original 'Asperger Syndrome' branding."
+  },
+  {
+    "id": "extraordinary-ventures",
+    "name": "Extraordinary Ventures",
+    "name_local": null,
+    "summary": "Chapel Hill, North Carolina nonprofit founded in 2007 by families, operating a portfolio of small businesses (thrift store, laundry, event center, office solutions) to create employment for adults with autism and other developmental disabilities.",
+    "type": "work",
+    "focus": [
+      "autism",
+      "intellectual-disability"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Chapel Hill, NC",
+    "lat": 35.91,
+    "lng": -79.06,
+    "languages": [
+      "en"
+    ],
+    "url": "https://extraordinaryventures.org/",
+    "source_url": "https://extraordinaryventures.org/about/",
+    "founded": 2007,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by families responding to gaps in adult employment for people with developmental disabilities; social-enterprise employer model rather than self-advocate-run."
+  },
+  {
+    "id": "camphill-association-of-north-america",
+    "name": "Camphill Association of North America",
+    "name_local": null,
+    "summary": "Umbrella association for a network of about 15 intentional 'life-sharing' communities across the US and Canada where people with and without intellectual/developmental disabilities live together, also running the Camphill Academy and volunteer service programs.",
+    "type": "care",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Kimberton, PA (network spans multiple US states and Canadian provinces)",
+    "lat": 40.11,
+    "lng": -75.59,
+    "languages": [
+      "en"
+    ],
+    "url": "https://camphill.org/",
+    "source_url": "https://camphill.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Network includes communities in California, Minnesota, New York, Pennsylvania, Ontario and British Columbia; no single centralized headquarters confirmed, so Kimberton (a long-established community) is used as a representative location."
+  },
+  {
+    "id": "larche-usa",
+    "name": "L'Arche USA",
+    "name_local": null,
+    "summary": "US national office of the international L'Arche federation of communities where people with and without intellectual disabilities share daily life, coordinating member communities across the country from Washington, DC.",
+    "type": "care",
+    "focus": [
+      "intellectual-disability",
+      "down-syndrome"
+    ],
+    "leadership": "mixed",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Washington, DC",
+    "lat": 38.9,
+    "lng": -77.04,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.larcheusa.org/",
+    "source_url": "https://www.larcheusa.org/",
+    "founded": 1972,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "1972 marks the first US L'Arche community (Erie, PA); the international federation was founded in France in 1964 by Jean Vanier. Christian community model in which people with intellectual disabilities are core members rather than sole governors."
+  },
+  {
+    "id": "different-brains",
+    "name": "Different Brains",
+    "name_local": null,
+    "summary": "Fort Lauderdale, Florida nonprofit producing media on neurodiversity (podcasts including Spectrumly Speaking and ADHD Power Tools), mentoring neurodivergent young adults, and running employment-readiness programming across autism, ADHD, dyslexia and other conditions.",
+    "type": "media",
+    "focus": [
+      "neurodiversity-general",
+      "autism",
+      "adhd",
+      "dyslexia"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Fort Lauderdale, FL",
+    "lat": 26.13,
+    "lng": -80.14,
+    "languages": [
+      "en"
+    ],
+    "url": "https://differentbrains.org/",
+    "source_url": "https://differentbrains.org/about-us/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "indiana-resource-center-for-autism",
+    "name": "Indiana Resource Center for Autism (IRCA)",
+    "name_local": null,
+    "summary": "University-based center at Indiana University Bloomington's Indiana Institute on Disability and Community, providing training, school support and community outreach on autism using what it describes as a neuroaffirming approach.",
+    "type": "research",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Bloomington, IN",
+    "lat": 39.17,
+    "lng": -86.53,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.iidc.indiana.edu/irca/",
+    "source_url": "https://www.iidc.indiana.edu/irca/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "University research/training center rather than a self-advocate-run organization; explicitly states a 'neuroaffirming approach.'"
+  },
+  {
+    "id": "kansas-university-center-on-disabilities",
+    "name": "Kansas University Center on Disabilities (KUCD)",
+    "name_local": null,
+    "summary": "University of Kansas research and training center in Lawrence, Kansas, serving as the state's federally designated University Center for Excellence in Developmental Disabilities, combining research, training and community engagement co-developed with people with disabilities and families.",
+    "type": "research",
+    "focus": [
+      "intellectual-disability",
+      "learning-disabilities"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Lawrence, KS",
+    "lat": 38.97,
+    "lng": -95.24,
+    "languages": [
+      "en"
+    ],
+    "url": "https://kucd.ku.edu/",
+    "source_url": "https://kucd.ku.edu/about",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Formed in 2024 by merging the KU Center on Developmental Disabilities and the Beach Center on Disabilities; part of the Life Span Institute."
+  },
+  {
+    "id": "wisconsin-facets",
+    "name": "Wisconsin FACETS",
+    "name_local": null,
+    "summary": "Milwaukee-based nonprofit serving as Wisconsin's family-to-family resource for children with disabilities, offering a special-education help desk, resource referrals and IEP training at no cost to families.",
+    "type": "education",
+    "focus": [
+      "learning-disabilities",
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Milwaukee, WI",
+    "lat": 43.04,
+    "lng": -87.91,
+    "languages": [
+      "en"
+    ],
+    "url": "https://wifacets.org/",
+    "source_url": "https://wifacets.org/about-us/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by Jan Serak; a parent/family-oriented resource center rather than a self-advocacy organization."
+  }
+]

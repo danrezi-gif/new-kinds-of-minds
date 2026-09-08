@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "teacch-autism-program",
+    "name": "TEACCH Autism Program",
+    "name_local": null,
+    "summary": "Autism education and clinical training program at the University of North Carolina at Chapel Hill, originator of structured teaching methods used in classrooms and services worldwide.",
+    "type": "education",
+    "focus": ["autism"],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Chapel Hill, NC",
+    "lat": 35.91,
+    "lng": -79.05,
+    "languages": ["en"],
+    "url": "https://teacch.com/",
+    "source_url": "https://teacch.com/",
+    "founded": 1972,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "autism-science-foundation",
+    "name": "Autism Science Foundation",
+    "name_local": null,
+    "summary": "US nonprofit that funds autism research grants and fellowships and publishes plain-language summaries of autism science for families and clinicians.",
+    "type": "research",
+    "focus": ["autism"],
+    "leadership": "unknown",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "New York, NY",
+    "lat": 40.75,
+    "lng": -73.98,
+    "languages": ["en"],
+    "url": "https://autismsciencefoundation.org/",
+    "source_url": "https://autismsciencefoundation.org/",
+    "founded": 2009,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "autisme-centraal",
+    "name": "Autisme Centraal",
+    "name_local": null,
+    "summary": "Flemish training and resource centre in Belgium that educates teachers, care staff and families on autism and publishes practical guidance for schools and workplaces.",
+    "type": "education",
+    "focus": ["autism"],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "BE",
+    "country_name": "Belgium",
+    "region": "Gent",
+    "lat": 51.05,
+    "lng": 3.72,
+    "languages": ["nl"],
+    "url": "https://www.autismecentraal.com/",
+    "source_url": "https://www.autismecentraal.com/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "gautena",
+    "name": "Gautena",
+    "name_local": "Gautena – Asociación Guipuzcoana de Autismo",
+    "summary": "Basque autism association based in San Sebastián providing diagnosis, schooling and vocational training for autistic people across Gipuzkoa province.",
+    "type": "education",
+    "focus": ["autism"],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "ES",
+    "country_name": "Spain",
+    "region": "San Sebastián",
+    "lat": 43.32,
+    "lng": -1.98,
+    "languages": ["es", "eu"],
+    "url": "https://www.gautena.org/",
+    "source_url": "https://www.gautena.org/",
+    "founded": 1976,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "national-autism-center",
+    "name": "National Autism Center",
+    "name_local": null,
+    "summary": "US research and training centre, part of the May Institute, that reviews autism intervention evidence and publishes practice guidelines used by schools and clinicians.",
+    "type": "research",
+    "focus": ["autism"],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Randolph, MA",
+    "lat": 42.16,
+    "lng": -71.04,
+    "languages": ["en"],
+    "url": "https://nationalautismcenter.org/",
+    "source_url": "https://nationalautismcenter.org/",
+    "founded": 2005,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "autistica",
+    "name": "Autistica",
+    "name_local": null,
+    "summary": "UK autism research charity that funds and commissions studies, sets research priorities with autistic people and families, and campaigns for evidence-based support and services.",
+    "type": "research",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "London",
+    "lat": 51.51,
+    "lng": -0.13,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.autistica.org.uk/",
+    "source_url": "https://www.autistica.org.uk/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "States it involves autistic people in setting research priorities."
+  },
+  {
+    "id": "autism-research-centre-cambridge",
+    "name": "Autism Research Centre, University of Cambridge",
+    "name_local": null,
+    "summary": "University research centre studying the causes and experience of autism across the lifespan, running studies on cognition, biology, and support needs and publishing openly accessible resources.",
+    "type": "research",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Cambridge",
+    "lat": 52.2,
+    "lng": 0.12,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.autismresearchcentre.com/",
+    "source_url": "https://www.autismresearchcentre.com/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "karolinska-kind",
+    "name": "KIND – Center of Neurodevelopmental Disorders at Karolinska Institutet",
+    "name_local": "KIND – Kompetenscentrum för neuropsykiatri",
+    "summary": "Karolinska Institutet research and clinical centre in Stockholm studying autism, ADHD and other neurodevelopmental conditions, combining outpatient assessment with academic research programmes.",
+    "type": "research",
+    "focus": [
+      "autism",
+      "adhd",
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "SE",
+    "country_name": "Sweden",
+    "region": "Stockholm",
+    "lat": 59.33,
+    "lng": 18.07,
+    "languages": [
+      "sv",
+      "en"
+    ],
+    "url": "https://ki.se/en/kind",
+    "source_url": "https://ki.se/en/kind",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "international-dyslexia-association",
+    "name": "International Dyslexia Association",
+    "name_local": null,
+    "summary": "US-based nonprofit that certifies dyslexia specialists, sets standards for structured literacy instruction, and runs a network of branches supporting people with dyslexia and their families worldwide.",
+    "type": "research",
+    "focus": [
+      "dyslexia"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Baltimore, MD",
+    "lat": 39.29,
+    "lng": -76.61,
+    "languages": [
+      "en"
+    ],
+    "url": "https://dyslexiaida.org/",
+    "source_url": "https://dyslexiaida.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "autistic-doctors-international",
+    "name": "Autistic Doctors International",
+    "name_local": null,
+    "summary": "International peer network of autistic physicians and medical students founded by an autistic consultant anaesthetist, supporting members and publishing research on autistic doctors' experiences.",
+    "type": "research",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "nd-led",
+    "mode": "online",
+    "country": "IE",
+    "country_name": "Ireland",
+    "region": "Dublin",
+    "lat": 53.35,
+    "lng": -6.26,
+    "languages": [
+      "en"
+    ],
+    "url": "https://autisticdoctorsinternational.com/",
+    "source_url": "https://autisticdoctorsinternational.com/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founder is an autistic physician; group is explicitly by and for autistic doctors."
+  },
+  {
+    "id": "leped-unicamp",
+    "name": "LEPED – Laboratory for Studies and Research in Education and Difference, UNICAMP",
+    "name_local": "Laboratório de Estudos e Pesquisas em Ensino e Diferença",
+    "summary": "Research lab at the University of Campinas studying inclusive education for disabled and neurodivergent students, training teachers, and publishing on school inclusion policy in Brazil.",
+    "type": "research",
+    "focus": [
+      "neurodiversity-general",
+      "intellectual-disability"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "BR",
+    "country_name": "Brazil",
+    "region": "Campinas, SP",
+    "lat": -22.91,
+    "lng": -47.06,
+    "languages": [
+      "pt"
+    ],
+    "url": "https://www.leped.fe.unicamp.br/",
+    "source_url": "https://www.leped.fe.unicamp.br/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "tmu-school-of-disability-studies",
+    "name": "Toronto Metropolitan University School of Disability Studies",
+    "name_local": null,
+    "summary": "University department offering disability studies degrees including a Mad Studies stream, taught from a critical, anti-oppressive perspective on disability and psychiatric survivor history.",
+    "type": "research",
+    "focus": [
+      "mad-pride",
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Toronto, ON",
+    "lat": 43.66,
+    "lng": -79.38,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.torontomu.ca/disability-studies/",
+    "source_url": "https://www.torontomu.ca/disability-studies/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Formerly Ryerson University."
+  },
+  {
+    "id": "mad-studies-network",
+    "name": "Mad Studies Network",
+    "name_local": null,
+    "summary": "International blog and network connecting scholars, psychiatric survivors and activists working in Mad Studies, sharing calls for papers, syllabi, and writing on madness from a critical, survivor-informed perspective.",
+    "type": "research",
+    "focus": [
+      "mad-pride"
+    ],
+    "leadership": "mixed",
+    "mode": "online",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Toronto, ON",
+    "lat": 43.68,
+    "lng": -79.36,
+    "languages": [
+      "en"
+    ],
+    "url": "https://madstudies2014.wordpress.com/",
+    "source_url": "https://madstudies2014.wordpress.com/",
+    "founded": 2014,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Blog/network associated with the Canadian Mad Studies scholarship tradition."
+  },
+  {
+    "id": "tojisha-kenkyu-network",
+    "name": "Tojisha-Kenkyu Network",
+    "name_local": "当事者研究ネットワーク",
+    "summary": "Japanese network coordinating tojisha-kenkyu, a method in which people with disabilities, mental illness or addiction research and theorize their own experience collaboratively rather than being studied by outsiders.",
+    "type": "research",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "online",
+    "country": "JP",
+    "country_name": "Japan",
+    "region": "Tokyo",
+    "lat": 35.68,
+    "lng": 139.69,
+    "languages": [
+      "ja"
+    ],
+    "url": "http://toukennet.jp/",
+    "source_url": "http://toukennet.jp/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Tojisha-kenkyu ('research by the person concerned') originated at Bethel House and is associated with researcher Shin'ichiro Kumagaya at the University of Tokyo."
+  },
+  {
+    "id": "panaacea",
+    "name": "PANAACEA",
+    "name_local": "Programa Argentino para Niños, Adolescentes y Adultos con Condiciones del Espectro Autista",
+    "summary": "Argentine multi-site research programme studying autism prevalence, early detection and services across the country, coordinating clinicians and researchers with public health institutions.",
+    "type": "research",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "AR",
+    "country_name": "Argentina",
+    "region": "Buenos Aires",
+    "lat": -34.6,
+    "lng": -58.38,
+    "languages": [
+      "es"
+    ],
+    "url": "https://www.panaacea.org/",
+    "source_url": "https://www.panaacea.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "aspect-research-centre",
+    "name": "Aspect Research Centre for Autism Practice",
+    "name_local": null,
+    "summary": "Research arm of Autism Spectrum Australia (Aspect) that studies autism education and practice and works to translate findings into classroom and service delivery methods.",
+    "type": "research",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "AU",
+    "country_name": "Australia",
+    "region": "Sydney, NSW",
+    "lat": -33.87,
+    "lng": 151.21,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.aspect.org.au/research",
+    "source_url": "https://www.aspect.org.au/research",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "limpsfield-grange-school",
+    "name": "Limpsfield Grange School",
+    "name_local": null,
+    "summary": "State day and residential special school in Surrey for autistic girls and girls with communication and interaction needs, known for co-authoring books on autistic girls' experience with its students.",
+    "type": "education",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Oxted, Surrey",
+    "lat": 51.26,
+    "lng": 0.01,
+    "languages": [
+      "en"
+    ],
+    "url": "https://limpsfieldgrange.co.uk",
+    "source_url": "https://en.wikipedia.org/wiki/Limpsfield_Grange_School",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "ambitious-about-autism",
+    "name": "Ambitious about Autism",
+    "name_local": null,
+    "summary": "UK charity running TreeHouse School and Ambitious College for autistic children and young people, alongside campaigning and information services for autistic students and families.",
+    "type": "education",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "London",
+    "lat": 51.59,
+    "lng": -0.19,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.ambitiousaboutautism.org.uk/",
+    "source_url": "https://www.ambitiousaboutautism.org.uk/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by parents; runs schools and a college rather than solely campaigning."
+  },
+  {
+    "id": "fundacion-cadah",
+    "name": "Fundación CADAH",
+    "name_local": null,
+    "summary": "Spanish online resource and training organisation on ADHD, publishing guidance for families and teachers and running courses on classroom support for children with ADHD.",
+    "type": "education",
+    "focus": [
+      "adhd"
+    ],
+    "leadership": "unknown",
+    "mode": "online",
+    "country": "ES",
+    "country_name": "Spain",
+    "region": "Madrid",
+    "lat": 40.42,
+    "lng": -3.7,
+    "languages": [
+      "es"
+    ],
+    "url": "https://fundacioncadah.org/",
+    "source_url": "https://fundacioncadah.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "college-autism-network",
+    "name": "College Autism Network",
+    "name_local": null,
+    "summary": "US network linking researchers, disability service staff and advocates working to improve access and outcomes for autistic students in higher education, publishing research reviews and practice guides.",
+    "type": "education",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "unknown",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Clemson, SC",
+    "lat": 34.68,
+    "lng": -82.84,
+    "languages": [
+      "en"
+    ],
+    "url": "https://collegeautismnetwork.org/",
+    "source_url": "https://collegeautismnetwork.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "cip-worldwide",
+    "name": "College Internship Program (CIP)",
+    "name_local": null,
+    "summary": "US transition programme with several campuses helping young autistic and ADHD adults build skills for college, employment and independent living through individualized coaching.",
+    "type": "education",
+    "focus": [
+      "autism",
+      "adhd",
+      "learning-disabilities"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Lee, MA",
+    "lat": 42.3,
+    "lng": -73.25,
+    "languages": [
+      "en"
+    ],
+    "url": "https://cipworldwide.org/",
+    "source_url": "https://cipworldwide.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "aheadd",
+    "name": "AHEADD",
+    "name_local": null,
+    "summary": "US organisation coaching college students with autism, ADHD and learning disabilities on academic, social and career skills, and consulting with universities on support services.",
+    "type": "education",
+    "focus": [
+      "autism",
+      "adhd",
+      "learning-disabilities"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Pittsburgh, PA",
+    "lat": 40.44,
+    "lng": -79.99,
+    "languages": [
+      "en"
+    ],
+    "url": "https://aheadd.org/",
+    "source_url": "https://aheadd.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "auticon-germany",
+    "name": "auticon Germany",
+    "name_local": null,
+    "summary": "German headquarters of auticon, an IT and business consultancy that employs autistic people as consultants and provides workplace coaching and employer training on neuroinclusion.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "DE",
+    "country_name": "Germany",
+    "region": "Berlin",
+    "lat": 52.52,
+    "lng": 13.4,
+    "languages": [
+      "de"
+    ],
+    "url": "https://auticon.com/de/",
+    "source_url": "https://en.wikipedia.org/wiki/Auticon",
+    "founded": 2011,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Founded by Dirk Müller-Remus, whose son is autistic; part of the international auticon network."
+  },
+  {
+    "id": "auticon-uk",
+    "name": "auticon UK",
+    "name_local": null,
+    "summary": "UK branch of auticon, an IT and business consultancy employing autistic people as consultants and providing neuroinclusion training to client organisations.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "London",
+    "lat": 51.53,
+    "lng": -0.11,
+    "languages": [
+      "en"
+    ],
+    "url": "https://auticon.com/uk/",
+    "source_url": "https://auticon.com/uk/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the international auticon network."
+  },
+  {
+    "id": "auticon-france",
+    "name": "auticon France",
+    "name_local": null,
+    "summary": "French branch of auticon, an IT and business consultancy employing autistic people as consultants and providing neuroinclusion training to client organisations.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "FR",
+    "country_name": "France",
+    "region": "Paris",
+    "lat": 48.85,
+    "lng": 2.35,
+    "languages": [
+      "fr"
+    ],
+    "url": "https://auticon.com/fr/",
+    "source_url": "https://auticon.com/fr/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the international auticon network."
+  },
+  {
+    "id": "auticon-italy",
+    "name": "auticon Italy",
+    "name_local": null,
+    "summary": "Italian branch of auticon, an IT and business consultancy employing autistic people as consultants and providing neuroinclusion training to client organisations.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "IT",
+    "country_name": "Italy",
+    "region": "Milan",
+    "lat": 45.46,
+    "lng": 9.19,
+    "languages": [
+      "it"
+    ],
+    "url": "https://auticon.com/it/",
+    "source_url": "https://auticon.com/it/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the international auticon network."
+  },
+  {
+    "id": "auticon-switzerland",
+    "name": "auticon Switzerland",
+    "name_local": null,
+    "summary": "Swiss branch of auticon, an IT and business consultancy employing autistic people as consultants and providing neuroinclusion training to client organisations.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CH",
+    "country_name": "Switzerland",
+    "region": "Zurich",
+    "lat": 47.37,
+    "lng": 8.54,
+    "languages": [
+      "de",
+      "fr"
+    ],
+    "url": "https://auticon.com/ch/",
+    "source_url": "https://auticon.com/ch/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the international auticon network."
+  },
+  {
+    "id": "auticon-australia",
+    "name": "auticon Australia",
+    "name_local": null,
+    "summary": "Australian branch of auticon, an IT and business consultancy employing autistic people as consultants and providing neuroinclusion training to client organisations.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "AU",
+    "country_name": "Australia",
+    "region": "Sydney, NSW",
+    "lat": -33.85,
+    "lng": 151.23,
+    "languages": [
+      "en"
+    ],
+    "url": "https://auticon.com/au/",
+    "source_url": "https://auticon.com/au/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the international auticon network."
+  },
+  {
+    "id": "auticon-canada",
+    "name": "auticon Canada",
+    "name_local": null,
+    "summary": "Canadian branch of auticon, an IT and business consultancy employing autistic people as consultants and providing neuroinclusion training to client organisations.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "CA",
+    "country_name": "Canada",
+    "region": "Toronto, ON",
+    "lat": 43.64,
+    "lng": -79.4,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "url": "https://auticon.com/ca-en/",
+    "source_url": "https://auticon.com/ca-en/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the international auticon network."
+  },
+  {
+    "id": "auticon-norway",
+    "name": "auticon Norway",
+    "name_local": null,
+    "summary": "Norwegian branch of auticon, an IT and business consultancy employing autistic people as consultants, formed after auticon acquired Norwegian IT-testing firm Unicus.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "NO",
+    "country_name": "Norway",
+    "region": "Oslo",
+    "lat": 59.91,
+    "lng": 10.75,
+    "languages": [
+      "no"
+    ],
+    "url": "https://auticon.com/no/",
+    "source_url": "https://auticon.com/no/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "unicus.no now redirects to this page."
+  },
+  {
+    "id": "auticon-finland",
+    "name": "auticon Finland",
+    "name_local": null,
+    "summary": "Finnish branch of auticon, an IT and business consultancy employing autistic people as consultants and providing neuroinclusion training to client organisations.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "FI",
+    "country_name": "Finland",
+    "region": "Helsinki",
+    "lat": 60.17,
+    "lng": 24.94,
+    "languages": [
+      "fi"
+    ],
+    "url": "https://auticon.com/fi/",
+    "source_url": "https://auticon.com/fi/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Part of the international auticon network."
+  },
+  {
+    "id": "neurodiversity-in-business",
+    "name": "Neurodiversity in Business (NiB)",
+    "name_local": null,
+    "summary": "UK charity and membership network helping employers build neuroinclusive workplaces through research, training and a community of practice for HR and diversity professionals.",
+    "type": "work",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "London",
+    "lat": 51.5,
+    "lng": -0.1,
+    "languages": [
+      "en"
+    ],
+    "url": "https://neurodiversity.org/",
+    "source_url": "https://neurodiversity.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Formerly at neurodiversityinbusiness.org, which now redirects here."
+  },
+  {
+    "id": "genius-within",
+    "name": "Genius Within",
+    "name_local": null,
+    "summary": "UK community interest company providing coaching, assessment and training for neurodivergent adults in work and job-seeking, and consulting with employers on inclusive practice.",
+    "type": "work",
+    "focus": [
+      "neurodiversity-general",
+      "adhd",
+      "dyslexia",
+      "dyspraxia",
+      "autism"
+    ],
+    "leadership": "mixed",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "Guildford",
+    "lat": 51.24,
+    "lng": -0.57,
+    "languages": [
+      "en"
+    ],
+    "url": "https://geniuswithin.org/",
+    "source_url": "https://geniuswithin.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Community interest company; describes services as co-produced drawing on staff lived experience."
+  },
+  {
+    "id": "exceptional-individuals",
+    "name": "Exceptional Individuals",
+    "name_local": null,
+    "summary": "UK recruitment and workplace-support agency specialising in placing neurodivergent candidates and providing coaching and access-to-work support once they are hired.",
+    "type": "work",
+    "focus": [
+      "neurodiversity-general",
+      "autism",
+      "adhd",
+      "dyslexia"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "GB",
+    "country_name": "United Kingdom",
+    "region": "London",
+    "lat": 51.49,
+    "lng": -0.09,
+    "languages": [
+      "en"
+    ],
+    "url": "https://exceptionalindividuals.com/",
+    "source_url": "https://exceptionalindividuals.com/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "ultranauts",
+    "name": "Ultranauts",
+    "name_local": null,
+    "summary": "US software quality-engineering company built around a majority-autistic, fully distributed workforce, designing its own management practices around neurodivergent strengths.",
+    "type": "work",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "nd-led",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "New York, NY",
+    "lat": 40.73,
+    "lng": -73.99,
+    "languages": [
+      "en"
+    ],
+    "url": "https://ultranauts.co/",
+    "source_url": "https://ultranauts.co/",
+    "founded": 2013,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Co-founded by an autistic entrepreneur; company describes itself as neurodiversity-led."
+  },
+  {
+    "id": "rising-tide-car-wash",
+    "name": "Rising Tide Car Wash",
+    "name_local": null,
+    "summary": "Florida car wash founded by the family of an autistic young man, employing a majority-autistic workforce and used as a training model shared with other family-run businesses.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Parkland, FL",
+    "lat": 26.31,
+    "lng": -80.24,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.risingtidecarwash.com/",
+    "source_url": "https://www.risingtidecarwash.com/",
+    "founded": 2013,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "aspiritech",
+    "name": "Aspiritech",
+    "name_local": null,
+    "summary": "Illinois nonprofit social enterprise that trains and employs autistic adults as software testers and quality-assurance analysts for outside clients.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "ally-led",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Highland Park, IL",
+    "lat": 42.18,
+    "lng": -87.8,
+    "languages": [
+      "en"
+    ],
+    "url": "https://aspiritech.org/",
+    "source_url": "https://aspiritech.org/",
+    "founded": 2008,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "daivergent",
+    "name": "Daivergent",
+    "name_local": null,
+    "summary": "US platform that matches autistic and other neurodivergent jobseekers with employers and provides online skills training and job coaching.",
+    "type": "work",
+    "focus": [
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "online",
+    "country": "US",
+    "country_name": "United States",
+    "region": "New York, NY",
+    "lat": 40.69,
+    "lng": -74.03,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.daivergent.com/",
+    "source_url": "https://www.daivergent.com/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "takto-passwerk",
+    "name": "TAKTO (formerly Passwerk)",
+    "name_local": null,
+    "summary": "Belgian IT consultancy employing autistic professionals as software testers and consultants, rebranded from Passwerk to TAKTO while keeping its autism-employment model.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "BE",
+    "country_name": "Belgium",
+    "region": "Antwerp",
+    "lat": 51.22,
+    "lng": 4.4,
+    "languages": [
+      "nl"
+    ],
+    "url": "https://www.takto.be/",
+    "source_url": "https://www.takto.be/",
+    "founded": 2008,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "passwerk.be now redirects to takto.be."
+  },
+  {
+    "id": "unicus-sweden",
+    "name": "Unicus Sweden",
+    "name_local": null,
+    "summary": "Swedish IT-testing consultancy employing autistic consultants, part of a Nordic company model that trains and places autistic professionals with client businesses.",
+    "type": "work",
+    "focus": [
+      "autism"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "SE",
+    "country_name": "Sweden",
+    "region": "Stockholm",
+    "lat": 59.35,
+    "lng": 18.05,
+    "languages": [
+      "sv"
+    ],
+    "url": "https://unicus.se/",
+    "source_url": "https://unicus.se/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "The Norwegian branch (unicus.no) has since become auticon Norway."
+  },
+  {
+    "id": "neurodiversity-employment-network",
+    "name": "Neurodiversity Employment Network",
+    "name_local": null,
+    "summary": "Philadelphia-region network connecting employers, service providers and jobseekers to build employment pathways for neurodivergent adults.",
+    "type": "work",
+    "focus": [
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Philadelphia, PA",
+    "lat": 39.95,
+    "lng": -75.16,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.neurodiversityemploymentnetwork.org/",
+    "source_url": "https://www.neurodiversityemploymentnetwork.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "yo-tambien-mexico",
+    "name": "Yo También",
+    "name_local": null,
+    "summary": "Mexican civil association working on educational and labor inclusion for people with intellectual disabilities, including Down syndrome, through training and workplace-integration programmes.",
+    "type": "work",
+    "focus": [
+      "intellectual-disability",
+      "down-syndrome"
+    ],
+    "leadership": "unknown",
+    "mode": "hybrid",
+    "country": "MX",
+    "country_name": "Mexico",
+    "region": "Mexico City",
+    "lat": 19.43,
+    "lng": -99.13,
+    "languages": [
+      "es"
+    ],
+    "url": "https://yotambien.mx/",
+    "source_url": "https://yotambien.mx/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "fundacion-prodis",
+    "name": "Fundación PRODIS",
+    "name_local": null,
+    "summary": "Madrid foundation providing vocational training and job placement for young people and adults with intellectual disabilities, working with employers on workplace inclusion.",
+    "type": "work",
+    "focus": [
+      "intellectual-disability"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "ES",
+    "country_name": "Spain",
+    "region": "Madrid",
+    "lat": 40.44,
+    "lng": -3.68,
+    "languages": [
+      "es"
+    ],
+    "url": "https://fundacionprodis.org/",
+    "source_url": "https://fundacionprodis.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "the-precisionists",
+    "name": "The Precisionists Inc.",
+    "name_local": null,
+    "summary": "US IT services company that employs adults with autism and other disabilities as software testers, data analysts and process specialists for corporate clients.",
+    "type": "work",
+    "focus": [
+      "autism",
+      "intellectual-disability",
+      "neurodiversity-general"
+    ],
+    "leadership": "ally-led",
+    "mode": "hybrid",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Wilmington, DE",
+    "lat": 39.74,
+    "lng": -75.55,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.theprecisionists.com/",
+    "source_url": "https://www.theprecisionists.com/",
+    "founded": 2014,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": null
+  },
+  {
+    "id": "dfn-project-search",
+    "name": "DFN Project SEARCH",
+    "name_local": null,
+    "summary": "US national transition-to-employment programme placing young adults with intellectual and developmental disabilities, including autism, in structured workplace internships leading to jobs.",
+    "type": "work",
+    "focus": [
+      "intellectual-disability",
+      "autism",
+      "neurodiversity-general"
+    ],
+    "leadership": "unknown",
+    "mode": "physical",
+    "country": "US",
+    "country_name": "United States",
+    "region": "Cincinnati, OH",
+    "lat": 39.1,
+    "lng": -84.51,
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.dfnprojectsearch.org/",
+    "source_url": "https://www.dfnprojectsearch.org/",
+    "founded": null,
+    "added": "2026-09-09",
+    "verified": "2026-09-09",
+    "added_by": "editorial",
+    "notes": "Partnership between the Doug Flutie Jr. Foundation and the Project SEARCH model originated at Cincinnati Children's Hospital."
+  }
+]

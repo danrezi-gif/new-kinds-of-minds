@@ -1,0 +1,1578 @@
+{
+  "checked": "2026-09-08T18:38:42.246Z",
+  "total": 360,
+  "bad": [
+    {
+      "id": "orgullo-loco-buenos-aires",
+      "url": "https://www.facebook.com/orgullolocoba/",
+      "status": 400,
+      "final": "https://www.facebook.com/orgullolocoba/"
+    },
+    {
+      "id": "autea-andorra",
+      "url": "https://www.autea.org/",
+      "status": 403,
+      "final": "https://www.autea.org/"
+    },
+    {
+      "id": "dr-guislain-museum",
+      "url": "https://www.museumdrguislain.be/en",
+      "status": 404,
+      "final": "https://www.museumdrguislain.be/en"
+    },
+    {
+      "id": "abda-tdah",
+      "url": "https://tdah.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "amaes-vitoria",
+      "url": "http://www.amaes.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "apae-florianopolis",
+      "url": "https://www.apaeflorianopolis.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "apae-belo-horizonte",
+      "url": "http://www.apaebh.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ama-alagoas",
+      "url": "https://www.autismoalagoas.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "amai-itu",
+      "url": "https://amaiitu.com.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "apae-tres-pontas",
+      "url": "https://www.apaetrespontas.com.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "astoc-toc-tourette",
+      "url": "https://www.astocst.com.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "coletivo-autista-ufrgs",
+      "url": "https://www.ufrgs.br/jornal/coletivo-acolhe-estudantes-com-transtorno-do-espectro-autista/",
+      "status": 0,
+      "error": "UNABLE_TO_VERIFY_LEAF_SIGNATURE"
+    },
+    {
+      "id": "abd-dislexia",
+      "url": "https://www.dislexia.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "federacao-brasileira-sindrome-down",
+      "url": "https://federacaodown.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "canal-autismo-revista-autismo",
+      "url": "https://www.canalautismo.com.br/",
+      "status": 403,
+      "final": "https://www.canalautismo.com.br/"
+    },
+    {
+      "id": "mad-in-brasil",
+      "url": "https://madinbrasil.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "feapaes-mt",
+      "url": "https://www.apaemt.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "museu-imagens-inconsciente",
+      "url": "https://www.museuimagensdoinconsciente.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mnla-luta-antimanicomial",
+      "url": "https://pt.wikipedia.org/wiki/Movimento_antimanicomial",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "centro-conviver-curitiba",
+      "url": "http://www.centroconviver.com.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "feapaes-pe",
+      "url": "https://www.apaepe.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "federacao-nacional-apaes",
+      "url": "https://www.apaebrasil.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "protoc-hc-fmusp",
+      "url": "https://www.protoc.com.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "riostoc",
+      "url": "https://riostoc.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "feapaes-rn",
+      "url": "https://www.apaern.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "instituto-rodrigo-mendes",
+      "url": "https://institutorodrigomendes.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "specialisterne-brasil",
+      "url": "https://specialisternebrasil.com/en/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "coletivo-stim-ufpr",
+      "url": "https://proafe.ufpr.br/inauguracao-do-coletivo-autista-na-ufpr/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "bloco-loucura-suburbana",
+      "url": "https://www.loucurasuburbana.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "feapaes-to",
+      "url": "https://www.apaeto.org.br/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ufpa-coordenadoria-acessibilidade",
+      "url": "https://portal.ufpa.br/index.php/ultimas-noticias2/11932-ufpa-apresenta-acoes-de-inclusao-para-as-pessoas-com-deficiencia",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ufsc-neurodivergentes",
+      "url": "https://noticias.ufsc.br/2026/02/ufsc-abre-inscricoes-para-projeto-de-apoio-a-estudantes-de-graduacao-autistas/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "nucleo-autismo-neurodiversidade-unb",
+      "url": "http://caep.unb.br/atendimentos-apenas-para-alunos-da-unb/nucleo-de-autismo-e-neurodiversidade-da-unb",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "coletivo-tea-ufu",
+      "url": "https://www.instagram.com/coletivoteaufu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-today-association-bulgaria",
+      "url": "https://www.autismtoday-bg.eu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-nova-scotia",
+      "url": "https://www.autismnovascotia.ca/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "a4a-ontario",
+      "url": "https://a4aontario.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-canada",
+      "url": "https://autismcanada.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "bc-hearing-voices-network",
+      "url": "https://bchvn.ca/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "caddra",
+      "url": "https://www.caddra.ca/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "sinneave-family-foundation",
+      "url": "https://www.sinneavefoundation.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fuan-autismo-neurodiversidad",
+      "url": "https://fuan.cl/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "orgullo-loco-chile",
+      "url": "https://www.instagram.com/orgulloloco_chile/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autiscol-colombia",
+      "url": "https://autiscol.my.canva.site/paginaweb",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "beijing-stars-and-rain",
+      "url": "https://guduzh.org.cn/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "disfam-colombia",
+      "url": "https://disfam.org/colombia/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "barriletea-costa-rica",
+      "url": "https://www.facebook.com/BarrileTEAutismoCostaRica/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "suzah-croatia",
+      "url": "https://www.autizam-suzah.hr/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-pride-toronto",
+      "url": "https://madpridetoronto.wordpress.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-support-famagusta-cyprus",
+      "url": "https://www.autismsupportfamagusta.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "adventor-czechia",
+      "url": "https://www.adventor.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "akrasia-czechia",
+      "url": "https://akrasia.cz",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "eucap",
+      "url": "https://eucap.eu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "slyseni-hlasu-czech",
+      "url": "https://slysenihlasu.cz/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autisme-ungdom-denmark",
+      "url": "https://www.autismeungdom.dk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "pasparta",
+      "url": "https://www.pasparta.cz/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "nautis-czechia",
+      "url": "https://www.nautis.cz/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autisme-og-aspergerforeningen-denmark",
+      "url": "https://autisme-asperger.dk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "stemmehorernetvaerket-denmark",
+      "url": "https://stemmehoerer.dk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-denmark",
+      "url": "http://madindenmark.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ordblindeforeningen-denmark",
+      "url": "http://www.ordblindeforeningen.dk",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "specialisterne-foundation",
+      "url": "https://www.specialisterne.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "wnusp",
+      "url": "https://en.wikipedia.org/wiki/World_Network_of_Users_and_Survivors_of_Psychiatry",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fundacion-dominicana-de-autismo",
+      "url": "http://fundaciondominicanadeautismo.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "learning-resource-center-egypt",
+      "url": "http://lrcegypt.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "estonian-autism-alliance",
+      "url": "https://www.autismiliit.ee/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-foundation-finland",
+      "url": "https://www.autismisaatio.fi/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mtu-autistid-estonia",
+      "url": "https://autistid.ee/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "eoliitto-finland",
+      "url": "https://www.eoliitto.fi",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "faaas-finland",
+      "url": "https://www.autismiliitto.fi/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-finland",
+      "url": "https://madinfinland.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "suomen-autismikirjon-yhdistys",
+      "url": "https://asy.fi/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "moniaaniset-finland",
+      "url": "https://moniaaniset.fi/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "cle-autistes",
+      "url": "https://asso.cle-autistes.fr/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "compagnie-oiseau-mouche",
+      "url": "https://www.oiseau-mouche.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ffdys-france",
+      "url": "http://www.ffdys.com",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "rev-france",
+      "url": "https://revfrance.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "aspies-ev",
+      "url": "https://aspies.de/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autsocial-germany",
+      "url": "https://www.autsocial.de/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "atelier-goldstein",
+      "url": "https://www.atelier-goldstein.de",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autismus-kultur-germany",
+      "url": "https://autismus-kultur.de/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "bvl-germany",
+      "url": "http://www.bvl-legasthenie.de",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "kunstwerkstatt-lebenshilfe-berlin",
+      "url": "http://kunstwerkstatt-lebenshilfe-berlin.de",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-germany",
+      "url": "https://www.madindeutschland.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "netzwerk-stimmenhoeren-germany",
+      "url": "https://stimmenhoeren.de/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "prinzhorn-collection",
+      "url": "https://www.sammlung-prinzhorn.de/en",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "theater-thikwa",
+      "url": "https://www.thikwa.de",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-awareness-care-and-training-centre",
+      "url": "https://aactgh.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "basicneeds-ghana",
+      "url": "https://www.basicneedsghana.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "gspap-greece",
+      "url": "https://www.autismgreece.gr/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "neurodiversity-association-hong-kong",
+      "url": "https://www.ndahk.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hearing-voices-network-greece",
+      "url": "https://hearingvoices.gr/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-greece",
+      "url": "http://madingreece.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "aosz-hungary",
+      "url": "https://www.aosz.hu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mars-foundation-hungary",
+      "url": "https://marsalapitvany.hu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "einhverfusamtokin-iceland",
+      "url": "https://www.einhverfa.is/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hugarafl-iceland",
+      "url": "https://hugarafl.is/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "action-for-autism",
+      "url": "https://www.autism-india.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "bapu-trust",
+      "url": "https://baputrust.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-south-asia",
+      "url": "http://madinsouthasia.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "tci-global",
+      "url": "https://tci-global.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ummeed-child-development-center",
+      "url": "https://www.ummeed.org/about-us",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dyslexia-ireland",
+      "url": "https://www.dyslexia.ie",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "yayasan-mpati",
+      "url": "https://autismindonesia.org/en/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "asiam-ireland",
+      "url": "https://asiam.ie/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hearing-voices-network-ireland",
+      "url": "https://hearingvoicesnetworkireland.ie/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-ireland",
+      "url": "https://madinireland.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "beit-issie-shapiro",
+      "url": "https://beitissie.org.il/en/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "bizchut",
+      "url": "https://www.bizchut.org.il/bizchut-english",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "shutaf-inclusion-programs",
+      "url": "https://shutafinclusionprograms.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "intervoice-italia",
+      "url": "https://www.intervoiceitalia.it/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "aspergeronline",
+      "url": "https://aspergeronline.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "aid-italy",
+      "url": "http://www.aiditalia.org",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-italy",
+      "url": "https://mad-in-italy.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "atelier-incurve",
+      "url": "https://incurve.jp/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "neuropeculiar-italy",
+      "url": "https://neuropeculiar.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "able-art-japan",
+      "url": "https://ableart.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "jddnet",
+      "url": "https://jddnet.jp/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "urakawa-bethel-house",
+      "url": "https://bethel-net.jp/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "adhd-jersey",
+      "url": "https://adhd.je",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "basic-needs-basic-rights-kenya",
+      "url": "https://www.basicneedskenya.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dyslexia-organisation-kenya",
+      "url": "https://dyslexiakenya.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "kaih-kenya",
+      "url": "https://kaihid.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "latvian-autism-association",
+      "url": "https://www.autisms.lv/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "lebanese-autism-society",
+      "url": "https://www.autismlebanon.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "lietaus-vaikai-lithuania",
+      "url": "https://www.lietausvaikai.lt/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-parents-association-malta",
+      "url": "http://www.autismparentsassociation.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fondation-autisme-luxembourg",
+      "url": "https://www.fal.lu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "nasom",
+      "url": "https://www.nasom.org.my/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hearing-voices-malta",
+      "url": "https://hearingvoicesmalta.wixsite.com/hearingvoicesmalta",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autisme-maurice",
+      "url": "https://www.autismemaurice.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autistas-de-mexico-ac",
+      "url": "https://autistasdemexico.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "colectivo-chuhcan-mx",
+      "url": "https://madinmexico.org/conversacion-con-colectivo-chuhcan-a-c/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "sos-autism-moldova",
+      "url": "http://autismmoldova.md/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-association-namibia",
+      "url": "http://www.autism-namibia.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "atelier-herenplaats",
+      "url": "https://www.herenplaats.nl",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autminds-netherlands",
+      "url": "https://www.autminds.nl",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "enusp",
+      "url": "https://enusp.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "stichting-weerklank-netherlands",
+      "url": "https://stichtingweerklank.nl/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-the-netherlands",
+      "url": "https://madinthenetherlands.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "pas-nederland",
+      "url": "https://pasnederland.nl/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "altogether-autism",
+      "url": "https://www.altogetherautism.org.nz/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-new-zealand",
+      "url": "https://autismnz.org.nz/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hearing-voices-aotearoa-nz",
+      "url": "https://hearingvoices.org.nz/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dyslexia-foundation-nigeria",
+      "url": "https://www.dyslexiafoundation.org.ng/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ike-foundation-autism-nigeria",
+      "url": "https://ikefoundationforautism.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mani-nigeria",
+      "url": "https://mentallyaware.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "nigerian-autistic-society",
+      "url": "https://nigerianautisticsociety.org/",
+      "status": 0,
+      "error": "ENOTFOUND"
+    },
+    {
+      "id": "mad-in-norway",
+      "url": "https://www.madinnorway.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "karachi-down-syndrome-program",
+      "url": "https://www.kdsp.org.pk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "porozumienie-autyzm-polska",
+      "url": "https://autyzmpolska.org.pl/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fundacja-adhd-poland",
+      "url": "https://fundacja-adhd.pl",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fundacja-autism-team-poland",
+      "url": "https://autismteam.pl/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "jim-foundation-poland",
+      "url": "https://jim.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "jasna-strona-spektrum-poland",
+      "url": "https://jasnastronaspektrum.pl/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ptd-poland",
+      "url": "http://www.ptd.edu.pl",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fundacja-synapsis",
+      "url": "https://synapsis.org.pl/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "brainstorm-phda",
+      "url": "https://brainstormphda.pt/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-portugal",
+      "url": "http://madinportugal.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "teatro-la-plaza",
+      "url": "https://laplaza.com.pe",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dislex-portugal",
+      "url": "https://www.dislex.co.pt/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "movimento-ouvir-vozes-portugal",
+      "url": "https://ouvirvozes.wordpress.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "voz-do-autista-portugal",
+      "url": "https://vozdoautista.pt/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-puerto-rico",
+      "url": "https://madinpuertorico.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "help-autism-romania",
+      "url": "https://www.helpautism.ro/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "prostor-serbia",
+      "url": "https://prostor.org.rs/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "suntautist-romania",
+      "url": "http://www.suntautist.ro",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-resource-centre-singapore",
+      "url": "https://www.autism.org.sg/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "serbian-society-for-autism",
+      "url": "https://www.autizam.org.rs/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "a-centrum-slovakia",
+      "url": "https://www.a-centrum.net/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "zveza-nvo-avtizem-slovenije",
+      "url": "https://www.zveza-avtizem.eu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-slovenia",
+      "url": "https://www.madinslovenia.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "sposa-slovakia",
+      "url": "https://www.sposa.sk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-somalia-center",
+      "url": "https://autismsomaliacenter.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-south-africa",
+      "url": "https://www.aut2know.co.za/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "cara-uct-south-africa",
+      "url": "https://health.uct.ac.za/cara/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "down-syndrome-south-africa",
+      "url": "https://downsyndrome.org.za/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "safmh-south-africa",
+      "url": "https://www.safmh.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "neurodiversity-foundation-south-africa",
+      "url": "https://neurodiversity.org.za/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "amatdah",
+      "url": "https://amatdah.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "the-key-school-south-africa",
+      "url": "https://www.thekeyschool.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "cepama-spain",
+      "url": "https://cepama.es/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "orgullo-loco-madrid",
+      "url": "https://orgullolocomadrid.wordpress.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-sverige",
+      "url": "https://www.autism.se/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "debajo-del-sombrero",
+      "url": "https://debajodelsombrero.es/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dyslexiforbundet-sweden",
+      "url": "http://www.dyslexi.org",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-sweden",
+      "url": "http://madinsweden.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "organiserade-autister-sweden",
+      "url": "https://autister.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autismus-schweiz",
+      "url": "https://www.autismus.ch/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "netzwerk-stimmenhoeren-schweiz",
+      "url": "https://netzwerk-stimmenhoeren.ch/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "collection-de-lart-brut",
+      "url": "https://artbrut.ch/en/the-museum",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-society-of-taiwan",
+      "url": "https://www.autism.org.tw/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "theater-hora",
+      "url": "https://hora.ch/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "association-of-parent-for-thai-persons-with-autism",
+      "url": "https://autism.autisticthai.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-awareness-uganda",
+      "url": "https://autismawarenessuganda.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "tohum-otizm-vakfi",
+      "url": "https://tohumotizm.org.tr/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "denizli-autism-association-turkey",
+      "url": "https://www.denizliotizm.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "save-children-autism-uganda",
+      "url": "https://www.autismuganda.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "usdc-uganda",
+      "url": "https://www.usdc.or.ug/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "child-with-future-ukraine",
+      "url": "https://www.cwf.com.ua/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dubai-autism-center",
+      "url": "https://www.dubaiautismcenter.ae/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "amase-edinburgh",
+      "url": "https://amase.org.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "argh-scotland",
+      "url": "https://arghscotland.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autscape",
+      "url": "https://www.autscape.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autistic-uk",
+      "url": "https://www.autisticuk.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "bethlem-museum-of-the-mind",
+      "url": "https://museumofthemind.org.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dadafest",
+      "url": "https://www.dadafest.co.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "bda-uk",
+      "url": "http://www.bdadyslexia.org.uk",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "blue-apple-theatre",
+      "url": "https://blueappletheatre.com",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "flow-observatorium",
+      "url": "https://flowobsad.wixsite.com/flow-observatorium",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hearing-voices-network-england",
+      "url": "https://www.hearing-voices.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "heart-n-soul",
+      "url": "https://www.heartnsoul.co.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hijinx-theatre",
+      "url": "https://www.hijinx.org.uk",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mind-the-gap",
+      "url": "https://www.mind-the-gap.org.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mad-in-the-uk",
+      "url": "https://www.madintheuk.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "nsun",
+      "url": "https://www.nsun.org.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "national-autistic-taskforce-uk",
+      "url": "https://nationalautistictaskforce.org.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "neuk-collective",
+      "url": "https://neukcollective.co.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "raw-vision",
+      "url": "https://rawvision.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "parc-participatory-autism-research",
+      "url": "https://participatoryautismresearch.wordpress.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "oska-bright-film-festival",
+      "url": "https://oskabright.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "recovery-in-the-bin",
+      "url": "https://www.recoveryinthebin.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "scottish-adhd-coalition",
+      "url": "https://scottishadhdcoalition.org",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "scottish-autism",
+      "url": "https://www.scottishautism.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "soteria-network-uk",
+      "url": "https://www.soterianetwork.org.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "museum-of-everything",
+      "url": "https://www.museumofeverything.com",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "survivor-researcher-network",
+      "url": "https://www.nsun.org.uk/support/survivor-researcher-network/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "aaspire",
+      "url": "https://aaspire.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "unlimited-uk",
+      "url": "https://weareunlimited.org.uk/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "arts-of-life-chicago",
+      "url": "https://artsoflife.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "asan-autistic-self-advocacy-network",
+      "url": "https://autisticadvocacy.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "autism-in-black",
+      "url": "https://autisminblack.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "auticon-us",
+      "url": "https://auticon.com/us/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "awn-autistic-women-nonbinary-network",
+      "url": "https://awnnetwork.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "camphill-association-of-north-america",
+      "url": "https://camphill.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "chadd-adhd",
+      "url": "https://chadd.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "creative-growth-art-center",
+      "url": "https://www.creativegrowth.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "decoding-dyslexia-ca",
+      "url": "https://www.decodingdyslexiaca.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "creativity-explored",
+      "url": "https://www.creativityexplored.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "decoding-dyslexia-nj",
+      "url": "https://www.decodingdyslexianj.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "decoding-dyslexia-ma",
+      "url": "https://www.decodingdyslexiama.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "different-brains",
+      "url": "https://differentbrains.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fiesta-educativa",
+      "url": "https://fiestaeducativa.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "extraordinary-ventures",
+      "url": "https://extraordinaryventures.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "dyspraxia-foundation-usa",
+      "url": "https://dyspraxiausa.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "fireweed-collective",
+      "url": "https://fireweedcollective.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "foundations-for-divergent-minds",
+      "url": "https://www.divergentminds.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "grasp-ny",
+      "url": "https://grasp.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "green-mountain-self-advocates",
+      "url": "https://gmsavt.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "indiana-resource-center-for-autism",
+      "url": "https://www.iidc.indiana.edu/irca/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "hearing-voices-network-usa",
+      "url": "https://hearingvoicesusa.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "international-ocd-foundation",
+      "url": "https://iocdf.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "intentional-peer-support",
+      "url": "https://www.intentionalpeersupport.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "kansas-university-center-on-disabilities",
+      "url": "https://kucd.ku.edu/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "lda-america",
+      "url": "https://ldaamerica.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "land-gallery",
+      "url": "https://landgallery.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "larche-usa",
+      "url": "https://www.larcheusa.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "mindfreedom-international",
+      "url": "https://mindfreedom.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "ocd-colorado",
+      "url": "https://www.ocdcolorado.org/",
+      "status": 403,
+      "final": "https://ocdcolorado.org/"
+    },
+    {
+      "id": "project-onward",
+      "url": "https://www.projectonward.org/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    },
+    {
+      "id": "wildflower-alliance",
+      "url": "https://wildfloweralliance.org/",
+      "status": 403,
+      "final": "https://wildfloweralliance.org/"
+    },
+    {
+      "id": "thinking-persons-guide-to-autism",
+      "url": "https://www.thinkingautismguide.com/",
+      "status": 0,
+      "error": "UND_ERR_CONNECT_TIMEOUT"
+    }
+  ]
+}
