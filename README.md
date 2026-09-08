@@ -31,7 +31,7 @@ Use the form at `/contribute`, or add a record to a file in `data/seed/` and ope
 
 ## Accessibility
 
-The map is one view. Everything on it is also in the Index as a plain table, and each entry has its own page. Markers are keyboard-focusable, the interface respects `prefers-reduced-motion`, text contrast follows WCAG AA for body copy, and all controls have visible focus states. This is a starting point, not a claim of full accessibility; a professional review is on the roadmap.
+The map is one view. Everything on it is also in the Index as a plain table, and each entry has its own page. The map is mouse and touch; keyboard users reach every entry through the list and the index. The interface respects `prefers-reduced-motion`, text contrast follows WCAG AA for body copy, and all controls have visible focus states. This is a starting point, not a claim of full accessibility; a professional review is on the roadmap.
 
 ## Roadmap
 
@@ -45,7 +45,7 @@ The map is one view. Everything on it is also in the Index as a plain table, and
 
 ## Licenses
 
-Code: MIT. Data: CC BY 4.0. Map tiles: Esri World Light Gray Canvas, with OpenStreetMap contributors.
+Code: MIT. Data: CC BY 4.0. Map: MapLibre with OpenFreeMap vector tiles (OpenMapTiles, OpenStreetMap contributors), recolored in the atlas palette.
 
 ## Lineage
 

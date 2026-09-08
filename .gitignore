@@ -45,3 +45,6 @@ OUTREACH.md
 
 # static export
 out/
+
+# agent scratch files
+scratch_*
