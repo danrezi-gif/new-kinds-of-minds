@@ -1,0 +1,15 @@
+[Unit]
+Description=New Kinds of Minds submissions queue
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/nkm-submissions
+EnvironmentFile=/opt/nkm-submissions/.env
+ExecStart=/usr/bin/node /opt/nkm-submissions/server.mjs
+Restart=always
+RestartSec=3
+User=root
+
+[Install]
+WantedBy=multi-user.target

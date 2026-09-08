@@ -42,3 +42,6 @@ next-env.d.ts
 
 # outreach/private files
 OUTREACH.md
+
+# static export
+out/
