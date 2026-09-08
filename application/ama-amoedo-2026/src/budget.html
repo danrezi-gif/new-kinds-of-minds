@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Budget</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,400..600,0..100,0..1&display=swap" rel="stylesheet">
+<link href="https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600&display=swap" rel="stylesheet">
+<style>
+@page { size: A4; margin: 0; }
+:root { --paper:#f7f4ed; --ink:#211e26; --gold:#a8821f; --spectral:#17877a; --mist:#6e7383; --hair:#c9cbd4; }
+* { box-sizing: border-box; }
+html, body { margin:0; background: var(--paper); color: var(--ink); font-family: "General Sans", Georgia, sans-serif; font-size: 9.5pt; line-height: 1.45; }
+.page { width: 210mm; height: 297mm; overflow: hidden; padding: 14mm 16mm 14mm; page-break-after: always; position: relative; }
+.page:last-child { page-break-after: auto; }
+h1, h2 { font-family: "Fraunces", Georgia, serif; font-weight: 500; letter-spacing: -0.01em; line-height: 1.05; font-variation-settings: "SOFT" 60, "WONK" 1, "opsz" 72; margin: 0; }
+h1 { font-size: 22pt; }
+h2 { font-size: 14pt; margin-top: 6mm; margin-bottom: 2mm; }
+.sub { color: var(--mist); margin: 2mm 0 0; }
+table { width: 100%; border-collapse: collapse; margin-top: 4mm; font-size: 8.6pt; }
+th { text-align: left; font-weight: 500; color: var(--mist); font-size: 8.5pt; padding: 2mm 2mm 2mm 0; border-bottom: 1px solid var(--ink); vertical-align: bottom; }
+td { padding: 1.5mm 2mm 1.5mm 0; border-bottom: 1px solid var(--hair); vertical-align: top; }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+tr.total td { border-top: 1.5px solid var(--gold); border-bottom: 0; font-weight: 600; padding-top: 3mm; }
+.cat { color: var(--mist); font-size: 8.5pt; display: block; }
+.notes { font-size: 8.4pt; color: var(--mist); margin-top: 4mm; max-width: 165mm; }
+.notes p { margin: 0 0 2mm; }
+.foot { position: absolute; bottom: 10mm; left: 18mm; right: 18mm; font-size: 8pt; color: var(--mist); display: flex; justify-content: space-between; border-top: 1px solid var(--hair); padding-top: 2mm; }
+.bar { display: flex; height: 8mm; margin: 4mm 0 2mm; border-radius: 2px; overflow: hidden; }
+.bar span { display: block; height: 100%; }
+.legend { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1mm 6mm; font-size: 9pt; }
+.legend i { display: inline-block; width: 3mm; height: 3mm; margin-right: 2mm; vertical-align: middle; border-radius: 1px; }
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>New Kinds of Minds: A Global Atlas of Neurodiversity</h1>
+  <p class="sub">Phase I: Mapping Latin American Neurodiversity. Budget for January to December 2027, in US dollars.<br>Fundación Ama Amoedo Grants 2026, Art and Social Engagement. Applicant: Daniel Rezinovsky.</p>
+
+  <table>
+    <thead><tr><th>Line item</th><th>What it pays for</th><th class="n">Units</th><th class="n">Unit</th><th class="n">Total</th></tr></thead>
+    <tbody>
+      <tr><td>Regional mapping contributors<span class="cat">Research and mapping</span></td><td>Two contributors (Brazil; Spanish-speaking Latin America), about six months of part-time research and source verification each</td><td class="n">2</td><td class="n">1,300</td><td class="n">2,600</td></tr>
+      <tr><td>Advisory circle honoraria<span class="cat">Community participation</span></td><td>Six neurodivergent advisors from mapped initiatives: two taxonomy sessions and consultation through the year</td><td class="n">6</td><td class="n">200</td><td class="n">1,200</td></tr>
+      <tr><td>Participant-written descriptions and testimonies<span class="cat">Community participation</span></td><td>Fees for initiatives that write their own entries and short testimonies (about 25 at US$20)</td><td class="n">1</td><td class="n">500</td><td class="n">500</td></tr>
+      <tr><td>Interface and visualization development<span class="cat">Artistic development</span></td><td>Trilingual interface, network field for federations and members, extension of the visual system</td><td class="n">1</td><td class="n">1,000</td><td class="n">1,000</td></tr>
+      <tr><td>Data-visual essays<span class="cat">Artistic development</span></td><td>Two commissioned essays on patterns in the Latin American mapping</td><td class="n">2</td><td class="n">350</td><td class="n">700</td></tr>
+      <tr><td>Accessibility review<span class="cat">Accessibility</span></td><td>Review by a neurodivergent-led accessibility consultancy: keyboard, screen reader, cognitive load, motion, plain language in three languages</td><td class="n">1</td><td class="n">700</td><td class="n">700</td></tr>
+      <tr><td>Accessibility implementation<span class="cat">Accessibility</span></td><td>Implementing the review's findings across map, index, entry, and contribution flows</td><td class="n">1</td><td class="n">400</td><td class="n">400</td></tr>
+      <tr><td>Translation and localization<span class="cat">Translation</span></td><td>Interface strings and more than 300 entry summaries in Portuguese, Spanish, and English</td><td class="n">1</td><td class="n">900</td><td class="n">900</td></tr>
+      <tr><td>Online gatherings<span class="cat">Public programming</span></td><td>Three gatherings among mapped initiatives: facilitation, live captioning, interpretation</td><td class="n">3</td><td class="n">200</td><td class="n">600</td></tr>
+      <tr><td>Launch program<span class="cat">Public programming</span></td><td>Public online launch of dataset 1.0 with invited initiatives</td><td class="n">1</td><td class="n">200</td><td class="n">200</td></tr>
+      <tr><td>Domain, hosting, database, API<span class="cat">Technology</span></td><td>Twelve months of infrastructure, geocoding, and backups</td><td class="n">1</td><td class="n">500</td><td class="n">500</td></tr>
+      <tr><td>Documentation and communication<span class="cat">Documentation</span></td><td>Short video, screenshots, printed dossier, outreach to initiatives and research groups</td><td class="n">1</td><td class="n">500</td><td class="n">500</td></tr>
+      <tr><td>Bank transfer and currency costs<span class="cat">Contingency</span></td><td>Transfer fees and conversion on the award and on payments to collaborators</td><td class="n">1</td><td class="n">200</td><td class="n">200</td></tr>
+      <tr class="total"><td colspan="4">Total</td><td class="n">US$ 10,000</td></tr>
+    </tbody>
+  </table>
+
+  <h2>By category</h2>
+  <div class="bar" aria-hidden="true">
+    <span style="width:26%;background:#a8821f"></span>
+    <span style="width:17%;background:#c9a64a"></span>
+    <span style="width:17%;background:#17877a"></span>
+    <span style="width:11%;background:#4fa89a"></span>
+    <span style="width:9%;background:#8fc7bd"></span>
+    <span style="width:8%;background:#211e26"></span>
+    <span style="width:5%;background:#6e7383"></span>
+    <span style="width:5%;background:#9ea2ad"></span>
+    <span style="width:2%;background:#c9cbd4"></span>
+  </div>
+  <div class="legend">
+    <div><i style="background:#a8821f"></i>Research and mapping 2,600 (26%)</div>
+    <div><i style="background:#c9a64a"></i>Community participation 1,700 (17%)</div>
+    <div><i style="background:#17877a"></i>Artistic development 1,700 (17%)</div>
+    <div><i style="background:#4fa89a"></i>Accessibility 1,100 (11%)</div>
+    <div><i style="background:#8fc7bd"></i>Translation 900 (9%)</div>
+    <div><i style="background:#211e26"></i>Public programming 800 (8%)</div>
+    <div><i style="background:#6e7383"></i>Technology 500 (5%)</div>
+    <div><i style="background:#9ea2ad"></i>Documentation 500 (5%)</div>
+    <div><i style="background:#c9cbd4"></i>Contingency 200 (2%)</div>
+  </div>
+
+  <div class="notes">
+    <p>Eighty-eight percent of the budget pays people, participation, artistic production, accessibility, and translation. Infrastructure is small because it already exists: the site is a static export, the dataset is a public file, and the submissions service runs on a shared twelve-dollar server.</p>
+    <p>Nothing is funded retroactively. The platform and its first 102 entries were built before this application; the grant buys the collective year of work that a prototype cannot do alone.</p>
+    <p>All payments to collaborators are fees for work performed during the project period, paid from the award on delivery. No personal expenses, debts, legal costs, or fundraising events are included. Exchange-rate variation is absorbed by the contingency line and, if needed, by the documentation line.</p>
+  </div>
+  <div class="foot"><span>New Kinds of Minds, budget 2027</span><span>Editable version attached as NKM_Budget_AmaAmoedo_2026.xlsx</span></div>
+</div>
+</body>
+</html>
