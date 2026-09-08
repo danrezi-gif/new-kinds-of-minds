@@ -11,7 +11,7 @@
 :root { --paper:#f7f4ed; --ink:#211e26; --gold:#a8821f; --spectral:#17877a; --mist:#6e7383; --hair:#c9cbd4; }
 * { box-sizing: border-box; }
 html, body { margin:0; background: var(--paper); color: var(--ink); font-family: "General Sans", Georgia, sans-serif; font-size: 9.5pt; line-height: 1.45; }
-.page { width: 210mm; height: 297mm; overflow: hidden; padding: 14mm 16mm 14mm; page-break-after: always; position: relative; }
+.page { width: 210mm; height: 297mm; overflow: hidden; padding: 13mm 16mm 16mm; page-break-after: always; position: relative; }
 .page:last-child { page-break-after: auto; }
 h1, h2 { font-family: "Fraunces", Georgia, serif; font-weight: 500; letter-spacing: -0.01em; line-height: 1.05; font-variation-settings: "SOFT" 60, "WONK" 1, "opsz" 72; margin: 0; }
 h1 { font-size: 22pt; }
@@ -58,29 +58,7 @@ tr.total td { border-top: 1.5px solid var(--gold); border-bottom: 0; font-weight
   </table>
 
   <h2>By category</h2>
-  <div class="bar" aria-hidden="true">
-    <span style="width:26%;background:#a8821f"></span>
-    <span style="width:17%;background:#c9a64a"></span>
-    <span style="width:17%;background:#17877a"></span>
-    <span style="width:11%;background:#4fa89a"></span>
-    <span style="width:9%;background:#8fc7bd"></span>
-    <span style="width:8%;background:#211e26"></span>
-    <span style="width:5%;background:#6e7383"></span>
-    <span style="width:5%;background:#9ea2ad"></span>
-    <span style="width:2%;background:#c9cbd4"></span>
-  </div>
-  <div class="legend">
-    <div><i style="background:#a8821f"></i>Research and mapping 2,600 (26%)</div>
-    <div><i style="background:#c9a64a"></i>Community participation 1,700 (17%)</div>
-    <div><i style="background:#17877a"></i>Artistic development 1,700 (17%)</div>
-    <div><i style="background:#4fa89a"></i>Accessibility 1,100 (11%)</div>
-    <div><i style="background:#8fc7bd"></i>Translation 900 (9%)</div>
-    <div><i style="background:#211e26"></i>Public programming 800 (8%)</div>
-    <div><i style="background:#6e7383"></i>Technology 500 (5%)</div>
-    <div><i style="background:#9ea2ad"></i>Documentation 500 (5%)</div>
-    <div><i style="background:#c9cbd4"></i>Contingency 200 (2%)</div>
-  </div>
-
+  <p style="font-size:9pt; margin:0 0 3mm">Research and mapping 2,600 (26%) · Community participation 1,700 (17%) · Artistic development 1,700 (17%) · Accessibility 1,100 (11%) · Translation 900 (9%) · Public programming 800 (8%) · Technology 500 (5%) · Documentation 500 (5%) · Contingency 200 (2%).</p>
   <div class="notes">
     <p>Eighty-eight percent of the budget pays people, participation, artistic production, accessibility, and translation. Infrastructure is small because it already exists: the site is a static export, the dataset is a public file, and the submissions service runs on a shared twelve-dollar server.</p>
     <p>Nothing is funded retroactively. The platform and its first 102 entries were built before this application; the grant buys the collective year of work that a prototype cannot do alone.</p>
