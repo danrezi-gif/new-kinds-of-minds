@@ -2,9 +2,11 @@
 
 **A global atlas of neurodiversity.**
 
-New Kinds of Minds is a participatory map of the organizations, communities, artistic practices, research groups, support networks and alternative institutions through which societies are learning to recognize different kinds of minds.
+[Explore the live atlas](https://new-kinds-of-minds-hub.vercel.app)
 
-**Live:** https://new-kinds-of-minds-hub.vercel.app
+![New Kinds of Minds — world atlas](application/ama-amoedo-2026/screenshots/01-world.png)
+
+New Kinds of Minds is a participatory map of the organizations, communities, artistic practices, research groups, support networks and alternative institutions through which societies are learning to recognize different kinds of minds.
 
 The atlas is not only a directory. Put enough verified initiatives on one map and patterns begin to appear that no single organization can see from inside: where neurodiversity is chiefly treated as advocacy and where as care; which forms of neurodivergence have built institutions; where initiatives are led by neurodivergent people and where they are created on their behalf; which vocabularies and practices cross borders.
 
@@ -19,6 +21,12 @@ The project is both an information infrastructure and a portrait of a movement i
 - `components/` — map, panels, sortable index and contribution interface
 - `server/submissions/` — lightweight public-submission queue
 - `scripts/pull-submissions.mjs` — review workflow for contributed initiatives
+
+## Views of the atlas
+
+| Regional view | Arts and creative practice filter |
+| --- | --- |
+| ![Latin America view](application/ama-amoedo-2026/screenshots/02-latam.png) | ![Arts filter](application/ama-amoedo-2026/screenshots/04-filter-arts.png) |
 
 ## Run it
 
