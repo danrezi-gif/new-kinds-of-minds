@@ -1,11 +1,12 @@
-import BrainArtwork from "@/components/BrainArtwork";
+import BrainEarthWebGL from "@/components/BrainEarthWebGL";
 import { INITIATIVES } from "@/lib/data";
 
 export const metadata = {
-  title: "New Kinds of Minds — BRAIN artwork study",
-  description: "A generative cartography of cognitive difference built from the New Kinds of Minds atlas.",
+  title: "New Kinds of Minds — Earth study",
+  description:
+    "An instrumented WebGL study for the New Kinds of Minds BRAIN artwork.",
 };
 
 export default function BrainStudyPage() {
-  return <BrainArtwork items={INITIATIVES} />;
+  return <BrainEarthWebGL items={INITIATIVES} />;
 }
