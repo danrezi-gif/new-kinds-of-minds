@@ -65,7 +65,7 @@ function brainOutline(ctx: CanvasRenderingContext2D, cx: number, cy: number, s: 
   ctx.strokeStyle = "rgba(244,213,141,0.9)";
   ctx.lineWidth = 0.007;
   ctx.shadowColor = "rgba(244,213,141,0.8)";
-  ctx.shadowBlur = 0.06;
+  ctx.shadowBlur = 18;
   ctx.beginPath();
   ctx.moveTo(0, 0.72);
   ctx.bezierCurveTo(-0.18, 0.76, -0.15, 0.62, -0.26, 0.58);
@@ -319,7 +319,7 @@ export default function BrainArtwork({ items }: { items: Initiative[] }) {
             </h1>
           </div>
           <div className="hidden sm:block text-right text-[0.68rem] tracking-[0.2em] uppercase text-white/45">
-            <p className="m-0">MIT Museum / BRAIN study</p>
+            <p className="m-0">BRAIN / artwork study</p>
             <p className="m-0 mt-1">{items.length} initiatives · live atlas data</p>
           </div>
         </div>
